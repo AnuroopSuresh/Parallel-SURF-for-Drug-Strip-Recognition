@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs_x64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs_x64/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_x64/opencv-2413.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs_x64/poi-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/libs_x64" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
