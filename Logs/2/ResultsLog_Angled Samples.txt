@@ -1,0 +1,382 @@
+Acegesic Angle.png,Result =,Acegesic.dat,Time Taken =,92162
+Ahaglow Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,16846
+Alfoo Angle.jpg,Result =,Sporidex.dat,Time Taken =,28498
+Amflor Angle.jpg,Result =,Sporidex.dat,Time Taken =,21537
+Ampoxin 250 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,137735
+Ampoxin 500 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,204100
+Ampoxin Angle.jpg,Result =,Sporidex.dat,Time Taken =,25618
+Ampoxin kid Angle.jpg,Result =,Femovan.dat,Time Taken =,161865
+Anabel  CT Angle.jpg,Result =,anabel ct.dat,Time Taken =,25804
+Anabel Angle.jpg,Result =,Sporidex.dat,Time Taken =,35156
+Angispan TR Angle.jpg,Result =,Sporidex.dat,Time Taken =,19808
+Anovate Angle.jpg,Result =,Sporidex.dat,Time Taken =,28054
+Antoxid Angle.jpg,Result =,Sporidex.dat,Time Taken =,40218
+Arkamin H Angle.jpg,Result =,C toin 100.dat,Time Taken =,61062
+Aroff SR Angle.jpg,Result =,Sporidex.dat,Time Taken =,69467
+Arumin gel Angle.jpg,Result =,Sporidex.dat,Time Taken =,37919
+Astharid T Angle.jpg,Result =,Sporidex.dat,Time Taken =,59036
+Asthraid Plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,72706
+Atocor 40 Angle.jpg,Result =,Sporidex.dat,Time Taken =,38510
+Azulix 1 Angle.png,Result =,Sporidex.dat,Time Taken =,132757
+Azulix 1 MF Angle.png,Result =,Sporidex.dat,Time Taken =,85671
+Azulix 2 Angle.png,Result =,Sporidex.dat,Time Taken =,124591
+Azulix 2 MF Angle.png,Result =,Sporidex.dat,Time Taken =,126936
+Azulix 3 MF Angle.png,Result =,Sporidex.dat,Time Taken =,128026
+Azulix 4 MF ANgle.png,Result =,Sporidex.dat,Time Taken =,195357
+B Long Angle.png,Result =,Sporidex.dat,Time Taken =,90336
+Barbitoin Angle.png,Result =,Sporidex.dat,Time Taken =,112287
+BecoZinc Angle.jpg,Result =,Sporidex.dat,Time Taken =,68464
+Becozinc H Angle.jpg,Result =,Sporidex.dat,Time Taken =,47439
+Benadryl Syrp Angle.jpg,Result =,Sporidex.dat,Time Taken =,26847
+Beta -Nicardia Angle.jpg,Result =,Sporidex.dat,Time Taken =,59719
+Betacard AM Angle.png,Result =,Sporidex.dat,Time Taken =,110376
+Biminox LF Angle.jpg,Result =,Sporidex.dat,Time Taken =,75563
+Brakke Angle.jpg,Result =,Sporidex.dat,Time Taken =,80808
+Bromex A Angle.jpg,Result =,Sporidex.dat,Time Taken =,36426
+C Toin 100 Angle.jpg,Result =,Sporidex.dat,Time Taken =,25682
+Capnyl Angle.jpg,Result =,Sporidex.dat,Time Taken =,78782
+carbatol cr 200 angle.png,Result =,Sporidex.dat,Time Taken =,139406
+carbatol cr 400 angle.png,Result =,Sporidex.dat,Time Taken =,101315
+carnisure plus angle.png,Result =,Minoz BPO.dat,Time Taken =,84585
+Carti safe d Angle.jpg,Result =,Sporidex.dat,Time Taken =,82013
+Cartilite 750 Angle.jpg,Result =,Sporidex.dat,Time Taken =,60223
+change angle.png,Result =,Sporidex.dat,Time Taken =,104127
+Chymoral AP Angle.png,Result =,Sporidex.dat,Time Taken =,104632
+Chymoral Forte Angle.png,Result =,Sporidex.dat,Time Taken =,141696
+Chymoral plus Angle.png,Result =,Sporidex.dat,Time Taken =,113053
+cilacar 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,75864
+Cilacar 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,80409
+Cilacar 5 Angle.jpg,Result =,Sporidex.dat,Time Taken =,72670
+Cilacar m Angle.jpg,Result =,Sporidex.dat,Time Taken =,101386
+Citralka Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,38276
+Clamp 625 Angle.jpg,Result =,Sporidex.dat,Time Taken =,80500
+Clodtel Plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,159095
+Clotan Angle.png,Result =,Sporidex.dat,Time Taken =,94918
+Colgin Angle.jpg,Result =,Sporidex.dat,Time Taken =,67856
+Colicure Angle.jpg,Result =,Sporidex.dat,Time Taken =,87909
+Colicure syrup Angle.jpg,Result =,Sporidex.dat,Time Taken =,47733
+Combimist l Angle.jpg,Result =,Sporidex.dat,Time Taken =,28605
+Combimist L sachet Angle.jpg,Result =,Sporidex.dat,Time Taken =,103962
+Complamina Angle.jpg,Result =,Sporidex.dat,Time Taken =,43709
+Complamina retard 500 Angle.jpg,Result =,Sporidex.dat,Time Taken =,59098
+Corbis 5 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,160325
+cordarone angle.png,Result =,Sporidex.dat,Time Taken =,163878
+cordarone x angle.png,Result =,Sporidex.dat,Time Taken =,127932
+Corvadil A Angle.jpg,Result =,Modlip 10.dat,Time Taken =,94391
+covance at Angle.jpg,Result =,Modlip 10.dat,Time Taken =,130779
+Covance D Angle.jpg,Result =,Sporidex.dat,Time Taken =,93538
+Crolim power ointment Angle.jpg,Result =,Sporidex.dat,Time Taken =,19812
+Cyclenorm P Angle.jpg,Result =,Sporidex.dat,Time Taken =,41814
+deplatt a 150 angle.png,Result =,Sporidex.dat,Time Taken =,94765
+deplatt a 75 angle.png,Result =,Sporidex.dat,Time Taken =,154387
+DEplatt Angle.png,Result =,Sporidex.dat,Time Taken =,133018
+deplatt cv 20 angle.png,Result =,Sporidex.dat,Time Taken =,163158
+Deriphyllin M Angle.jpg,Result =,diclogesic rr injection.dat,Time Taken =,172117
+Deriphyllin OD 300 Angle.jpg,Result =,Sporidex.dat,Time Taken =,75719
+Deriphyllin OD 450 Angle.jpg,Result =,Sporidex.dat,Time Taken =,88955
+Deriphyllin retard 150 Angle.jpg,Result =,Sporidex.dat,Time Taken =,102784
+Derisone l Angle.png,Result =,Sporidex.dat,Time Taken =,58391
+Dexorange caps Angle.jpg,Result =,Sporidex.dat,Time Taken =,41445
+Diane 35 Angle.jpg,Result =,Diane 35.dat,Time Taken =,51191
+Diataal Angle.jpg,Result =,Sporidex.dat,Time Taken =,86328
+Diataal D Angle.jpg,Result =,Sporidex.dat,Time Taken =,66781
+Diavit plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,70662
+dibetic gb angle.png,Result =,Sporidex.dat,Time Taken =,115077
+diclogesic angle.png,Result =,Femovan.dat,Time Taken =,210292
+diclogesic rr injection angle.png,Result =,Sporidex.dat,Time Taken =,95135
+diclogesic sp angle.png,Result =,Sporidex.dat,Time Taken =,167465
+Dicloran A Angle.jpg,Result =,Sporidex.dat,Time Taken =,114392
+Diprovate plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,34182
+Domstal Angle.jpg,Result =,Sporidex.dat,Time Taken =,22866
+Domstal Baby Angle.jpg,Result =,Sporidex.dat,Time Taken =,29500
+domstal dt angle.png,Result =,Sporidex.dat,Time Taken =,90363
+Domstal O Angle.png,Result =,Sporidex.dat,Time Taken =,176964
+Domstal RD Angle.png,Result =,Sporidex.dat,Time Taken =,152506
+Doxolin Angle.jpg,Result =,Sporidex.dat,Time Taken =,109952
+Doxt sl Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,121734
+Drego D Angle.jpg,Result =,Sporidex.dat,Time Taken =,110564
+Droxyl 250 DT ANgle.png,Result =,Sporidex.dat,Time Taken =,96905
+Droxyl 500 Angle.png,Result =,Sporidex.dat,Time Taken =,169963
+droxyl clav 500 Angle.png,Result =,Minoz BPO.dat,Time Taken =,181033
+Duoluton L Angle.jpg,Result =,Sporidex.dat,Time Taken =,18987
+Duotrol Angle.jpg,Result =,Sporidex.dat,Time Taken =,42587
+Dutas T Angle.jpg,Result =,Sporidex.dat,Time Taken =,92159
+dycotiam angle.png,Result =,Sporidex.dat,Time Taken =,113464
+Dynapres 04 Angle.jpg,Result =,Sporidex.dat,Time Taken =,86747
+EcoSprin 75 Angle.jpg,Result =,Sporidex.dat,Time Taken =,99403
+EcoSprin av 150 Angle.jpg,Result =,Shy XT.dat,Time Taken =,218168
+Ecosprin av 150_20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,212299
+Ecosprin gold 20 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,239042
+Elcure Angle.jpg,Result =,Sporidex.dat,Time Taken =,115821
+Emgard 60 Angle.jpg,Result =,Sporidex.dat,Time Taken =,66744
+Emlukast FX Angle.jpg,Result =,Sporidex.dat,Time Taken =,146897
+Emsolone 10 DT Angle.jpg,Result =,Sporidex.dat,Time Taken =,109660
+Emsolone 5 DT Angle.jpg,Result =,Sporidex.dat,Time Taken =,74847
+Ena Fix Angle.jpg,Result =,Sporidex.dat,Time Taken =,24413
+Enam 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,113066
+Enam 25 Angle.jpg,Result =,Sporidex.dat,Time Taken =,70064
+Erytop Angle.jpg,Result =,Sporidex.dat,Time Taken =,18203
+Euspas D Angle.jpg,Result =,Sporidex.dat,Time Taken =,32507
+Femovan Angle.jpg,Result =,Sporidex.dat,Time Taken =,23013
+Finehart Angle.jpg,Result =,Sporidex.dat,Time Taken =,40730
+Flavospas Angle.png,Result =,Sporidex.dat,Time Taken =,57769
+Folsafe L Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,130978
+Formonide 100 Angle.jpg,Result =,Sporidex.dat,Time Taken =,39717
+Formonide 200 Angle.jpg,Result =,Sporidex.dat,Time Taken =,50846
+Formonide 400 Angle.jpg,Result =,Sporidex.dat,Time Taken =,44613
+Gelusil Original Angle.jpg,Result =,Sporidex.dat,Time Taken =,100260
+Gemvert Angle.jpg,Result =,Sporidex.dat,Time Taken =,55718
+Gentalene Angle.jpg,Result =,Sporidex.dat,Time Taken =,29338
+Gerbisa ANgle.jpg,Result =,Minoz BPO.dat,Time Taken =,81668
+Gerbisa tab Angle.jpg,Result =,Sporidex.dat,Time Taken =,88731
+Gla 120 Angle.jpg,Result =,Sporidex.dat,Time Taken =,102341
+Glide ANgle.jpg,Result =,Sporidex.dat,Time Taken =,38816
+Glimet Angle.jpg,Result =,Sporidex.dat,Time Taken =,37448
+Glimet DS Angle.jpg,Result =,Sporidex.dat,Time Taken =,72215
+Glimy 1 Angle.jpg,Result =,Sporidex.dat,Time Taken =,57610
+Glimy M Angle.jpg,Result =,Sporidex.dat,Time Taken =,54544
+Globac z Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,225408
+Glodent Angle.jpg,Result =,Sporidex.dat,Time Taken =,37062
+Glucomet trio 2_0.3 Angle.jpg,Result =,Sporidex.dat,Time Taken =,66440
+Glucotrol MF angle.jpg,Result =,Sporidex.dat,Time Taken =,31277
+Glyciphage 850 Angel.jpg,Result =,Sporidex.dat,Time Taken =,123725
+Glyciphage Angle.jpg,Result =,Sporidex.dat,Time Taken =,90593
+Glyciphage g1 Forte Angle.jpg,Result =,Sporidex.dat,Time Taken =,54740
+Glyciphage g2 angle.jpg,Result =,Sporidex.dat,Time Taken =,72798
+Glyciphage G2 Forte Angle.jpg,Result =,Sporidex.dat,Time Taken =,80175
+Glyciphage pg2 Angle.jpg,Result =,Sporidex.dat,Time Taken =,84642
+Glycomet 1 GM Angle.jpg,Result =,Sporidex.dat,Time Taken =,113750
+Glycomet 850 Angle.jpg,Result =,Sporidex.dat,Time Taken =,96540
+Glycomet 850 SR Angle.jpg,Result =,Sporidex.dat,Time Taken =,83418
+Glycomet gp 0.5 forte Angle.jpg,Result =,Sporidex.dat,Time Taken =,105430
+Glycomet gp 1 Angle.jpg,Result =,Sporidex.dat,Time Taken =,97244
+Glycomet gp 2 Angle.jpg,Result =,Sporidex.dat,Time Taken =,110255
+Glyp TEN Angle.jpg,Result =,Sporidex.dat,Time Taken =,46796
+Grilinctus BM Angle.jpg,Result =,Sporidex.dat,Time Taken =,41540
+Happi Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,151653
+Happi D Angle.jpg,Result =,Sudex-AR.dat,Time Taken =,166083
+Hemogold Angle.jpg,Result =,Sporidex.dat,Time Taken =,47617
+Herfem Angle.jpg,Result =,Moisturex soft.dat,Time Taken =,39122
+hqtor angle.png,Result =,Sporidex.dat,Time Taken =,111728
+Hydroheal am Angle.jpg,Result =,Sporidex.dat,Time Taken =,38865
+Hyocimar s CR Angle.jpg,Result =,Sporidex.dat,Time Taken =,80022
+Hyocimax S Angle.jpg,Result =,Femovan.dat,Time Taken =,125851
+Ibuclin P Angle.jpg,Result =,IBUCLIN P.dat,Time Taken =,131834
+Izra 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,152280
+Jalra 50 Angle.jpg,Result =,Sporidex.dat,Time Taken =,62152
+Jalra M 50 Angle.jpg,Result =,Sporidex.dat,Time Taken =,85586
+Juliana Angle.jpg,Result =,Sporidex.dat,Time Taken =,23638
+Ketorol Angle.jpg,Result =,Sporidex.dat,Time Taken =,61892
+Ketorol DT angle.jpg,Result =,KETOROL DT.dat,Time Taken =,65561
+lamitor dt 25 angle.png,Result =,Sporidex.dat,Time Taken =,123564
+lamitor dt 50 angle.png,Result =,Sporidex.dat,Time Taken =,124059
+Le Zyncet Angle.jpg,Result =,Sporidex.dat,Time Taken =,72738
+lefra 10 angle.png,Result =,Sporidex.dat,Time Taken =,101439
+lefra 20 angle.png,Result =,Sporidex.dat,Time Taken =,185183
+Leon 500 Angle.jpg,Result =,Sporidex.dat,Time Taken =,63132
+Libtone Forte Angle.jpg,Result =,Sporidex.dat,Time Taken =,97305
+Lipcard Angle.jpg,Result =,Sporidex.dat,Time Taken =,81718
+Lipicard 160 Angle.jpg,Result =,Sporidex.dat,Time Taken =,96294
+Lipicard AV Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,127383
+Listerine Angle.jpg,Result =,Sporidex.dat,Time Taken =,41426
+listril 5 angle.png,Result =,Sporidex.dat,Time Taken =,121071
+lopamide angle.png,Result =,Sporidex.dat,Time Taken =,106921
+Loram 5 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,184302
+lorvas angle.png,Result =,KETOROL DT.dat,Time Taken =,104393
+Losar 25 Angle.jpg,Result =,Sporidex.dat,Time Taken =,109095
+Losar A Angle.jpg,Result =,Sporidex.dat,Time Taken =,86387
+Losar Beta Angle.jpg,Result =,Sporidex.dat,Time Taken =,123612
+Losar H Angle.jpg,Result =,Sporidex.dat,Time Taken =,120916
+Mashyne 1000 Angle.jpg,Result =,Sporidex.dat,Time Taken =,127760
+Medle Angle.jpg,Result =,Sporidex.dat,Time Taken =,44965
+Medler plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,37393
+Medomol 300 Angle.png,Result =,Sporidex.dat,Time Taken =,75527
+Medomol 500 Angle.png,Result =,Sporidex.dat,Time Taken =,105037
+Medomol 650 Angle.jpg,Result =,Sporidex.dat,Time Taken =,89999
+Megatrum Angle.jpg,Result =,Sporidex.dat,Time Taken =,29011
+Melancoyl Angle.jpg,Result =,Sporidex.dat,Time Taken =,30151
+Melanocyl oint Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,44009
+Melanocyl Tab Angle.jpg,Result =,Sporidex.dat,Time Taken =,57603
+Meprocin Angle.jpg,Result =,Sporidex.dat,Time Taken =,49501
+Meprocin syrp Angle.jpg,Result =,Sporidex.dat,Time Taken =,35255
+Metocard XL 50 Angle.png,Result =,Sporidex.dat,Time Taken =,110809
+Metorgyl Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,30548
+Metrodif MPS Angle.jpg,Result =,Sporidex.dat,Time Taken =,58915
+metsmall 500 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,84939
+Metzok 25 Angle.jpg,Result =,Sporidex.dat,Time Taken =,61795
+miliana Angle.jpg,Result =,Sporidex.dat,Time Taken =,39937
+Minoz bpo Angle.jpg,Result =,Sporidex.dat,Time Taken =,34750
+Mintop 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,39202
+Mobizox Angle.jpg,Result =,Sporidex.dat,Time Taken =,123351
+Modlip 10 Angle.png,Result =,Sporidex.dat,Time Taken =,110549
+Modlip asg 75 angle.png,Result =,Sporidex.dat,Time Taken =,187749
+Moisturex Angle.jpg,Result =,Moisturex soft.dat,Time Taken =,29705
+Moisturex soft Angle.jpg,Result =,Sporidex.dat,Time Taken =,41523
+Naturogest 200 ANgle.jpg,Result =,Sporidex.dat,Time Taken =,141762
+Naturogest 300 Angle.jpg,Result =,Sporidex.dat,Time Taken =,121908
+Naturogest AQ 25 Angle.jpg,Result =,Sporidex.dat,Time Taken =,37507
+Naturogest SR 200 Angle.jpg,Result =,Sporidex.dat,Time Taken =,107687
+Natvie Angle.jpg,Result =,Sporidex.dat,Time Taken =,41593
+Nebicard 25 Angle.png,Result =,Nebicard 25.dat,Time Taken =,139101
+Nebicard SM Angle.png,Result =,Sporidex.dat,Time Taken =,143714
+Neotomic Enema Angle.jpg,Result =,Sporidex.dat,Time Taken =,43576
+Nervijen D Angle.jpg,Result =,Sporidex.dat,Time Taken =,84091
+Nervijen Inject Angle.jpg,Result =,Sporidex.dat,Time Taken =,37618
+Nervijen P Angle.jpg,Result =,Shy XT.dat,Time Taken =,96987
+Nervijen plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,42943
+Nervijen XT Angle.jpg,Result =,Sporidex.dat,Time Taken =,64592
+Nexpro 40 Angle.png,Result =,Sporidex.dat,Time Taken =,134155
+Nexpro Fast 20 Angle.png,Result =,Sporidex.dat,Time Taken =,136829
+Nexpro RD 20 Angle.png,Result =,Sporidex.dat,Time Taken =,130512
+Nexpro RD 40 Angle.png,Result =,Sporidex.dat,Time Taken =,160535
+Nexxpro 20 Angle.png,Result =,Sporidex.dat,Time Taken =,142393
+Nicardia CD Retard 30 angle.jpg,Result =,Sporidex.dat,Time Taken =,153405
+Nicardia Retard 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,119200
+Nimodip Angle.jpg,Result =,Sporidex.dat,Time Taken =,116274
+Nise gel Angle.jpg,Result =,Sporidex.dat,Time Taken =,48749
+nor metrogyl plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,118509
+Odimont LC Angle.jpg,Result =,Sporidex.dat,Time Taken =,101812
+Odimont LC Angle.png,Result =,Sporidex.dat,Time Taken =,113473
+OF 200 Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,163612
+Ojen 200 Angle.jpg,Result =,Sporidex.dat,Time Taken =,54422
+Olsar H 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,132113
+Omez 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,138210
+Omez 40 Angle.jpg,Result =,Sporidex.dat,Time Taken =,34616
+Omez Angle.jpg,Result =,Sporidex.dat,Time Taken =,37045
+omez caps Angle.jpg,Result =,Sporidex.dat,Time Taken =,106695
+Omez d Angle.jpg,Result =,Sporidex.dat,Time Taken =,129581
+Omez ff 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,50174
+Omez Insta Angle.jpg,Result =,Sporidex.dat,Time Taken =,19601
+Omnident Angle.jpg,Result =,Sporidex.dat,Time Taken =,73256
+One up gold D Angle.png,Result =,Sporidex.dat,Time Taken =,124981
+Orcibest Angle.jpg,Result =,Sporidex.dat,Time Taken =,128933
+Oxybuta Angle.jpg,Result =,Sporidex.dat,Time Taken =,95342
+P Cool Angle.jpg,Result =,Sporidex.dat,Time Taken =,44028
+Pecef 200 Angle.jpg,Result =,Sporidex.dat,Time Taken =,164625
+Pevesca plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,165398
+Pioz MFG 1 Angle.jpg,Result =,Sporidex.dat,Time Taken =,95550
+Powergesic Angle.jpg,Result =,Sporidex.dat,Time Taken =,64005
+Powergesic gel Angle.jpg,Result =,Sporidex.dat,Time Taken =,33052
+Prax 10 Angle.png,Result =,Sporidex.dat,Time Taken =,76830
+Pregalin 75 Angle.png,Result =,Sporidex.dat,Time Taken =,166189
+Pregnedoxin Angle.jpg,Result =,Sporidex.dat,Time Taken =,67859
+Prexan Angle.png,Result =,Sporidex.dat,Time Taken =,148877
+Progynova 2mg Angle.jpg,Result =,Sporidex.dat,Time Taken =,109781
+Prolise Angle.jpg,Result =,Sporidex.dat,Time Taken =,54473
+Proluton Depot Angle.jpg,Result =,Proluton depot.dat,Time Taken =,111233
+R bex Angle.jpg,Result =,Moisturex soft.dat,Time Taken =,39794
+Rantac 150 Angle.jpg,Result =,Sporidex.dat,Time Taken =,210541
+Rantac 300 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,219370
+Rantac Inject Angle.jpg,Result =,Rantac Inject.dat,Time Taken =,111674
+Ranx 500 Angle.jpg,Result =,Sporidex.dat,Time Taken =,68524
+Reclide 40 Angle.jpg,Result =,Sporidex.dat,Time Taken =,168853
+Reclide Angle.jpg,Result =,Sporidex.dat,Time Taken =,198900
+Reclimet Angle.jpg,Result =,Sporidex.dat,Time Taken =,43898
+Redotil Angle.jpg,Result =,Sporidex.dat,Time Taken =,55534
+Regulate Angle.jpg,Result =,Sporidex.dat,Time Taken =,38455
+Relaxyl gel Angle.jpg,Result =,Sporidex.dat,Time Taken =,72365
+Relent Angle.jpg,Result =,Sporidex.dat,Time Taken =,53816
+Resophyl 150 Angle.jpg,Result =,Sporidex.dat,Time Taken =,53216
+Resophyl 150 Tab Angle.jpg,Result =,Sporidex.dat,Time Taken =,77986
+Resophyl Forte Angle.jpg,Result =,Sporidex.dat,Time Taken =,90669
+Ret oz 60 Angle.jpg,Result =,Sporidex.dat,Time Taken =,46801
+RoseDay A 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,165758
+RoseDay f 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,102151
+Rozat 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,110245
+Rozat F Angle.jpg,Result =,Sporidex.dat,Time Taken =,112249
+Rozucor 5 Angle.png,Result =,Sporidex.dat,Time Taken =,86408
+Rozucor ASP 10 Angle.png,Result =,Sporidex.dat,Time Taken =,241364
+Servil Angle.jpg,Result =,Sporidex.dat,Time Taken =,34777
+Servil baby Angle.jpg,Result =,Sporidex.dat,Time Taken =,27071
+Sevista Angle.jpg,Result =,Sporidex.dat,Time Taken =,116343
+Shelcal 250 ANgle.png,Result =,Sporidex.dat,Time Taken =,167945
+Shelcal 500 Angle.png,Result =,Sporidex.dat,Time Taken =,113224
+Shelcal HD 12 Angle.png,Result =,Sporidex.dat,Time Taken =,106137
+Shelcal M Angle.png,Result =,Sporidex.dat,Time Taken =,122821
+Shelcal os Angle.png,Result =,Sporidex.dat,Time Taken =,142519
+SHY Angle.jpg,Result =,Sporidex.dat,Time Taken =,77308
+SHY NM Angle.jpg,Result =,Sporidex.dat,Time Taken =,53812
+Shy OR Angle.jpg,Result =,Sporidex.dat,Time Taken =,43662
+SHY XT Angle.jpg,Result =,Sporidex.dat,Time Taken =,34262
+Siloderm Angle.jpg,Result =,Sporidex.dat,Time Taken =,50336
+Siloderm Mixi Angle.jpg,Result =,Sporidex.dat,Time Taken =,42553
+SkinLite Cream ANgle.jpg,Result =,Sporidex.dat,Time Taken =,49549
+Sporidex 125 Angle.jpg,Result =,Sporidex.dat,Time Taken =,202444
+Sporidex 500 Angle.jpg,Result =,Sporidex.dat,Time Taken =,146598
+Sporidex Angle.jpg,Result =,Sporidex.dat,Time Taken =,50678
+Sporidex drops Angle.jpg,Result =,Sporidex.dat,Time Taken =,42998
+Stamio Beta Angle.jpg,Result =,Sporidex.dat,Time Taken =,123430
+Stamla t Angle.jpg,Result =,Sporidex.dat,Time Taken =,66053
+Stamlo 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,150755
+Stamlo 25 Angle.jpg,Result =,Shy XT.dat,Time Taken =,152668
+Stamlo T.jpg,Result =,Sporidex.dat,Time Taken =,98386
+Storvas 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,97691
+Storvas 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,126907
+Storvas 40 Angle.jpg,Result =,Sporidex.dat,Time Taken =,126517
+Styptovit E Angle.jpg,Result =,Sporidex.dat,Time Taken =,92420
+Sudex AR Angle.jpg,Result =,Sporidex.dat,Time Taken =,34993
+Sudin cold Angle.jpg,Result =,Sporidex.dat,Time Taken =,82293
+Sudin D Angle.jpg,Result =,Sporidex.dat,Time Taken =,50209
+Sulisert Angle.jpg,Result =,Sporidex.dat,Time Taken =,95053
+Surfaz Angle.jpg,Result =,Sporidex.dat,Time Taken =,62701
+Surfaz sn ANgle.jpg,Result =,Sporidex.dat,Time Taken =,53814
+Tabi Angle.jpg,Result =,Sporidex.dat,Time Taken =,22893
+Tazloc 10 Angle.jpg,Result =,Sporidex.dat,Time Taken =,110714
+Tazloc H Angle.jpg,Result =,Sporidex.dat,Time Taken =,122078
+Tazloc Trio 80 Angle.jpg,Result =,Sporidex.dat,Time Taken =,61881
+Teczine Angle.jpg,Result =,Sporidex.dat,Time Taken =,78112
+Teczine M Angle.jpg,Result =,Sporidex.dat,Time Taken =,154499
+Teldau 20 angle.jpg,Result =,Sporidex.dat,Time Taken =,83373
+Telday 40 Angle.jpg,Result =,Sporidex.dat,Time Taken =,153001
+Telday 80 H Angle.jpg,Result =,Sporidex.dat,Time Taken =,163623
+Telday AM ANgle .jpg,Result =,Minoz BPO.dat,Time Taken =,123445
+Telday H Angle.jpg,Result =,Sporidex.dat,Time Taken =,161576
+Telsar 20 Angle.jpg,Result =,myotan 40.dat,Time Taken =,147695
+Telsartan 40 Angle.jpg,Result =,Sporidex.dat,Time Taken =,88425
+Telsartan H Angle.jpg,Result =,Shy XT.dat,Time Taken =,65631
+TG TOR 5 Angle.jpg,Result =,Sporidex.dat,Time Taken =,123427
+Tide 10 Angle.jpg,Result =,C toin 100.dat,Time Taken =,118291
+Tide 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,121754
+Tide 5 Angle.jpg,Result =,Femovan.dat,Time Taken =,96059
+Tolol AM 50 Angle.jpg,Result =,Sporidex.dat,Time Taken =,106291
+Tolol XR 50 Angle.jpg,Result =,Sporidex.dat,Time Taken =,150063
+Topcef 100 Dt Angle.jpg,Result =,Sporidex.dat,Time Taken =,149096
+Topcef 200 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,186203
+Topcef o 200 Angle.jpg,Result =,Shy XT.dat,Time Taken =,124579
+Topcid 40 Angle.jpg,Result =,diclogesic rr injection.dat,Time Taken =,130994
+torkast fx angle.png,Result =,Sudex-AR.dat,Time Taken =,207657
+Torleva 500 Angle.jpg,Result =,Sporidex.dat,Time Taken =,82003
+Tozaar 50 Angle.jpg,Result =,Sporidex.dat,Time Taken =,133009
+Tozaar H Angle.jpg,Result =,Sporidex.dat,Time Taken =,120840
+Triben B Angle.jpg,Result =,Sporidex.dat,Time Taken =,41299
+Triben plus Angle.jpg,Result =,Sporidex.dat,Time Taken =,42612
+Triglynase 1 Angle.jpg,Result =,Sporidex.dat,Time Taken =,134868
+Triglynase 2 Angle.jpg,Result =,Sporidex.dat,Time Taken =,103693
+Triglynase 2 Forte Angle.jpg,Result =,Sporidex.dat,Time Taken =,122384
+TripleACal Angle.jpg,Result =,Sporidex.dat,Time Taken =,51540
+Triquilar Angle.jpg,Result =,Triquilar.dat,Time Taken =,22325
+Tuka 05 ANgle.jpg,Result =,Sporidex.dat,Time Taken =,104180
+Unistar 75 Angle.jpg,Result =,Sporidex.dat,Time Taken =,146568
+Valparin 200 Angle.jpg,Result =,Sporidex.dat,Time Taken =,233201
+Valparin 200 syrp Angle.jpg,Result =,Sporidex.dat,Time Taken =,82855
+Valparin chrono 200 Angle.jpg,Result =,Sporidex.dat,Time Taken =,232392
+Valparin chrono 300 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,205562
+Veloz 20 Angle.jpg,Result =,Sporidex.dat,Time Taken =,134685
+Veloz l Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,134682
+Veloz M Angle.jpg,Result =,Sporidex.dat,Time Taken =,154126
+Vibact Angle.jpg,Result =,Sporidex.dat,Time Taken =,193557
+Vibact DS Angle.jpg,Result =,Sporidex.dat,Time Taken =,154170
+Vibrania Angle.jpg,Result =,Sporidex.dat,Time Taken =,90802
+Vizlac Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,225952
+Vobose 0.2 Angle.jpg,Result =,Sporidex.dat,Time Taken =,47206
+Vobose m 0.3 Angle.jpg,Result =,Sporidex.dat,Time Taken =,60721
+Voglitor MD 03 Angle.jpg,Result =,Sporidex.dat,Time Taken =,97500
+Voglitor Mf 03 ANgle.jpg,Result =,Sporidex.dat,Time Taken =,118255
+volini angle.png,Result =,Domstal.dat,Time Taken =,31759
+Xanilax SR 200 Angle.jpg,Result =,Sporidex.dat,Time Taken =,94811
+Xylomist p Angle.jpg,Result =,Sporidex.dat,Time Taken =,43152
+Yasmin Angle.jpg,Result =,yasmin.dat,Time Taken =,71287
+Zabesta AM Angle.jpg,Result =,Sporidex.dat,Time Taken =,105506
+Zedott Angle.jpg,Result =,Sporidex.dat,Time Taken =,155033
+Zoftadol plus Angle.png,Result =,Shy XT.dat,Time Taken =,114115
+Zosta 10 Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,97453

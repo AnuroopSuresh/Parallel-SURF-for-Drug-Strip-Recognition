@@ -1,0 +1,380 @@
+Acegesic.png,Result =,Acegesic.dat,Time Taken =,196618
+Ahaglow.jpg,Result =,Rantac Inject.dat,Time Taken =,37403
+Alfoo.jpg,Result =,OMEZ.dat,Time Taken =,93574
+Amflor.jpg,Result =,Amflor.dat,Time Taken =,34044
+Ampoxin 250.jpg,Result =,Ampoxin 250.dat,Time Taken =,154920
+Ampoxin 500.jpg,Result =,Naturgest AQ25.dat,Time Taken =,201642
+Ampoxin kid.jpg,Result =,Ampoxin kid.dat,Time Taken =,300294
+Ampoxin.jpg,Result =,Pediflor.dat,Time Taken =,50204
+Anabel  CT.jpg,Result =,anabel ct.dat,Time Taken =,43892
+Anabel.jpg,Result =,Anabel.dat,Time Taken =,47173
+Angispan TR.jpg,Result =,Angispan TR.dat,Time Taken =,36798
+Anovate.jpg,Result =,OMEZ.dat,Time Taken =,32760
+Antoxid.jpg,Result =,Pediflor.dat,Time Taken =,71364
+Arkamin H.jpg,Result =,OF suspension.dat,Time Taken =,110679
+Aroff SR.jpg,Result =,nise gel.dat,Time Taken =,136751
+Arumin gel.jpg,Result =,Medomol 300.dat,Time Taken =,63499
+Astharid Plus.jpg,Result =,OMEZ.dat,Time Taken =,122591
+Astharid T.jpg,Result =,Senquel F.dat,Time Taken =,96046
+Atocor 40.jpg,Result =,Pediflor.dat,Time Taken =,107470
+Azulix 1 MF.png,Result =,Pediflor.dat,Time Taken =,141270
+Azulix 1.png,Result =,Azulix 1.dat,Time Taken =,253836
+Azulix 2 MF.png,Result =,Shy XT.dat,Time Taken =,186725
+Azulix 2.png,Result =,Azulix 2.dat,Time Taken =,1151134
+Azulix 3 MF.png,Result =,Azulix 3 MF.dat,Time Taken =,223857
+Azulix 4 MF.png,Result =,Azulix 4 MF.dat,Time Taken =,216896
+B Long.png,Result =,Pediflor.dat,Time Taken =,209875
+Barbitoin.png,Result =,Barbitoin.dat,Time Taken =,210896
+Becozinc H.jpg,Result =,Pediflor.dat,Time Taken =,72247
+BecoZinc.jpg,Result =,Pediflor.dat,Time Taken =,127213
+Benadryl DR.jpg,Result =,OMEZ.dat,Time Taken =,86210
+Beta Nicardia.jpg,Result =,Medomol 300.dat,Time Taken =,169789
+Betacard AM.png,Result =,OMEZ.dat,Time Taken =,214724
+Biminox LF.jpg,Result =,Medomol 300.dat,Time Taken =,168344
+Brakke.jpg,Result =,OF suspension.dat,Time Taken =,113300
+Bromex A.jpg,Result =,Carbatol cr 400.dat,Time Taken =,76255
+C Toin 100.jpg,Result =,Naturogest 300.dat,Time Taken =,51904
+Capnyl.jpg,Result =,OF suspension.dat,Time Taken =,197225
+carbatol cr 200.png,Result =,OMEZ.dat,Time Taken =,248455
+carbatol cr 400.png,Result =,Naturgest AQ25.dat,Time Taken =,199272
+carnisure plus.png,Result =,Diataal.dat,Time Taken =,125271
+Carti Safe D.jpg,Result =,OF suspension.dat,Time Taken =,168208
+Cartilite 750.jpg,Result =,OF suspension.dat,Time Taken =,129131
+change.png,Result =,OF suspension.dat,Time Taken =,195380
+Chymoral AP.png,Result =,Senquel F.dat,Time Taken =,196256
+Chymoral Forte.png,Result =,Naturgest AQ25.dat,Time Taken =,148725
+Chymoral plus.png,Result =,OMEZ.dat,Time Taken =,192597
+CILACAR 10.jpg,Result =,Naturgest AQ25.dat,Time Taken =,116714
+CILACAR 20.jpg,Result =,Medomol 300.dat,Time Taken =,124978
+CILACAR 5.jpg,Result =,Senquel F.dat,Time Taken =,100646
+CILACAR.jpg,Result =,Crixan gel.dat,Time Taken =,125446
+Citralka.jpg,Result =,KETOROL DT.dat,Time Taken =,41439
+Clamp 625.jpg,Result =,OF suspension.dat,Time Taken =,122589
+Clodtel Plus.jpg,Result =,Senquel F.dat,Time Taken =,222401
+Clotan.png,Result =,OMEZ.dat,Time Taken =,159501
+Colgin.jpg,Result =,OMEZ.dat,Time Taken =,68137
+Colicure syrup.jpg,Result =,Triben Skin cream.dat,Time Taken =,61888
+Colicure.jpg,Result =,Pediflor.dat,Time Taken =,165768
+Combimist L (2).jpg,Result =,OMEZ.dat,Time Taken =,148338
+Combimist l.jpg,Result =,Senquel F.dat,Time Taken =,55024
+Complamina retard 500.jpg,Result =,Pediflor.dat,Time Taken =,108571
+Complamina.jpg,Result =,nise gel.dat,Time Taken =,82102
+Corbis 5.jpg,Result =,powergesic plus gel.dat,Time Taken =,199996
+cordarone x.png,Result =,Pediflor.dat,Time Taken =,129814
+cordarone.png,Result =,metrogyl gel.dat,Time Taken =,196658
+Corvadil A.jpg,Result =,OF suspension.dat,Time Taken =,133661
+covance at.jpg,Result =,Stolin R.dat,Time Taken =,185945
+Covance D.jpg,Result =,Pediflor.dat,Time Taken =,146431
+Crixan gel.jpg,Result =,Pediflor.dat,Time Taken =,41249
+Crolim power ointment.jpg,Result =,OMEZ.dat,Time Taken =,52539
+Cyclenorm P.jpg,Result =,Zoftadol plus.dat,Time Taken =,80796
+deplatt a 150.png,Result =,Naturgest AQ25.dat,Time Taken =,174988
+deplatt a 75.png,Result =,Naturgest AQ25.dat,Time Taken =,175687
+deplatt cv 20.png,Result =,Losar A.dat,Time Taken =,258216
+deplatt.png,Result =,deplatt.dat,Time Taken =,195264
+Deriphyllin M.jpg,Result =,Senquel F.dat,Time Taken =,252627
+Deriphyllin OD 300.jpg,Result =,nise gel.dat,Time Taken =,94965
+Deriphyllin OD 450.jpg,Result =,OF suspension.dat,Time Taken =,112945
+Deriphyllin retard 150.jpg,Result =,metrogyl gel.dat,Time Taken =,132085
+Derisone l.png,Result =,Stolin R.dat,Time Taken =,48366
+Dexorange.jpg,Result =,Pediflor.dat,Time Taken =,51371
+Diane 35.jpg,Result =,Rantac Inject.dat,Time Taken =,78435
+Diataal D.jpg,Result =,Pediflor.dat,Time Taken =,137884
+Diataal.jpg,Result =,nise gel.dat,Time Taken =,194009
+Diavit plus.jpg,Result =,Pediflor.dat,Time Taken =,113596
+dibeta gb.png,Result =,Pediflor.dat,Time Taken =,173038
+diclogesic rr injection.png,Result =,diclogesic rr injection.dat,Time Taken =,169814
+diclogesic sp.png,Result =,OMEZ.dat,Time Taken =,178958
+diclogesic.png,Result =,Pediflor.dat,Time Taken =,204830
+DICLORAN A.jpg,Result =,DICLORAN A.dat,Time Taken =,263359
+Diprovate plus.jpg,Result =,Pediflor.dat,Time Taken =,33268
+Domstal Baby.jpg,Result =,Hyocimax.dat,Time Taken =,42160
+domstal dt.png,Result =,Stolin R.dat,Time Taken =,160528
+Domstal O.png,Result =,Rantac Inject.dat,Time Taken =,221855
+Domstal RD.png,Result =,Domstal RD.dat,Time Taken =,328892
+Domstal.jpg,Result =,Pediflor.dat,Time Taken =,42357
+Doxolin.jpg,Result =,Pediflor.dat,Time Taken =,114907
+DOXT SL.jpg,Result =,Pediflor.dat,Time Taken =,266965
+Drego D.jpg,Result =,Shy XT.dat,Time Taken =,145382
+Droxyl 250 DT.png,Result =,metrogyl gel.dat,Time Taken =,103247
+Droxyl 500.png,Result =,Pediflor.dat,Time Taken =,192916
+Droxyl Clav 500.png,Result =,Droxyl Clav 500.dat,Time Taken =,235066
+Duoluton L.jpg,Result =,Medomol 300.dat,Time Taken =,27871
+Duotrol.jpg,Result =,OMEZ.dat,Time Taken =,107805
+DutasT.jpg,Result =,OMEZ.dat,Time Taken =,104630
+dycotiam.png,Result =,OF suspension.dat,Time Taken =,135496
+Dynapres 04.jpg,Result =,Shy XT.dat,Time Taken =,93931
+EcoSprin 75.jpg,Result =,metrogyl gel.dat,Time Taken =,110337
+ecosprin AV 150.jpg,Result =,volini.dat,Time Taken =,229837
+Ecosprin av 150_20.jpg,Result =,Ecosprin av 150_20.dat,Time Taken =,295496
+Ecosprin gold 20.jpg,Result =,OMEZ.dat,Time Taken =,183056
+Elcure.jpg,Result =,Crixan gel.dat,Time Taken =,139428
+Emgard 60.jpg,Result =,OMEZ.dat,Time Taken =,123966
+Emsolone 10.jpg,Result =,Naturgest AQ25.dat,Time Taken =,108352
+Emsolone 5 DT.jpg,Result =,OF suspension.dat,Time Taken =,86267
+EnaFix.jpg,Result =,KETOROL DT.dat,Time Taken =,35270
+Enam 10.jpg,Result =,OMEZ.dat,Time Taken =,195084
+Enam 25.jpg,Result =,OF suspension.dat,Time Taken =,168622
+Erytop.jpg,Result =,OMEZ.dat,Time Taken =,32086
+Euspas D.jpg,Result =,Stolin R.dat,Time Taken =,56754
+Femovan.jpg,Result =,Pediflor.dat,Time Taken =,42626
+Finehart.jpg,Result =,Pediflor.dat,Time Taken =,73021
+Flavospas.png,Result =,Flavospas.dat,Time Taken =,100167
+Folsafe L.jpg,Result =,OMEZ.dat,Time Taken =,135498
+Formonide 100.jpg,Result =,Pediflor.dat,Time Taken =,43766
+Formonide 200.jpg,Result =,Pediflor.dat,Time Taken =,60161
+Formonide 400.jpg,Result =,OMEZ.dat,Time Taken =,75781
+Gelusil original.png,Result =,OMEZ.dat,Time Taken =,92551
+Gentalene.jpg,Result =,OF suspension.dat,Time Taken =,40719
+Gerbisa tab.jpg,Result =,Losar A.dat,Time Taken =,99633
+Gerbisa.jpg,Result =,Crixan gel.dat,Time Taken =,116439
+GLA 120.jpg,Result =,OF suspension.dat,Time Taken =,116384
+Glide TM.jpg,Result =,Pediflor.dat,Time Taken =,66352
+Glimet DS.jpg,Result =,Pediflor.dat,Time Taken =,112438
+Glimet.jpg,Result =,Naturgest AQ25.dat,Time Taken =,130918
+Glimy 1.jpg,Result =,Pediflor.dat,Time Taken =,136907
+Glimy M.jpg,Result =,Naturgest AQ25.dat,Time Taken =,120509
+Globac XT.jpg,Result =,Medomol 300.dat,Time Taken =,176737
+Globac z.jpg,Result =,OMEZ.dat,Time Taken =,105363
+Glodent.jpg,Result =,Stolin R.dat,Time Taken =,48190
+Glucomet trio 2_0_0_3.jpg,Result =,OMEZ.dat,Time Taken =,144872
+Glucotrol MF.jpg,Result =,Rantac Inject.dat,Time Taken =,63905
+Glyciphage 850.jpg,Result =,Pediflor.dat,Time Taken =,98569
+Glyciphage g1 forte.jpg,Result =,OF suspension.dat,Time Taken =,142130
+Glyciphage g2 Forte.jpg,Result =,Triben CN.dat,Time Taken =,119848
+Glyciphage g2.jpg,Result =,metrogyl gel.dat,Time Taken =,118180
+Glyciphage PG2.jpg,Result =,Pediflor.dat,Time Taken =,134609
+Glycomet 1 GM.jpg,Result =,Pediflor.dat,Time Taken =,201412
+Glycomet 850 SR.jpg,Result =,Naturgest AQ25.dat,Time Taken =,150407
+Glycomet 850.jpg,Result =,OF suspension.dat,Time Taken =,161532
+Glycomet gp 0.5 forte.jpg,Result =,Medomol 300.dat,Time Taken =,134661
+Glycomet gp 1.jpg,Result =,Glycomet gp 1.dat,Time Taken =,180745
+Glycomet gp 2.jpg,Result =,Naturgest AQ25.dat,Time Taken =,160573
+Glyp TEN.jpg,Result =,OMEZ.dat,Time Taken =,56676
+Grilinctus BM syrp.jpg,Result =,Dexorange.dat,Time Taken =,56949
+Happi D.jpg,Result =,Naturgest AQ25.dat,Time Taken =,188232
+Happi.jpg,Result =,Senquel F.dat,Time Taken =,166231
+Hemogold.jpg,Result =,Stolin R.dat,Time Taken =,79520
+Herfem.jpg,Result =,Glycomet gp 1.dat,Time Taken =,46961
+hqtor.png,Result =,Pediflor.dat,Time Taken =,120704
+Hydroheal 15g.jpg,Result =,biminox lf.dat,Time Taken =,38599
+Hyocimar s CR.jpg,Result =,Senquel F.dat,Time Taken =,114668
+Hyocimax S.jpg,Result =,Pediflor.dat,Time Taken =,136502
+IBUCLIN P.jpg,Result =,Triquilar.dat,Time Taken =,181670
+Izra 20.jpg,Result =,Stolin R.dat,Time Taken =,138427
+Jaira M.jpg,Result =,Rantac Inject.dat,Time Taken =,117742
+Jalra 50.jpg,Result =,Triquilar.dat,Time Taken =,102505
+Juliana.jpg,Result =,OF suspension.dat,Time Taken =,40574
+Ketorol DT.jpg,Result =,OMEZ.dat,Time Taken =,69018
+Ketorol.jpg,Result =,Stolin R.dat,Time Taken =,114332
+lamitor dt 25.png,Result =,Medomol 300.dat,Time Taken =,108708
+lamitor dt 50.png,Result =,OMEZ.dat,Time Taken =,102871
+Le Zyncet.jpg,Result =,metrogyl gel.dat,Time Taken =,100464
+lefra 10.png,Result =,lefra 10.dat,Time Taken =,186248
+lefra 20.png,Result =,Pediflor.dat,Time Taken =,232593
+Leon 500.jpg,Result =,Naturgest AQ25.dat,Time Taken =,88178
+Libitone Forte.jpg,Result =,OMEZ.dat,Time Taken =,143095
+Lipicard 160.jpg,Result =,Pediflor.dat,Time Taken =,139741
+Lipicard AV.jpg,Result =,Crixan gel.dat,Time Taken =,245445
+Lipicard.jpg,Result =,OF suspension.dat,Time Taken =,155532
+Listerine.jpg,Result =,Losar A.dat,Time Taken =,61153
+listril 5.png,Result =,listril 5.dat,Time Taken =,252372
+lopamide.png,Result =,Medomol 300.dat,Time Taken =,155877
+Loram 5.jpg,Result =,Loram 5.dat,Time Taken =,166909
+lorvas.png,Result =,lorvas.dat,Time Taken =,127995
+Losar 25.jpg,Result =,OMEZ.dat,Time Taken =,104839
+Losar A.jpg,Result =,nise gel.dat,Time Taken =,122309
+Losar Beta.jpg,Result =,Pediflor.dat,Time Taken =,146085
+Losar H.jpg,Result =,OMEZ.dat,Time Taken =,114000
+Mashyne 1000.jpg,Result =,Pediflor.dat,Time Taken =,206420
+Medler plus.jpg,Result =,Pediflor.dat,Time Taken =,64195
+Medler.jpg,Result =,Doxolin.dat,Time Taken =,51141
+Medomol 300.png,Result =,Medomol 300.dat,Time Taken =,109708
+Medomol 500.png,Result =,Medomol 500.dat,Time Taken =,143905
+Medomol 650.jpg,Result =,metrogyl gel.dat,Time Taken =,155092
+Megatrum.jpg,Result =,Medomol 500.dat,Time Taken =,36170
+Melanocyl ointment.jpg,Result =,Naturgest AQ25.dat,Time Taken =,59104
+Melanocyl sol.jpg,Result =,Tazloc trio 40.dat,Time Taken =,55382
+Melanocyl tab.jpg,Result =,Pediflor.dat,Time Taken =,60534
+Meprocin syrp.jpg,Result =,Crixan gel.dat,Time Taken =,50071
+Meprocin.jpg,Result =,Senquel F.dat,Time Taken =,123347
+Metocard XL 50.png,Result =,Metocard XL 50.dat,Time Taken =,173868
+Metorgyl gel.jpg,Result =,metrogyl gel.dat,Time Taken =,37367
+MetorGyl P.jpg,Result =,metrogyl gel.dat,Time Taken =,37462
+Metrodif MPS tab.jpg,Result =,Pediflor.dat,Time Taken =,125613
+metsmall 500.jpg,Result =,Rantac Inject.dat,Time Taken =,100452
+Metzok 25.jpg,Result =,Triben CN.dat,Time Taken =,42289
+miliana.jpg,Result =,OF suspension.dat,Time Taken =,40300
+Minoz bpo.jpg,Result =,Losar A.dat,Time Taken =,42591
+Mintop 10.jpg,Result =,Triglynase 1 forte.dat,Time Taken =,52194
+Mobizox.jpg,Result =,metrogyl gel.dat,Time Taken =,190578
+Modlip 10.png,Result =,Modlip 10.dat,Time Taken =,131423
+Modlip asg 75.png,Result =,Pediflor.dat,Time Taken =,185692
+Moisturex soft.jpg,Result =,OMEZ.dat,Time Taken =,50596
+Moisturex.jpg,Result =,Dexorange.dat,Time Taken =,36966
+Mucolite.jpg,Result =,OMEZ.dat,Time Taken =,103492
+Naturogest 200.jpg,Result =,Losar A.dat,Time Taken =,207989
+Naturogest 300.jpg,Result =,OMEZ.dat,Time Taken =,140691
+Naturogest AQ 25.jpg,Result =,Pediflor.dat,Time Taken =,39977
+Naturogest SR 200.jpg,Result =,nise gel.dat,Time Taken =,147153
+Natvie.jpg,Result =,Pediflor.dat,Time Taken =,80907
+Nebicard 25.png,Result =,Nebicard 25.dat,Time Taken =,192324
+Nebicard SM.png,Result =,Medomol 300.dat,Time Taken =,239136
+Neotomic Enema.jpg,Result =,MUCOLITE.dat,Time Taken =,60768
+Nervijen 2ml.jpg,Result =,TRIGLYNASE 2.dat,Time Taken =,45627
+Nervijen D.jpg,Result =,Crixan gel.dat,Time Taken =,118155
+Nervijen P.jpg,Result =,OF suspension.dat,Time Taken =,124503
+Nervijen XT.jpg,Result =,nise gel.dat,Time Taken =,132361
+Nervijen.jpg,Result =,Pediflor.dat,Time Taken =,124423
+Nexpro 20.png,Result =,Naturgest AQ25.dat,Time Taken =,151749
+Nexpro 40.png,Result =,Nexpro 40.dat,Time Taken =,211236
+Nexpro Fast 20.png,Result =,Nexpro Fast 20.dat,Time Taken =,175033
+Nexpro RD 20.png,Result =,Nexpro RD 20.dat,Time Taken =,214322
+Nexpro RD 40.png,Result =,Nexpro RD 40.dat,Time Taken =,208322
+Nicardia CD retard - 30.jpg,Result =,Stolin R.dat,Time Taken =,139823
+Nicardia retard 10.jpg,Result =,metrogyl gel.dat,Time Taken =,186086
+Nimodip.jpg,Result =,nise gel.dat,Time Taken =,158680
+Nise gel.jpg,Result =,Pediflor.dat,Time Taken =,42004
+Nise.jpg,Result =,OMEZ.dat,Time Taken =,89836
+Nor-metrogyl plus.jpg,Result =,Pediflor.dat,Time Taken =,103355
+Odimont LC.png,Result =,Shy XT.dat,Time Taken =,174933
+OF 200.jpg,Result =,OMEZ.dat,Time Taken =,255112
+Ojen 200.jpg,Result =,Medomol 300.dat,Time Taken =,96669
+Olsar H 20.jpg,Result =,OMEZ.dat,Time Taken =,165015
+Omez 10.jpg,Result =,OMEZ.dat,Time Taken =,122897
+Omez 40.jpg,Result =,OF suspension.dat,Time Taken =,97079
+Omez caps.jpg,Result =,Stolin R.dat,Time Taken =,110654
+Omez D.jpg,Result =,Crixan gel.dat,Time Taken =,206507
+Omez FF 20.jpg,Result =,OMEZ.dat,Time Taken =,59360
+Omez inj.jpg,Result =,Tazloc trio 40.dat,Time Taken =,54523
+Omez.jpg,Result =,Shy XT.dat,Time Taken =,40298
+Omnident.jpg,Result =,OMEZ.dat,Time Taken =,74591
+One up gold D.png,Result =,One up gold D.dat,Time Taken =,182797
+Orcibest.jpg,Result =,OMEZ.dat,Time Taken =,77360
+Oxybuta.jpg,Result =,OF suspension.dat,Time Taken =,139048
+P Cool.jpg,Result =,Hyocimax S.dat,Time Taken =,57924
+Pecef 200.jpg,Result =,Triquilar.dat,Time Taken =,241081
+Pevesca plus.jpg,Result =,OMEZ.dat,Time Taken =,229263
+Pioz MFG 1.jpg,Result =,Senquel F.dat,Time Taken =,184873
+Powergesic plus gel.jpg,Result =,Pediflor.dat,Time Taken =,34478
+Powergesic.jpg,Result =,Shy XT.dat,Time Taken =,102542
+Prax 10.png,Result =,Prax 10.dat,Time Taken =,100161
+Pregalin 75.png,Result =,Pregalin 75.dat,Time Taken =,164762
+PregnidoxinNU.jpg,Result =,Pediflor.dat,Time Taken =,88301
+Prexan.png,Result =,Prexan.dat,Time Taken =,212594
+Progynova 2mg.jpg,Result =,OF suspension.dat,Time Taken =,126023
+proliser.jpg,Result =,OMEZ.dat,Time Taken =,52428
+Proluton Depot.jpg,Result =,Naturgest AQ25.dat,Time Taken =,98243
+R bex.jpg,Result =,Glycomet 500 S R.dat,Time Taken =,45266
+Rantac 150.jpg,Result =,Naturgest AQ25.dat,Time Taken =,269568
+Rantac 300.jpg,Result =,OF suspension.dat,Time Taken =,239332
+Rantac Inject.jpg,Result =,Rantac Inject.dat,Time Taken =,157917
+Ranx 500.jpg,Result =,Naturgest AQ25.dat,Time Taken =,99927
+Reclide 40.jpg,Result =,Reclide 40.dat,Time Taken =,262405
+Reclide.jpg,Result =,OMEZ.dat,Time Taken =,199822
+Reclimet.jpg,Result =,Naturgest AQ25.dat,Time Taken =,60966
+Redotil.jpg,Result =,Naturgest AQ25.dat,Time Taken =,50335
+Regulate.jpg,Result =,OMEZ.dat,Time Taken =,74737
+Relaxyl gel.jpg,Result =,Tazloc trio 40.dat,Time Taken =,77296
+Relent.jpg,Result =,OF suspension.dat,Time Taken =,96652
+Resophyl 150.jpg,Result =,Resophyl 150.dat,Time Taken =,93295
+Resophyl Forte.jpg,Result =,Servil.dat,Time Taken =,118626
+RetOZ 60.jpg,Result =,OMEZ.dat,Time Taken =,42756
+RoseDay A 10.jpg,Result =,Naturgest AQ25.dat,Time Taken =,235448
+RoseDay f 10.jpg,Result =,OMEZ.dat,Time Taken =,155052
+Rozat 20.jpg,Result =,OMEZ.dat,Time Taken =,124166
+Rozucor 5.png,Result =,OMEZ.dat,Time Taken =,136133
+Rozucor ASP 10.png,Result =,Rozucor ASP 10.dat,Time Taken =,301173
+Servil baby.jpg,Result =,OMEZ.dat,Time Taken =,56987
+Servil.jpg,Result =,OMEZ.dat,Time Taken =,52860
+Sevista.jpg,Result =,OMEZ.dat,Time Taken =,132141
+Shelcal 250.png,Result =,metrogyl gel.dat,Time Taken =,223372
+Shelcal 500.png,Result =,Pediflor.dat,Time Taken =,164737
+Shelcal HD 12.png,Result =,Crixan gel.dat,Time Taken =,199000
+Shelcal M.png,Result =,Shelcal M.dat,Time Taken =,143685
+Shelcal os.png,Result =,Rantac Inject.dat,Time Taken =,148471
+SHY NM.jpg,Result =,OMEZ.dat,Time Taken =,69948
+Shy OR.jpg,Result =,KETOROL DT.dat,Time Taken =,60403
+SHY XT.jpg,Result =,Pediflor.dat,Time Taken =,35619
+SHY.jpg,Result =,Barbitoin.dat,Time Taken =,70086
+Siloderm Mixi.jpg,Result =,Tazloc trio 40.dat,Time Taken =,50117
+Siloderm.jpg,Result =,Carbatol cr 400.dat,Time Taken =,61650
+Skinlite.jpg,Result =,Pediflor.dat,Time Taken =,43168
+Sporidex 125.jpg,Result =,OF suspension.dat,Time Taken =,197756
+Sporidex 500.jpg,Result =,Naturgest AQ25.dat,Time Taken =,162316
+Sporidex drops.jpg,Result =,Azulix 1.dat,Time Taken =,51275
+Sporidex.jpg,Result =,Azulix 1.dat,Time Taken =,56442
+Stamlo 10.jpg,Result =,OF suspension.dat,Time Taken =,359314
+Stamlo 25.jpg,Result =,Senquel F.dat,Time Taken =,148728
+Stamlo Beta.jpg,Result =,Naturgest AQ25.dat,Time Taken =,103786
+Stamlo T.jpg,Result =,OMEZ.dat,Time Taken =,138010
+Storvas 10.jpg,Result =,Storvas 10.dat,Time Taken =,149089
+Storvas 20.jpg,Result =,Rantac Inject.dat,Time Taken =,99860
+Storvas 40.jpg,Result =,Storvas 40.dat,Time Taken =,151009
+Styptovit E.jpg,Result =,OMEZ.dat,Time Taken =,101477
+Sudex AR.jpg,Result =,biminox lf.dat,Time Taken =,57293
+Sudin cold.jpg,Result =,Naturgest AQ25.dat,Time Taken =,295165
+Sudin D.jpg,Result =,Stolin R.dat,Time Taken =,71747
+Sulisert.jpg,Result =,OF suspension.dat,Time Taken =,86924
+Surfaz SN.jpg,Result =,Rantac Inject.dat,Time Taken =,43200
+Surfaz.jpg,Result =,Glycomet gp 1.dat,Time Taken =,52134
+Tabi.jpg,Result =,Teneza.dat,Time Taken =,43802
+Tazloc 40.jpg,Result =,Pediflor.dat,Time Taken =,226146
+Tazloc H.jpg,Result =,OMEZ.dat,Time Taken =,221896
+Tazloc Trio 80.jpg,Result =,Shy XT.dat,Time Taken =,140088
+Teczine M.jpg,Result =,Teczine M.dat,Time Taken =,250654
+Teczine.jpg,Result =,Senquel F.dat,Time Taken =,113878
+Telday 20.jpg,Result =,OF suspension.dat,Time Taken =,133547
+Telday 40.jpg,Result =,Pediflor.dat,Time Taken =,134665
+Telday 80 H.jpg,Result =,Telday 80 H.dat,Time Taken =,190571
+Telday AM.jpg,Result =,Telday AM.dat,Time Taken =,192383
+Telday H.jpg,Result =,Luciara cream.dat,Time Taken =,232809
+Telsar 20.jpg,Result =,Pediflor.dat,Time Taken =,145495
+Telsartan 40.jpg,Result =,Medomol 300.dat,Time Taken =,140021
+Telsartan H.jpg,Result =,Pediflor.dat,Time Taken =,117726
+TG TOR 5.jpg,Result =,metrogyl gel.dat,Time Taken =,185150
+Tide 10.jpg,Result =,OMEZ.dat,Time Taken =,132664
+Tide 20.jpg,Result =,Tide 20.dat,Time Taken =,163630
+Tide 5.jpg,Result =,OMEZ.dat,Time Taken =,104892
+Tolol AM 50.jpg,Result =,Medomol 300.dat,Time Taken =,108470
+Tolol XR 50.jpg,Result =,Pediflor.dat,Time Taken =,147217
+Topcef 100 Dt.jpg,Result =,OF suspension.dat,Time Taken =,186697
+Topcef 200.jpg,Result =,Topcef 200.dat,Time Taken =,208247
+Topcef o 200.jpg,Result =,Topcef o 200.dat,Time Taken =,142987
+Topcid 40.jpg,Result =,OF suspension.dat,Time Taken =,138934
+torkast fx.png,Result =,torkast fx.dat,Time Taken =,367104
+Torleva 500.jpg,Result =,Pediflor.dat,Time Taken =,148754
+Tozaar 50.jpg,Result =,Sporidex.dat,Time Taken =,144625
+Tozaar H.jpg,Result =,Pediflor.dat,Time Taken =,141471
+Triben B.jpg,Result =,KETOROL DT.dat,Time Taken =,46929
+Triben plus.jpg,Result =,Tazloc trio 40.dat,Time Taken =,41435
+Triglynase 1.jpg,Result =,Triglynase 1.dat,Time Taken =,181862
+Triglynase 2 Forte.jpg,Result =,Triglynase 2 Forte.dat,Time Taken =,219639
+Triglynase 2.jpg,Result =,metrogyl gel.dat,Time Taken =,201567
+TripleACal.jpg,Result =,OMEZ.dat,Time Taken =,90575
+Triquilar.jpg,Result =,Triquilar.dat,Time Taken =,33335
+Tuka 05.jpg,Result =,Tuka 05.dat,Time Taken =,154263
+Unistar 75.jpg,Result =,Naturgest AQ25.dat,Time Taken =,193859
+Valparin 200 syrp.jpg,Result =,Pediflor.dat,Time Taken =,117062
+Valparin 200.jpg,Result =,Naturgest AQ25.dat,Time Taken =,278566
+Valparin chrono 200.jpg,Result =,Valparin chrono 200.dat,Time Taken =,324230
+Valparin chrono 300.jpg,Result =,Crixan gel.dat,Time Taken =,186433
+Veloz 20.jpg,Result =,Veloz 20.dat,Time Taken =,281857
+Veloz L.jpg,Result =,OF suspension.dat,Time Taken =,198344
+Veloz M.jpg,Result =,Veloz M.dat,Time Taken =,214333
+Vibact DS.jpg,Result =,OF suspension.dat,Time Taken =,206842
+Vibact.jpg,Result =,Shy XT.dat,Time Taken =,246560
+Vibrania.jpg,Result =,OMEZ.dat,Time Taken =,167422
+Vizlac.jpg,Result =,Pediflor.dat,Time Taken =,322857
+Vobose 02.jpg,Result =,Sporidex.dat,Time Taken =,110617
+Vobose m 03.jpg,Result =,Triquilar.dat,Time Taken =,145793
+Voglitor MD 03.jpg,Result =,metrogyl gel.dat,Time Taken =,127905
+Voglitor Mf 03.jpg,Result =,Voglitor Mf 03.dat,Time Taken =,175470
+volini.png,Result =,Stolin R.dat,Time Taken =,40168
+Xanilax SR 200.jpg,Result =,OF suspension.dat,Time Taken =,140121
+Xylomist p.jpg,Result =,Xylomist P.dat,Time Taken =,44479
+Yasmin.jpg,Result =,OMEZ.dat,Time Taken =,103848
+Zabesta AM.jpg,Result =,OMEZ.dat,Time Taken =,158888
+Zaftadol plus.jpg,Result =,Zoftadol plus.dat,Time Taken =,160128
+Zedott.jpg,Result =,Senquel F.dat,Time Taken =,123830
+Zosta 10.jpg,Result =,OMEZ.dat,Time Taken =,125295

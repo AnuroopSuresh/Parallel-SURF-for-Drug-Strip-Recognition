@@ -1,0 +1,380 @@
+Acegesic.png,Result =,Acegesic.dat,Time Taken =,492337
+Ahaglow.jpg,Result =,Rantac Inject.dat,Time Taken =,340639
+Alfoo.jpg,Result =,Sporidex.dat,Time Taken =,344616
+Amflor.jpg,Result =,diclogesic rr injection.dat,Time Taken =,294598
+Ampoxin 250.jpg,Result =,Ampoxin 250.dat,Time Taken =,338076
+Ampoxin 500.jpg,Result =,Femovan.dat,Time Taken =,348519
+Ampoxin kid.jpg,Result =,Ampoxin kid.dat,Time Taken =,455175
+Ampoxin.jpg,Result =,Sporidex.dat,Time Taken =,352464
+Anabel  CT.jpg,Result =,anabel ct.dat,Time Taken =,309326
+Anabel.jpg,Result =,Sporidex.dat,Time Taken =,301176
+Angispan TR.jpg,Result =,Sudex-AR.dat,Time Taken =,289275
+Anovate.jpg,Result =,Dermolam.dat,Time Taken =,279138
+Antoxid.jpg,Result =,enafix.dat,Time Taken =,335324
+Arkamin H.jpg,Result =,anabel ct.dat,Time Taken =,343454
+Aroff SR.jpg,Result =,Femovan.dat,Time Taken =,338077
+Arumin gel.jpg,Result =,Sudex-AR.dat,Time Taken =,334041
+Astharid Plus.jpg,Result =,Rantac Inject.dat,Time Taken =,351737
+Astharid T.jpg,Result =,Sporidex.dat,Time Taken =,362446
+Atocor 40.jpg,Result =,Rantac Inject.dat,Time Taken =,320487
+Azulix 1 MF.png,Result =,Sporidex.dat,Time Taken =,464960
+Azulix 1.png,Result =,Sporidex.dat,Time Taken =,627299
+Azulix 2 MF.png,Result =,Sporidex.dat,Time Taken =,487445
+Azulix 2.png,Result =,Rantac Inject.dat,Time Taken =,10474129
+Azulix 3 MF.png,Result =,Azulix 3 MF.dat,Time Taken =,342641
+Azulix 4 MF.png,Result =,Sporidex.dat,Time Taken =,346745
+B Long.png,Result =,Rantac Inject.dat,Time Taken =,364784
+Barbitoin.png,Result =,Barbitoin.dat,Time Taken =,290027
+Becozinc H.jpg,Result =,Sporidex.dat,Time Taken =,302136
+BecoZinc.jpg,Result =,Rantac Inject.dat,Time Taken =,240295
+Benadryl DR.jpg,Result =,Sporidex.dat,Time Taken =,261706
+Beta Nicardia.jpg,Result =,Femovan.dat,Time Taken =,264108
+Betacard AM.png,Result =,Sporidex.dat,Time Taken =,371367
+Biminox LF.jpg,Result =,Rantac Inject.dat,Time Taken =,262653
+Brakke.jpg,Result =,Femovan.dat,Time Taken =,243674
+Bromex A.jpg,Result =,Sporidex.dat,Time Taken =,308890
+C Toin 100.jpg,Result =,Sporidex.dat,Time Taken =,251131
+Capnyl.jpg,Result =,Rantac Inject.dat,Time Taken =,260769
+carbatol cr 200.png,Result =,Femovan.dat,Time Taken =,365219
+carbatol cr 400.png,Result =,Sporidex.dat,Time Taken =,328478
+carnisure plus.png,Result =,Minoz BPO.dat,Time Taken =,423214
+Carti Safe D.jpg,Result =,Sporidex.dat,Time Taken =,270352
+Cartilite 750.jpg,Result =,Rantac Inject.dat,Time Taken =,265748
+change.png,Result =,Sporidex.dat,Time Taken =,370502
+Chymoral AP.png,Result =,Rantac Inject.dat,Time Taken =,381660
+Chymoral Forte.png,Result =,Sporidex.dat,Time Taken =,358679
+Chymoral plus.png,Result =,Sporidex.dat,Time Taken =,403820
+CILACAR 10.jpg,Result =,Senquel F.dat,Time Taken =,303017
+CILACAR 20.jpg,Result =,Sporidex.dat,Time Taken =,338805
+CILACAR 5.jpg,Result =,Sporidex.dat,Time Taken =,322253
+CILACAR.jpg,Result =,Derobin.dat,Time Taken =,324090
+Citralka.jpg,Result =,Sporidex.dat,Time Taken =,291541
+Clamp 625.jpg,Result =,Derobin.dat,Time Taken =,327402
+Clodtel Plus.jpg,Result =,Rantac Inject.dat,Time Taken =,347405
+Clotan.png,Result =,Sporidex.dat,Time Taken =,420231
+Colgin.jpg,Result =,Sporidex.dat,Time Taken =,378456
+Colicure syrup.jpg,Result =,Sporidex.dat,Time Taken =,375588
+Colicure.jpg,Result =,MINTOP.dat,Time Taken =,401585
+Combimist L (2).jpg,Result =,Sporidex.dat,Time Taken =,538395
+Combimist l.jpg,Result =,Sporidex.dat,Time Taken =,362103
+Complamina retard 500.jpg,Result =,Sudex-AR.dat,Time Taken =,383403
+Complamina.jpg,Result =,Carnisure 500.dat,Time Taken =,370196
+Corbis 5.jpg,Result =,Shy XT.dat,Time Taken =,413508
+cordarone x.png,Result =,Sporidex.dat,Time Taken =,545029
+cordarone.png,Result =,Derobin.dat,Time Taken =,585384
+Corvadil A.jpg,Result =,Femovan.dat,Time Taken =,451634
+covance at.jpg,Result =,Formonide 400.dat,Time Taken =,562602
+Covance D.jpg,Result =,Sporidex.dat,Time Taken =,449936
+Crixan gel.jpg,Result =,Sporidex.dat,Time Taken =,367444
+Crolim power ointment.jpg,Result =,diclogesic rr injection.dat,Time Taken =,438609
+Cyclenorm P.jpg,Result =,Sporidex.dat,Time Taken =,523527
+deplatt a 150.png,Result =,Femovan.dat,Time Taken =,700522
+deplatt a 75.png,Result =,Rantac Inject.dat,Time Taken =,731967
+deplatt cv 20.png,Result =,Femovan.dat,Time Taken =,831736
+deplatt.png,Result =,Sporidex.dat,Time Taken =,761894
+Deriphyllin M.jpg,Result =,Sudex-AR.dat,Time Taken =,629671
+Deriphyllin OD 300.jpg,Result =,Sudex-AR.dat,Time Taken =,416721
+Deriphyllin OD 450.jpg,Result =,Derobin.dat,Time Taken =,443230
+Deriphyllin retard 150.jpg,Result =,Sporidex.dat,Time Taken =,413332
+Derisone l.png,Result =,Rantac Inject.dat,Time Taken =,626685
+Dexorange.jpg,Result =,Sporidex.dat,Time Taken =,436000
+Diane 35.jpg,Result =,Sudex-AR.dat,Time Taken =,455491
+Diataal D.jpg,Result =,Sporidex.dat,Time Taken =,453763
+Diataal.jpg,Result =,Femovan.dat,Time Taken =,535220
+Diavit plus.jpg,Result =,Rantac Inject.dat,Time Taken =,461144
+dibeta gb.png,Result =,Sporidex.dat,Time Taken =,641039
+diclogesic rr injection.png,Result =,diclogesic rr injection.dat,Time Taken =,657188
+diclogesic sp.png,Result =,enafix.dat,Time Taken =,619213
+diclogesic.png,Result =,Femovan.dat,Time Taken =,623831
+DICLORAN A.jpg,Result =,DICLORAN A.dat,Time Taken =,565865
+Diprovate plus.jpg,Result =,Dermolam.dat,Time Taken =,376024
+Domstal Baby.jpg,Result =,Sporidex.dat,Time Taken =,428902
+domstal dt.png,Result =,enafix.dat,Time Taken =,681093
+Domstal O.png,Result =,Minoz BPO.dat,Time Taken =,650163
+Domstal RD.png,Result =,Domstal RD.dat,Time Taken =,827518
+Domstal.jpg,Result =,Sporidex.dat,Time Taken =,426312
+Doxolin.jpg,Result =,Sporidex.dat,Time Taken =,466941
+DOXT SL.jpg,Result =,Minoz BPO.dat,Time Taken =,602188
+Drego D.jpg,Result =,Sporidex.dat,Time Taken =,511079
+Droxyl 250 DT.png,Result =,Rantac Inject.dat,Time Taken =,521221
+Droxyl 500.png,Result =,Sudex-AR.dat,Time Taken =,717037
+Droxyl Clav 500.png,Result =,Droxyl Clav 500.dat,Time Taken =,789608
+Duoluton L.jpg,Result =,Sporidex.dat,Time Taken =,383860
+Duotrol.jpg,Result =,Sporidex.dat,Time Taken =,554579
+DutasT.jpg,Result =,Sporidex.dat,Time Taken =,471889
+dycotiam.png,Result =,Dermolam.dat,Time Taken =,583922
+Dynapres 04.jpg,Result =,Rantac Inject.dat,Time Taken =,377351
+EcoSprin 75.jpg,Result =,Sudex-AR.dat,Time Taken =,371934
+ecosprin AV 150.jpg,Result =,Sudex-AR.dat,Time Taken =,557241
+Ecosprin av 150_20.jpg,Result =,Ecosprin av 150_20.dat,Time Taken =,676960
+Ecosprin gold 20.jpg,Result =,Sudex-AR.dat,Time Taken =,489929
+Elcure.jpg,Result =,KETOROL DT.dat,Time Taken =,459055
+Emgard 60.jpg,Result =,Sporidex.dat,Time Taken =,624081
+Emsolone 10.jpg,Result =,Sporidex.dat,Time Taken =,723695
+Emsolone 5 DT.jpg,Result =,Femovan.dat,Time Taken =,351628
+EnaFix.jpg,Result =,Sporidex.dat,Time Taken =,337619
+Enam 10.jpg,Result =,Femovan.dat,Time Taken =,550488
+Enam 25.jpg,Result =,Sudex-AR.dat,Time Taken =,571979
+Erytop.jpg,Result =,Femovan.dat,Time Taken =,376781
+Euspas D.jpg,Result =,Sudex-AR.dat,Time Taken =,473420
+Femovan.jpg,Result =,Femovan.dat,Time Taken =,347132
+Finehart.jpg,Result =,Dermolam.dat,Time Taken =,369937
+Flavospas.png,Result =,Flavospas.dat,Time Taken =,577073
+Folsafe L.jpg,Result =,Sudex-AR.dat,Time Taken =,490714
+Formonide 100.jpg,Result =,Sporidex.dat,Time Taken =,392603
+Formonide 200.jpg,Result =,Sporidex.dat,Time Taken =,526932
+Formonide 400.jpg,Result =,Sporidex.dat,Time Taken =,493087
+Gelusil original.png,Result =,Rantac Inject.dat,Time Taken =,169456
+Gentalene.jpg,Result =,enafix.dat,Time Taken =,324278
+Gerbisa tab.jpg,Result =,Dermolam.dat,Time Taken =,419202
+Gerbisa.jpg,Result =,Minoz BPO.dat,Time Taken =,389599
+GLA 120.jpg,Result =,C toin 100.dat,Time Taken =,529570
+Glide TM.jpg,Result =,Combimist l.dat,Time Taken =,442364
+Glimet DS.jpg,Result =,Sporidex.dat,Time Taken =,467720
+Glimet.jpg,Result =,Sudex-AR.dat,Time Taken =,412855
+Glimy 1.jpg,Result =,Femovan.dat,Time Taken =,432428
+Glimy M.jpg,Result =,Femovan.dat,Time Taken =,485532
+Globac XT.jpg,Result =,Sudex-AR.dat,Time Taken =,487766
+Globac z.jpg,Result =,Femovan.dat,Time Taken =,446621
+Glodent.jpg,Result =,Sporidex.dat,Time Taken =,393336
+Glucomet trio 2_0_0_3.jpg,Result =,Sporidex.dat,Time Taken =,476074
+Glucotrol MF.jpg,Result =,Rantac Inject.dat,Time Taken =,349765
+Glyciphage 850.jpg,Result =,Sporidex.dat,Time Taken =,443460
+Glyciphage g1 forte.jpg,Result =,Femovan.dat,Time Taken =,511089
+Glyciphage g2 Forte.jpg,Result =,Rantac Inject.dat,Time Taken =,515260
+Glyciphage g2.jpg,Result =,anabel ct.dat,Time Taken =,512877
+Glyciphage PG2.jpg,Result =,Sudex-AR.dat,Time Taken =,502315
+Glycomet 1 GM.jpg,Result =,enafix.dat,Time Taken =,521563
+Glycomet 850 SR.jpg,Result =,Sporidex.dat,Time Taken =,502731
+Glycomet 850.jpg,Result =,Femovan.dat,Time Taken =,537835
+Glycomet gp 0.5 forte.jpg,Result =,Sporidex.dat,Time Taken =,492151
+Glycomet gp 1.jpg,Result =,Glycomet gp 1.dat,Time Taken =,526125
+Glycomet gp 2.jpg,Result =,enafix.dat,Time Taken =,548482
+Glyp TEN.jpg,Result =,Sudex-AR.dat,Time Taken =,506591
+Grilinctus BM syrp.jpg,Result =,Sporidex.dat,Time Taken =,467498
+Happi D.jpg,Result =,Femovan.dat,Time Taken =,407110
+Happi.jpg,Result =,Sudex-AR.dat,Time Taken =,482957
+Hemogold.jpg,Result =,Sporidex.dat,Time Taken =,413069
+Herfem.jpg,Result =,Sporidex.dat,Time Taken =,455732
+hqtor.png,Result =,Sporidex.dat,Time Taken =,660991
+Hydroheal 15g.jpg,Result =,Sporidex.dat,Time Taken =,350259
+Hyocimar s CR.jpg,Result =,Sporidex.dat,Time Taken =,455426
+Hyocimax S.jpg,Result =,Femovan.dat,Time Taken =,475990
+IBUCLIN P.jpg,Result =,Shy XT.dat,Time Taken =,647956
+Izra 20.jpg,Result =,Sporidex.dat,Time Taken =,577528
+Jaira M.jpg,Result =,C toin 100.dat,Time Taken =,506870
+Jalra 50.jpg,Result =,Rantac Inject.dat,Time Taken =,420401
+Juliana.jpg,Result =,Sudex-AR.dat,Time Taken =,385046
+Ketorol DT.jpg,Result =,Pediflor.dat,Time Taken =,365993
+Ketorol.jpg,Result =,enafix.dat,Time Taken =,443395
+lamitor dt 25.png,Result =,Sporidex.dat,Time Taken =,526387
+lamitor dt 50.png,Result =,Sporidex.dat,Time Taken =,562190
+Le Zyncet.jpg,Result =,Rantac Inject.dat,Time Taken =,421615
+lefra 10.png,Result =,lefra 10.dat,Time Taken =,595917
+lefra 20.png,Result =,Sudex-AR.dat,Time Taken =,641973
+Leon 500.jpg,Result =,Derobin.dat,Time Taken =,436716
+Libitone Forte.jpg,Result =,KETOROL DT.dat,Time Taken =,434976
+Lipicard 160.jpg,Result =,Sporidex.dat,Time Taken =,608018
+Lipicard AV.jpg,Result =,Femovan.dat,Time Taken =,582595
+Lipicard.jpg,Result =,Sporidex.dat,Time Taken =,516785
+Listerine.jpg,Result =,Rantac Inject.dat,Time Taken =,446775
+listril 5.png,Result =,listril 5.dat,Time Taken =,676465
+lopamide.png,Result =,Sporidex.dat,Time Taken =,590550
+Loram 5.jpg,Result =,Loram 5.dat,Time Taken =,380812
+lorvas.png,Result =,lorvas.dat,Time Taken =,472911
+Losar 25.jpg,Result =,Femovan.dat,Time Taken =,449650
+Losar A.jpg,Result =,Femovan.dat,Time Taken =,465548
+Losar Beta.jpg,Result =,Femovan.dat,Time Taken =,450010
+Losar H.jpg,Result =,Rantac Inject.dat,Time Taken =,437145
+Mashyne 1000.jpg,Result =,Sudex-AR.dat,Time Taken =,463025
+Medler plus.jpg,Result =,Sporidex.dat,Time Taken =,541722
+Medler.jpg,Result =,Sporidex.dat,Time Taken =,489037
+Medomol 300.png,Result =,Medomol 300.dat,Time Taken =,669324
+Medomol 500.png,Result =,Medomol 500.dat,Time Taken =,552757
+Medomol 650.jpg,Result =,Sporidex.dat,Time Taken =,587880
+Megatrum.jpg,Result =,Sporidex.dat,Time Taken =,342432
+Melanocyl ointment.jpg,Result =,enafix.dat,Time Taken =,406817
+Melanocyl sol.jpg,Result =,diclogesic rr injection.dat,Time Taken =,423031
+Melanocyl tab.jpg,Result =,Sporidex.dat,Time Taken =,457521
+Meprocin syrp.jpg,Result =,Sporidex.dat,Time Taken =,464192
+Meprocin.jpg,Result =,diclogesic rr injection.dat,Time Taken =,564263
+Metocard XL 50.png,Result =,Metocard XL 50.dat,Time Taken =,581889
+Metorgyl gel.jpg,Result =,anabel ct.dat,Time Taken =,341147
+MetorGyl P.jpg,Result =,Femovan.dat,Time Taken =,317671
+Metrodif MPS tab.jpg,Result =,diclogesic rr injection.dat,Time Taken =,544718
+metsmall 500.jpg,Result =,Femovan.dat,Time Taken =,513921
+Metzok 25.jpg,Result =,Derobin.dat,Time Taken =,365608
+miliana.jpg,Result =,diclogesic rr injection.dat,Time Taken =,397842
+Minoz bpo.jpg,Result =,Sporidex.dat,Time Taken =,372499
+Mintop 10.jpg,Result =,Sporidex.dat,Time Taken =,547482
+Mobizox.jpg,Result =,Derobin.dat,Time Taken =,501358
+Modlip 10.png,Result =,Modlip 10.dat,Time Taken =,566590
+Modlip asg 75.png,Result =,Sporidex.dat,Time Taken =,667199
+Moisturex soft.jpg,Result =,Sporidex.dat,Time Taken =,457633
+Moisturex.jpg,Result =,Sporidex.dat,Time Taken =,396958
+Mucolite.jpg,Result =,Sporidex.dat,Time Taken =,392207
+Naturogest 200.jpg,Result =,Rantac Inject.dat,Time Taken =,490149
+Naturogest 300.jpg,Result =,Rantac Inject.dat,Time Taken =,498848
+Naturogest AQ 25.jpg,Result =,Sporidex.dat,Time Taken =,387319
+Naturogest SR 200.jpg,Result =,Derobin.dat,Time Taken =,502750
+Natvie.jpg,Result =,Dermolam.dat,Time Taken =,384186
+Nebicard 25.png,Result =,Nebicard 25.dat,Time Taken =,695528
+Nebicard SM.png,Result =,Dermolam.dat,Time Taken =,784546
+Neotomic Enema.jpg,Result =,Sporidex.dat,Time Taken =,441454
+Nervijen 2ml.jpg,Result =,Sporidex.dat,Time Taken =,405882
+Nervijen D.jpg,Result =,Dermolam.dat,Time Taken =,432767
+Nervijen P.jpg,Result =,Rantac Inject.dat,Time Taken =,447730
+Nervijen XT.jpg,Result =,Senquel F.dat,Time Taken =,473922
+Nervijen.jpg,Result =,Sporidex.dat,Time Taken =,527004
+Nexpro 20.png,Result =,Sporidex.dat,Time Taken =,618145
+Nexpro 40.png,Result =,Nexpro 40.dat,Time Taken =,698552
+Nexpro Fast 20.png,Result =,Sporidex.dat,Time Taken =,663584
+Nexpro RD 20.png,Result =,Nexpro RD 20.dat,Time Taken =,618808
+Nexpro RD 40.png,Result =,Nexpro RD 40.dat,Time Taken =,808787
+Nicardia CD retard - 30.jpg,Result =,enafix.dat,Time Taken =,507299
+Nicardia retard 10.jpg,Result =,Sporidex.dat,Time Taken =,622903
+Nimodip.jpg,Result =,Sudex-AR.dat,Time Taken =,462719
+Nise gel.jpg,Result =,Sporidex.dat,Time Taken =,365167
+Nise.jpg,Result =,diclogesic rr injection.dat,Time Taken =,511036
+Nor-metrogyl plus.jpg,Result =,Sporidex.dat,Time Taken =,552232
+Odimont LC.png,Result =,Femovan.dat,Time Taken =,869749
+OF 200.jpg,Result =,Minoz BPO.dat,Time Taken =,678886
+Ojen 200.jpg,Result =,Sporidex.dat,Time Taken =,441392
+Olsar H 20.jpg,Result =,Femovan.dat,Time Taken =,534206
+Omez 10.jpg,Result =,diclogesic rr injection.dat,Time Taken =,461276
+Omez 40.jpg,Result =,Dermolam.dat,Time Taken =,437308
+Omez caps.jpg,Result =,Rantac Inject.dat,Time Taken =,423860
+Omez D.jpg,Result =,Sudex-AR.dat,Time Taken =,470721
+Omez FF 20.jpg,Result =,Sudex-AR.dat,Time Taken =,307782
+Omez inj.jpg,Result =,Sporidex.dat,Time Taken =,441268
+Omez.jpg,Result =,Dermolam.dat,Time Taken =,341206
+Omnident.jpg,Result =,C toin 100.dat,Time Taken =,366764
+One up gold D.png,Result =,Sporidex.dat,Time Taken =,626935
+Orcibest.jpg,Result =,Derobin.dat,Time Taken =,343831
+Oxybuta.jpg,Result =,Sporidex.dat,Time Taken =,606326
+P Cool.jpg,Result =,Sporidex.dat,Time Taken =,439658
+Pecef 200.jpg,Result =,Femovan.dat,Time Taken =,545726
+Pevesca plus.jpg,Result =,Femovan.dat,Time Taken =,744084
+Pioz MFG 1.jpg,Result =,Femovan.dat,Time Taken =,570878
+Powergesic plus gel.jpg,Result =,Combimist l.dat,Time Taken =,382978
+Powergesic.jpg,Result =,Sporidex.dat,Time Taken =,471573
+Prax 10.png,Result =,Prax 10.dat,Time Taken =,585632
+Pregalin 75.png,Result =,Sporidex.dat,Time Taken =,654586
+PregnidoxinNU.jpg,Result =,Sporidex.dat,Time Taken =,483364
+Prexan.png,Result =,Prexan.dat,Time Taken =,686224
+Progynova 2mg.jpg,Result =,Rantac Inject.dat,Time Taken =,426781
+proliser.jpg,Result =,Sporidex.dat,Time Taken =,470667
+Proluton Depot.jpg,Result =,Xylomist.dat,Time Taken =,409045
+R bex.jpg,Result =,Sporidex.dat,Time Taken =,467091
+Rantac 150.jpg,Result =,Sudex-AR.dat,Time Taken =,534304
+Rantac 300.jpg,Result =,Femovan.dat,Time Taken =,634444
+Rantac Inject.jpg,Result =,Rantac Inject.dat,Time Taken =,512089
+Ranx 500.jpg,Result =,Derobin.dat,Time Taken =,462324
+Reclide 40.jpg,Result =,Reclide 40.dat,Time Taken =,496151
+Reclide.jpg,Result =,Femovan.dat,Time Taken =,448856
+Reclimet.jpg,Result =,Sudex-AR.dat,Time Taken =,412639
+Redotil.jpg,Result =,anabel ct.dat,Time Taken =,492363
+Regulate.jpg,Result =,Derobin.dat,Time Taken =,392724
+Relaxyl gel.jpg,Result =,Sporidex.dat,Time Taken =,535887
+Relent.jpg,Result =,enafix.dat,Time Taken =,416600
+Resophyl 150.jpg,Result =,Rantac Inject.dat,Time Taken =,518808
+Resophyl Forte.jpg,Result =,Sporidex.dat,Time Taken =,597919
+RetOZ 60.jpg,Result =,Senquel F.dat,Time Taken =,389006
+RoseDay A 10.jpg,Result =,Femovan.dat,Time Taken =,593458
+RoseDay f 10.jpg,Result =,Sporidex.dat,Time Taken =,527543
+Rozat 20.jpg,Result =,Sporidex.dat,Time Taken =,574046
+Rozucor 5.png,Result =,anabel ct.dat,Time Taken =,606460
+Rozucor ASP 10.png,Result =,Rozucor ASP 10.dat,Time Taken =,757450
+Servil baby.jpg,Result =,Sporidex.dat,Time Taken =,466909
+Servil.jpg,Result =,Sporidex.dat,Time Taken =,519123
+Sevista.jpg,Result =,Femovan.dat,Time Taken =,516134
+Shelcal 250.png,Result =,Sporidex.dat,Time Taken =,784172
+Shelcal 500.png,Result =,Sporidex.dat,Time Taken =,712924
+Shelcal HD 12.png,Result =,Sporidex.dat,Time Taken =,674324
+Shelcal M.png,Result =,Shelcal M.dat,Time Taken =,642349
+Shelcal os.png,Result =,KETOROL DT.dat,Time Taken =,607404
+SHY NM.jpg,Result =,Sporidex.dat,Time Taken =,515796
+Shy OR.jpg,Result =,Sporidex.dat,Time Taken =,485513
+SHY XT.jpg,Result =,Sporidex.dat,Time Taken =,462485
+SHY.jpg,Result =,Sporidex.dat,Time Taken =,551815
+Siloderm Mixi.jpg,Result =,Sporidex.dat,Time Taken =,423248
+Siloderm.jpg,Result =,Sporidex.dat,Time Taken =,494703
+Skinlite.jpg,Result =,Rantac Inject.dat,Time Taken =,371425
+Sporidex 125.jpg,Result =,Femovan.dat,Time Taken =,414554
+Sporidex 500.jpg,Result =,Sporidex.dat,Time Taken =,518625
+Sporidex drops.jpg,Result =,Sporidex.dat,Time Taken =,435236
+Sporidex.jpg,Result =,Sporidex.dat,Time Taken =,478021
+Stamlo 10.jpg,Result =,Femovan.dat,Time Taken =,787989
+Stamlo 25.jpg,Result =,Femovan.dat,Time Taken =,509035
+Stamlo Beta.jpg,Result =,Sudex-AR.dat,Time Taken =,507294
+Stamlo T.jpg,Result =,Sporidex.dat,Time Taken =,512483
+Storvas 10.jpg,Result =,Storvas 10.dat,Time Taken =,567029
+Storvas 20.jpg,Result =,Derobin.dat,Time Taken =,542074
+Storvas 40.jpg,Result =,Storvas 40.dat,Time Taken =,536163
+Styptovit E.jpg,Result =,Femovan.dat,Time Taken =,430009
+Sudex AR.jpg,Result =,Sporidex.dat,Time Taken =,540672
+Sudin cold.jpg,Result =,Sudex-AR.dat,Time Taken =,705995
+Sudin D.jpg,Result =,Sporidex.dat,Time Taken =,665161
+Sulisert.jpg,Result =,Sporidex.dat,Time Taken =,437120
+Surfaz SN.jpg,Result =,Sporidex.dat,Time Taken =,406101
+Surfaz.jpg,Result =,Sporidex.dat,Time Taken =,415491
+Tabi.jpg,Result =,Sporidex.dat,Time Taken =,365926
+Tazloc 40.jpg,Result =,Sudex-AR.dat,Time Taken =,535813
+Tazloc H.jpg,Result =,Femovan.dat,Time Taken =,581528
+Tazloc Trio 80.jpg,Result =,Sporidex.dat,Time Taken =,522205
+Teczine M.jpg,Result =,Teczine M.dat,Time Taken =,603189
+Teczine.jpg,Result =,Derobin.dat,Time Taken =,537457
+Telday 20.jpg,Result =,Femovan.dat,Time Taken =,479217
+Telday 40.jpg,Result =,Sporidex.dat,Time Taken =,508396
+Telday 80 H.jpg,Result =,Telday 80 H.dat,Time Taken =,493403
+Telday AM.jpg,Result =,Telday AM.dat,Time Taken =,477221
+Telday H.jpg,Result =,Rantac Inject.dat,Time Taken =,598410
+Telsar 20.jpg,Result =,Sudex-AR.dat,Time Taken =,455861
+Telsartan 40.jpg,Result =,enafix.dat,Time Taken =,510677
+Telsartan H.jpg,Result =,Derobin.dat,Time Taken =,456980
+TG TOR 5.jpg,Result =,Femovan.dat,Time Taken =,515610
+Tide 10.jpg,Result =,Femovan.dat,Time Taken =,399353
+Tide 20.jpg,Result =,Rantac Inject.dat,Time Taken =,543512
+Tide 5.jpg,Result =,Femovan.dat,Time Taken =,463498
+Tolol AM 50.jpg,Result =,Femovan.dat,Time Taken =,508205
+Tolol XR 50.jpg,Result =,Derobin.dat,Time Taken =,467017
+Topcef 100 Dt.jpg,Result =,Femovan.dat,Time Taken =,440575
+Topcef 200.jpg,Result =,Topcef 200.dat,Time Taken =,477462
+Topcef o 200.jpg,Result =,Topcef o 200.dat,Time Taken =,492593
+Topcid 40.jpg,Result =,Derobin.dat,Time Taken =,501559
+torkast fx.png,Result =,torkast fx.dat,Time Taken =,694831
+Torleva 500.jpg,Result =,Sporidex.dat,Time Taken =,417422
+Tozaar 50.jpg,Result =,Femovan.dat,Time Taken =,472678
+Tozaar H.jpg,Result =,Sporidex.dat,Time Taken =,536861
+Triben B.jpg,Result =,KETOROL DT.dat,Time Taken =,368037
+Triben plus.jpg,Result =,Sporidex.dat,Time Taken =,351158
+Triglynase 1.jpg,Result =,Triglynase 1.dat,Time Taken =,661036
+Triglynase 2 Forte.jpg,Result =,Triglynase 2 Forte.dat,Time Taken =,719226
+Triglynase 2.jpg,Result =,Femovan.dat,Time Taken =,678048
+TripleACal.jpg,Result =,Sudex-AR.dat,Time Taken =,499757
+Triquilar.jpg,Result =,Dermolam.dat,Time Taken =,354084
+Tuka 05.jpg,Result =,Tuka 05.dat,Time Taken =,435218
+Unistar 75.jpg,Result =,Revital H.dat,Time Taken =,491577
+Valparin 200 syrp.jpg,Result =,Sporidex.dat,Time Taken =,569552
+Valparin 200.jpg,Result =,KETOROL DT.dat,Time Taken =,622997
+Valparin chrono 200.jpg,Result =,Valparin chrono 200.dat,Time Taken =,608847
+Valparin chrono 300.jpg,Result =,Minoz BPO.dat,Time Taken =,554000
+Veloz 20.jpg,Result =,Veloz 20.dat,Time Taken =,608069
+Veloz L.jpg,Result =,Minoz BPO.dat,Time Taken =,478745
+Veloz M.jpg,Result =,Veloz M.dat,Time Taken =,541681
+Vibact DS.jpg,Result =,KETOROL DT.dat,Time Taken =,626474
+Vibact.jpg,Result =,Sudex-AR.dat,Time Taken =,661254
+Vibrania.jpg,Result =,Sporidex.dat,Time Taken =,562036
+Vizlac.jpg,Result =,Femovan.dat,Time Taken =,768617
+Vobose 02.jpg,Result =,Sporidex.dat,Time Taken =,472055
+Vobose m 03.jpg,Result =,Femovan.dat,Time Taken =,503204
+Voglitor MD 03.jpg,Result =,Femovan.dat,Time Taken =,433029
+Voglitor Mf 03.jpg,Result =,Voglitor Mf 03.dat,Time Taken =,534714
+volini.png,Result =,Sporidex.dat,Time Taken =,771239
+Xanilax SR 200.jpg,Result =,Rantac Inject.dat,Time Taken =,560284
+Xylomist p.jpg,Result =,Sporidex.dat,Time Taken =,441282
+Yasmin.jpg,Result =,Sudex-AR.dat,Time Taken =,427894
+Zabesta AM.jpg,Result =,Sporidex.dat,Time Taken =,469720
+Zaftadol plus.jpg,Result =,Femovan.dat,Time Taken =,479140
+Zedott.jpg,Result =,Sporidex.dat,Time Taken =,469319
+Zosta 10.jpg,Result =,Femovan.dat,Time Taken =,499152

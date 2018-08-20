@@ -1,0 +1,382 @@
+Acegesic Angle.png,Result =,Acegesic.dat,Time Taken =,111809
+Ahaglow Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,24726
+Alfoo Angle.jpg,Result =,Doxolin.dat,Time Taken =,35057
+Amflor Angle.jpg,Result =,Amflor.dat,Time Taken =,31313
+Ampoxin 250 Angle.jpg,Result =,Doxolin.dat,Time Taken =,175044
+Ampoxin 500 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,243855
+Ampoxin Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,33434
+Ampoxin kid Angle.jpg,Result =,Carnisure 500.dat,Time Taken =,196424
+Anabel  CT Angle.jpg,Result =,anabel ct.dat,Time Taken =,37959
+Anabel Angle.jpg,Result =,Anabel.dat,Time Taken =,48786
+Angispan TR Angle.jpg,Result =,Ranx 500.dat,Time Taken =,29523
+Anovate Angle.jpg,Result =,Luciara cream.dat,Time Taken =,36071
+Antoxid Angle.jpg,Result =,Duoluton L.dat,Time Taken =,53585
+Arkamin H Angle.jpg,Result =,Luciara cream.dat,Time Taken =,95790
+Aroff SR Angle.jpg,Result =,Servil.dat,Time Taken =,93237
+Arumin gel Angle.jpg,Result =,Stolin R.dat,Time Taken =,58085
+Astharid T Angle.jpg,Result =,Doxolin.dat,Time Taken =,83134
+Asthraid Plus Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,84593
+Atocor 40 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,56086
+Azulix 1 Angle.png,Result =,Doxolin.dat,Time Taken =,178483
+Azulix 1 MF Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,114397
+Azulix 2 Angle.png,Result =,Azulix 2.dat,Time Taken =,204233
+Azulix 2 MF Angle.png,Result =,Stolin R.dat,Time Taken =,155498
+Azulix 3 MF Angle.png,Result =,Azulix 3 MF.dat,Time Taken =,167273
+Azulix 4 MF ANgle.png,Result =,Glycomet gp 1.dat,Time Taken =,187240
+B Long Angle.png,Result =,Triben Skin cream.dat,Time Taken =,137297
+Barbitoin Angle.png,Result =,Stolin R.dat,Time Taken =,144437
+BecoZinc Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,93164
+Becozinc H Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,62728
+Benadryl Syrp Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,48727
+Beta -Nicardia Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,83589
+Betacard AM Angle.png,Result =,Betacard AM.dat,Time Taken =,145764
+Biminox LF Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,98458
+Brakke Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,94265
+Bromex A Angle.jpg,Result =,Luciara cream.dat,Time Taken =,48381
+C Toin 100 Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,37065
+Capnyl Angle.jpg,Result =,Doxolin.dat,Time Taken =,102717
+carbatol cr 200 angle.png,Result =,Doxolin.dat,Time Taken =,171517
+carbatol cr 400 angle.png,Result =,Servil.dat,Time Taken =,139993
+carnisure plus angle.png,Result =,Minoz BPO.dat,Time Taken =,113127
+Carti safe d Angle.jpg,Result =,Luciara cream.dat,Time Taken =,118035
+Cartilite 750 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,77292
+change angle.png,Result =,Servil.dat,Time Taken =,137394
+Chymoral AP Angle.png,Result =,Doxolin.dat,Time Taken =,141445
+Chymoral Forte Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,194994
+Chymoral plus Angle.png,Result =,Doxolin.dat,Time Taken =,154151
+cilacar 10 Angle.jpg,Result =,Doxolin.dat,Time Taken =,103312
+Cilacar 20 Angle.jpg,Result =,Doxolin.dat,Time Taken =,97303
+Cilacar 5 Angle.jpg,Result =,Doxolin.dat,Time Taken =,88075
+Cilacar m Angle.jpg,Result =,Doxolin.dat,Time Taken =,116497
+Citralka Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,49197
+Clamp 625 Angle.jpg,Result =,Luciara cream.dat,Time Taken =,108396
+Clodtel Plus Angle.jpg,Result =,Servil.dat,Time Taken =,213435
+Clotan Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,128442
+Colgin Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,72944
+Colicure Angle.jpg,Result =,Servil.dat,Time Taken =,109035
+Colicure syrup Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,55875
+Combimist l Angle.jpg,Result =,Luciara cream.dat,Time Taken =,40643
+Combimist L sachet Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,120672
+Complamina Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,55590
+Complamina retard 500 Angle.jpg,Result =,Luciara cream.dat,Time Taken =,77544
+Corbis 5 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,197095
+cordarone angle.png,Result =,Stolin R.dat,Time Taken =,226198
+cordarone x angle.png,Result =,Glycomet gp 1.dat,Time Taken =,165585
+Corvadil A Angle.jpg,Result =,Servil.dat,Time Taken =,134866
+covance at Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,157045
+Covance D Angle.jpg,Result =,Doxolin.dat,Time Taken =,107557
+Crolim power ointment Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,33782
+Cyclenorm P Angle.jpg,Result =,Ranx 500.dat,Time Taken =,53786
+deplatt a 150 angle.png,Result =,Deplatt a 150.dat,Time Taken =,120563
+deplatt a 75 angle.png,Result =,Doxolin.dat,Time Taken =,207160
+DEplatt Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,182931
+deplatt cv 20 angle.png,Result =,Doxolin.dat,Time Taken =,219633
+Deriphyllin M Angle.jpg,Result =,Senquel F.dat,Time Taken =,218663
+Deriphyllin OD 300 Angle.jpg,Result =,Luciara cream.dat,Time Taken =,86703
+Deriphyllin OD 450 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,106261
+Deriphyllin retard 150 Angle.jpg,Result =,Servil.dat,Time Taken =,134166
+Derisone l Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,69136
+Dexorange caps Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,50033
+Diane 35 Angle.jpg,Result =,Diane 35.dat,Time Taken =,63169
+Diataal Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,103777
+Diataal D Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,72704
+Diavit plus Angle.jpg,Result =,Doxolin.dat,Time Taken =,78517
+dibetic gb angle.png,Result =,Doxolin.dat,Time Taken =,171584
+diclogesic angle.png,Result =,Carnisure 500.dat,Time Taken =,277917
+diclogesic rr injection angle.png,Result =,Duoluton L.dat,Time Taken =,114911
+diclogesic sp angle.png,Result =,Servil.dat,Time Taken =,202120
+Dicloran A Angle.jpg,Result =,Stolin R.dat,Time Taken =,147662
+Diprovate plus Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,37506
+Domstal Angle.jpg,Result =,Duoluton L.dat,Time Taken =,34220
+Domstal Baby Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,39359
+domstal dt angle.png,Result =,Luciara cream.dat,Time Taken =,113429
+Domstal O Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,229044
+Domstal RD Angle.png,Result =,Minoz BPO.dat,Time Taken =,197529
+Doxolin Angle.jpg,Result =,Stolin R.dat,Time Taken =,151285
+Doxt sl Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,156249
+Drego D Angle.jpg,Result =,Doxolin.dat,Time Taken =,133543
+Droxyl 250 DT ANgle.png,Result =,Glycomet gp 1.dat,Time Taken =,125626
+Droxyl 500 Angle.png,Result =,Stolin R.dat,Time Taken =,237385
+droxyl clav 500 Angle.png,Result =,Duoluton L.dat,Time Taken =,241153
+Duoluton L Angle.jpg,Result =,Luciara cream.dat,Time Taken =,35660
+Duotrol Angle.jpg,Result =,Doxolin.dat,Time Taken =,57426
+Dutas T Angle.jpg,Result =,Luciara cream.dat,Time Taken =,103005
+dycotiam angle.png,Result =,Doxolin.dat,Time Taken =,123548
+Dynapres 04 Angle.jpg,Result =,Doxolin.dat,Time Taken =,117459
+EcoSprin 75 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,129765
+EcoSprin av 150 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,252792
+Ecosprin av 150_20 Angle.jpg,Result =,Doxolin.dat,Time Taken =,271596
+Ecosprin gold 20 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,307278
+Elcure Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,146431
+Emgard 60 Angle.jpg,Result =,Stolin R.dat,Time Taken =,83608
+Emlukast FX Angle.jpg,Result =,Doxolin.dat,Time Taken =,180174
+Emsolone 10 DT Angle.jpg,Result =,Luciara cream.dat,Time Taken =,140765
+Emsolone 5 DT Angle.jpg,Result =,Stolin R.dat,Time Taken =,95877
+Ena Fix Angle.jpg,Result =,Luciara cream.dat,Time Taken =,35108
+Enam 10 Angle.jpg,Result =,nise gel.dat,Time Taken =,143526
+Enam 25 Angle.jpg,Result =,Doxolin.dat,Time Taken =,100663
+Erytop Angle.jpg,Result =,Ranx 500.dat,Time Taken =,35709
+Euspas D Angle.jpg,Result =,Stolin R.dat,Time Taken =,45266
+Femovan Angle.jpg,Result =,Triben CN.dat,Time Taken =,33912
+Finehart Angle.jpg,Result =,Doxolin.dat,Time Taken =,54846
+Flavospas Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,75282
+Folsafe L Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,170229
+Formonide 100 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,53591
+Formonide 200 Angle.jpg,Result =,Ranx 500.dat,Time Taken =,57887
+Formonide 400 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,58772
+Gelusil Original Angle.jpg,Result =,Losar 50.dat,Time Taken =,124938
+Gemvert Angle.jpg,Result =,Doxolin.dat,Time Taken =,73899
+Gentalene Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,46606
+Gerbisa ANgle.jpg,Result =,Minoz BPO.dat,Time Taken =,104667
+Gerbisa tab Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,122859
+Gla 120 Angle.jpg,Result =,Doxolin.dat,Time Taken =,131590
+Glide ANgle.jpg,Result =,Doxolin.dat,Time Taken =,66127
+Glimet Angle.jpg,Result =,Doxolin.dat,Time Taken =,51353
+Glimet DS Angle.jpg,Result =,Doxolin.dat,Time Taken =,105855
+Glimy 1 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,88837
+Glimy M Angle.jpg,Result =,Luciara cream.dat,Time Taken =,63960
+Globac z Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,293215
+Glodent Angle.jpg,Result =,Doxolin.dat,Time Taken =,59819
+Glucomet trio 2_0.3 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,92283
+Glucotrol MF angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,58432
+Glyciphage 850 Angel.jpg,Result =,Doxolin.dat,Time Taken =,191929
+Glyciphage Angle.jpg,Result =,Combimist l.dat,Time Taken =,110935
+Glyciphage g1 Forte Angle.jpg,Result =,Luciara cream.dat,Time Taken =,67869
+Glyciphage g2 angle.jpg,Result =,Stolin R.dat,Time Taken =,104589
+Glyciphage G2 Forte Angle.jpg,Result =,Doxolin.dat,Time Taken =,119511
+Glyciphage pg2 Angle.jpg,Result =,Combimist l.dat,Time Taken =,112845
+Glycomet 1 GM Angle.jpg,Result =,Doxolin.dat,Time Taken =,174500
+Glycomet 850 Angle.jpg,Result =,Doxolin.dat,Time Taken =,141008
+Glycomet 850 SR Angle.jpg,Result =,Doxolin.dat,Time Taken =,115731
+Glycomet gp 0.5 forte Angle.jpg,Result =,Doxolin.dat,Time Taken =,141321
+Glycomet gp 1 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,127357
+Glycomet gp 2 Angle.jpg,Result =,Doxolin.dat,Time Taken =,152415
+Glyp TEN Angle.jpg,Result =,Doxolin.dat,Time Taken =,54403
+Grilinctus BM Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,70380
+Happi Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,197989
+Happi D Angle.jpg,Result =,Stolin R.dat,Time Taken =,219696
+Hemogold Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,51776
+Herfem Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,50453
+hqtor angle.png,Result =,Doxolin.dat,Time Taken =,171012
+Hydroheal am Angle.jpg,Result =,Ranx 500.dat,Time Taken =,59259
+Hyocimar s CR Angle.jpg,Result =,Doxolin.dat,Time Taken =,111921
+Hyocimax S Angle.jpg,Result =,Formonide 400.dat,Time Taken =,170239
+Ibuclin P Angle.jpg,Result =,Stolin R.dat,Time Taken =,182329
+Izra 20 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,225563
+Jalra 50 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,89572
+Jalra M 50 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,117485
+Juliana Angle.jpg,Result =,Luciara cream.dat,Time Taken =,35459
+Ketorol Angle.jpg,Result =,Doxolin.dat,Time Taken =,91563
+Ketorol DT angle.jpg,Result =,KETOROL DT.dat,Time Taken =,83890
+lamitor dt 25 angle.png,Result =,Luciara cream.dat,Time Taken =,152499
+lamitor dt 50 angle.png,Result =,Crixan gel.dat,Time Taken =,169687
+Le Zyncet Angle.jpg,Result =,Doxolin.dat,Time Taken =,103053
+lefra 10 angle.png,Result =,Carnisure 500.dat,Time Taken =,143941
+lefra 20 angle.png,Result =,Carnisure 500.dat,Time Taken =,236347
+Leon 500 Angle.jpg,Result =,Doxolin.dat,Time Taken =,94026
+Libtone Forte Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,135968
+Lipcard Angle.jpg,Result =,Doxolin.dat,Time Taken =,116008
+Lipicard 160 Angle.jpg,Result =,Doxolin.dat,Time Taken =,123861
+Lipicard AV Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,177884
+Listerine Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,57654
+listril 5 angle.png,Result =,Doxolin.dat,Time Taken =,162997
+lopamide angle.png,Result =,Crixan gel.dat,Time Taken =,130307
+Loram 5 Angle.jpg,Result =,Carnisure 500.dat,Time Taken =,241684
+lorvas angle.png,Result =,Glycomet gp 1.dat,Time Taken =,140260
+Losar 25 Angle.jpg,Result =,Losar 25.dat,Time Taken =,133468
+Losar A Angle.jpg,Result =,Stolin R.dat,Time Taken =,114328
+Losar Beta Angle.jpg,Result =,Servil.dat,Time Taken =,152287
+Losar H Angle.jpg,Result =,Doxolin.dat,Time Taken =,132426
+Mashyne 1000 Angle.jpg,Result =,Doxolin.dat,Time Taken =,178163
+Medle Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,59185
+Medler plus Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,43960
+Medomol 300 Angle.png,Result =,Doxolin.dat,Time Taken =,103151
+Medomol 500 Angle.png,Result =,Servil.dat,Time Taken =,130594
+Medomol 650 Angle.jpg,Result =,Doxolin.dat,Time Taken =,106979
+Megatrum Angle.jpg,Result =,Doxolin.dat,Time Taken =,42873
+Melancoyl Angle.jpg,Result =,Luciara cream.dat,Time Taken =,48789
+Melanocyl oint Angle.jpg,Result =,Luciara cream.dat,Time Taken =,60855
+Melanocyl Tab Angle.jpg,Result =,Duoluton L.dat,Time Taken =,84151
+Meprocin Angle.jpg,Result =,Luciara cream.dat,Time Taken =,72223
+Meprocin syrp Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,49745
+Metocard XL 50 Angle.png,Result =,Doxolin.dat,Time Taken =,140218
+Metorgyl Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,47760
+Metrodif MPS Angle.jpg,Result =,Doxolin.dat,Time Taken =,85079
+metsmall 500 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,121921
+Metzok 25 Angle.jpg,Result =,Stolin R.dat,Time Taken =,81901
+miliana Angle.jpg,Result =,Luciara cream.dat,Time Taken =,62056
+Minoz bpo Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,48935
+Mintop 10 Angle.jpg,Result =,Storvas 10.dat,Time Taken =,53479
+Mobizox Angle.jpg,Result =,Doxolin.dat,Time Taken =,163138
+Modlip 10 Angle.png,Result =,Modlip 10.dat,Time Taken =,114509
+Modlip asg 75 angle.png,Result =,Minoz BPO.dat,Time Taken =,238122
+Moisturex Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,40690
+Moisturex soft Angle.jpg,Result =,Moisturex soft.dat,Time Taken =,55487
+Naturogest 200 ANgle.jpg,Result =,Doxolin.dat,Time Taken =,169298
+Naturogest 300 Angle.jpg,Result =,Doxolin.dat,Time Taken =,146310
+Naturogest AQ 25 Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,54445
+Naturogest SR 200 Angle.jpg,Result =,Luciara cream.dat,Time Taken =,130589
+Natvie Angle.jpg,Result =,Doxolin.dat,Time Taken =,53915
+Nebicard 25 Angle.png,Result =,Nebicard 25.dat,Time Taken =,192527
+Nebicard SM Angle.png,Result =,Crixan gel.dat,Time Taken =,180016
+Neotomic Enema Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,53977
+Nervijen D Angle.jpg,Result =,Doxolin.dat,Time Taken =,121415
+Nervijen Inject Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,51213
+Nervijen P Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,132072
+Nervijen plus Angle.jpg,Result =,Doxolin.dat,Time Taken =,51203
+Nervijen XT Angle.jpg,Result =,Doxolin.dat,Time Taken =,80441
+Nexpro 40 Angle.png,Result =,Doxolin.dat,Time Taken =,162408
+Nexpro Fast 20 Angle.png,Result =,Luciara cream.dat,Time Taken =,178120
+Nexpro RD 20 Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,146504
+Nexpro RD 40 Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,196633
+Nexxpro 20 Angle.png,Result =,Doxolin.dat,Time Taken =,185225
+Nicardia CD Retard 30 angle.jpg,Result =,Stolin R.dat,Time Taken =,188087
+Nicardia Retard 10 Angle.jpg,Result =,Doxolin.dat,Time Taken =,153749
+Nimodip Angle.jpg,Result =,Servil.dat,Time Taken =,140757
+Nise gel Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,79117
+nor metrogyl plus Angle.jpg,Result =,Doxolin.dat,Time Taken =,139356
+Odimont LC Angle.jpg,Result =,Doxolin.dat,Time Taken =,127781
+Odimont LC Angle.png,Result =,Luciara cream.dat,Time Taken =,132920
+OF 200 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,214406
+Ojen 200 Angle.jpg,Result =,Doxolin.dat,Time Taken =,74370
+Olsar H 20 Angle.jpg,Result =,Olsar-H 20.dat,Time Taken =,178334
+Omez 10 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,164234
+Omez 40 Angle.jpg,Result =,Doxolin.dat,Time Taken =,55113
+Omez Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,48498
+omez caps Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,132794
+Omez d Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,154972
+Omez ff 20 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,63399
+Omez Insta Angle.jpg,Result =,OMEZ.dat,Time Taken =,39814
+Omnident Angle.jpg,Result =,Luciara cream.dat,Time Taken =,97958
+One up gold D Angle.png,Result =,Doxolin.dat,Time Taken =,164475
+Orcibest Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,134845
+Oxybuta Angle.jpg,Result =,Doxolin.dat,Time Taken =,132674
+P Cool Angle.jpg,Result =,Crixan gel.dat,Time Taken =,72772
+Pecef 200 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,213318
+Pevesca plus Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,194676
+Pioz MFG 1 Angle.jpg,Result =,Doxolin.dat,Time Taken =,124260
+Powergesic Angle.jpg,Result =,Doxolin.dat,Time Taken =,83561
+Powergesic gel Angle.jpg,Result =,Luciara cream.dat,Time Taken =,50096
+Prax 10 Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,99691
+Pregalin 75 Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,198182
+Pregnedoxin Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,86285
+Prexan Angle.png,Result =,Triglynase 1 forte.dat,Time Taken =,177343
+Progynova 2mg Angle.jpg,Result =,Duoluton L.dat,Time Taken =,139863
+Prolise Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,79014
+Proluton Depot Angle.jpg,Result =,Proluton depot.dat,Time Taken =,155162
+R bex Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,57729
+Rantac 150 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,273598
+Rantac 300 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,298111
+Rantac Inject Angle.jpg,Result =,Rantac Inject.dat,Time Taken =,124854
+Ranx 500 Angle.jpg,Result =,Luciara cream.dat,Time Taken =,96978
+Reclide 40 Angle.jpg,Result =,Doxolin.dat,Time Taken =,219391
+Reclide Angle.jpg,Result =,Doxolin.dat,Time Taken =,253827
+Reclimet Angle.jpg,Result =,Luciara cream.dat,Time Taken =,61866
+Redotil Angle.jpg,Result =,Doxolin.dat,Time Taken =,71235
+Regulate Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,47951
+Relaxyl gel Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,85866
+Relent Angle.jpg,Result =,Luciara cream.dat,Time Taken =,79839
+Resophyl 150 Angle.jpg,Result =,Luciara cream.dat,Time Taken =,71683
+Resophyl 150 Tab Angle.jpg,Result =,Doxolin.dat,Time Taken =,100280
+Resophyl Forte Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,111781
+Ret oz 60 Angle.jpg,Result =,Doxolin.dat,Time Taken =,63039
+RoseDay A 10 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,213352
+RoseDay f 10 Angle.jpg,Result =,Doxolin.dat,Time Taken =,124455
+Rozat 20 Angle.jpg,Result =,Doxolin.dat,Time Taken =,140314
+Rozat F Angle.jpg,Result =,Doxolin.dat,Time Taken =,156287
+Rozucor 5 Angle.png,Result =,Doxolin.dat,Time Taken =,108953
+Rozucor ASP 10 Angle.png,Result =,Doxolin.dat,Time Taken =,291863
+Servil Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,54292
+Servil baby Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,42338
+Sevista Angle.jpg,Result =,Duoluton L.dat,Time Taken =,151476
+Shelcal 250 ANgle.png,Result =,Glycomet gp 1.dat,Time Taken =,209119
+Shelcal 500 Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,151891
+Shelcal HD 12 Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,140867
+Shelcal M Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,155176
+Shelcal os Angle.png,Result =,Doxolin.dat,Time Taken =,162614
+SHY Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,85524
+SHY NM Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,69756
+Shy OR Angle.jpg,Result =,Doxolin.dat,Time Taken =,55326
+SHY XT Angle.jpg,Result =,Doxolin.dat,Time Taken =,52895
+Siloderm Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,68769
+Siloderm Mixi Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,52800
+SkinLite Cream ANgle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,78402
+Sporidex 125 Angle.jpg,Result =,Servil.dat,Time Taken =,245648
+Sporidex 500 Angle.jpg,Result =,Doxolin.dat,Time Taken =,180330
+Sporidex Angle.jpg,Result =,Sporidex.dat,Time Taken =,65823
+Sporidex drops Angle.jpg,Result =,Duoluton L.dat,Time Taken =,61325
+Stamio Beta Angle.jpg,Result =,Stolin R.dat,Time Taken =,131268
+Stamla t Angle.jpg,Result =,Stolin R.dat,Time Taken =,88955
+Stamlo 10 Angle.jpg,Result =,Doxolin.dat,Time Taken =,171849
+Stamlo 25 Angle.jpg,Result =,TABI.dat,Time Taken =,171542
+Stamlo T.jpg,Result =,Doxolin.dat,Time Taken =,122938
+Storvas 10 Angle.jpg,Result =,Storvas 10.dat,Time Taken =,130664
+Storvas 20 Angle.jpg,Result =,Stolin R.dat,Time Taken =,131422
+Storvas 40 Angle.jpg,Result =,Storvas 40.dat,Time Taken =,157221
+Styptovit E Angle.jpg,Result =,Stolin R.dat,Time Taken =,126050
+Sudex AR Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,42519
+Sudin cold Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,117499
+Sudin D Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,55312
+Sulisert Angle.jpg,Result =,Ranx 500.dat,Time Taken =,110505
+Surfaz Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,81408
+Surfaz sn ANgle.jpg,Result =,Surfaz SN.dat,Time Taken =,59243
+Tabi Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,37636
+Tazloc 10 Angle.jpg,Result =,Doxolin.dat,Time Taken =,120499
+Tazloc H Angle.jpg,Result =,Doxolin.dat,Time Taken =,146290
+Tazloc Trio 80 Angle.jpg,Result =,Luciara cream.dat,Time Taken =,79832
+Teczine Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,80646
+Teczine M Angle.jpg,Result =,Stolin R.dat,Time Taken =,186385
+Teldau 20 angle.jpg,Result =,Duoluton L.dat,Time Taken =,96547
+Telday 40 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,175462
+Telday 80 H Angle.jpg,Result =,Doxolin.dat,Time Taken =,215344
+Telday AM ANgle .jpg,Result =,Minoz BPO.dat,Time Taken =,150935
+Telday H Angle.jpg,Result =,Relent.dat,Time Taken =,187131
+Telsar 20 Angle.jpg,Result =,Sudex-AR.dat,Time Taken =,191127
+Telsartan 40 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,113969
+Telsartan H Angle.jpg,Result =,Duoluton L.dat,Time Taken =,69155
+TG TOR 5 Angle.jpg,Result =,Stolin R.dat,Time Taken =,144819
+Tide 10 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,127791
+Tide 20 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,123511
+Tide 5 Angle.jpg,Result =,Doxolin.dat,Time Taken =,134147
+Tolol AM 50 Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,119427
+Tolol XR 50 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,172992
+Topcef 100 Dt Angle.jpg,Result =,Carnisure 500.dat,Time Taken =,178526
+Topcef 200 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,213193
+Topcef o 200 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,150138
+Topcid 40 Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,150562
+torkast fx angle.png,Result =,Carnisure 500.dat,Time Taken =,240773
+Torleva 500 Angle.jpg,Result =,Doxolin.dat,Time Taken =,100161
+Tozaar 50 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,158135
+Tozaar H Angle.jpg,Result =,Tozaar H.dat,Time Taken =,154457
+Triben B Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,49913
+Triben plus Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,51683
+Triglynase 1 Angle.jpg,Result =,Doxolin.dat,Time Taken =,156394
+Triglynase 2 Angle.jpg,Result =,Carnisure 500.dat,Time Taken =,129774
+Triglynase 2 Forte Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,133046
+TripleACal Angle.jpg,Result =,Doxolin.dat,Time Taken =,75074
+Triquilar Angle.jpg,Result =,Triquilar.dat,Time Taken =,32771
+Tuka 05 ANgle.jpg,Result =,Doxolin.dat,Time Taken =,110799
+Unistar 75 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,178825
+Valparin 200 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,249727
+Valparin 200 syrp Angle.jpg,Result =,Triben Skin cream.dat,Time Taken =,83958
+Valparin chrono 200 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,336707
+Valparin chrono 300 Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,271740
+Veloz 20 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,163340
+Veloz l Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,154327
+Veloz M Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,183851
+Vibact Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,235631
+Vibact DS Angle.jpg,Result =,Doxolin.dat,Time Taken =,202610
+Vibrania Angle.jpg,Result =,Doxolin.dat,Time Taken =,103960
+Vizlac Angle.jpg,Result =,Minoz BPO.dat,Time Taken =,230573
+Vobose 0.2 Angle.jpg,Result =,Doxolin.dat,Time Taken =,50983
+Vobose m 0.3 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,71325
+Voglitor MD 03 Angle.jpg,Result =,Carnisure 500.dat,Time Taken =,110221
+Voglitor Mf 03 ANgle.jpg,Result =,Voglitor Mf 03.dat,Time Taken =,149584
+volini angle.png,Result =,Glycomet gp 1.dat,Time Taken =,32901
+Xanilax SR 200 Angle.jpg,Result =,Duoluton L.dat,Time Taken =,98364
+Xylomist p Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,58586
+Yasmin Angle.jpg,Result =,yasmin.dat,Time Taken =,66998
+Zabesta AM Angle.jpg,Result =,MINTOP.dat,Time Taken =,109739
+Zedott Angle.jpg,Result =,Doxolin.dat,Time Taken =,156868
+Zoftadol plus Angle.png,Result =,Zoftadol plus.dat,Time Taken =,127320
+Zosta 10 Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,112269

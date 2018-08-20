@@ -1,0 +1,380 @@
+Acegesic.png,Result =,Acegesic.dat,Time Taken =,209082
+Ahaglow.jpg,Result =,Glycomet gp 1.dat,Time Taken =,37398
+Alfoo.jpg,Result =,Duoluton L.dat,Time Taken =,114077
+Amflor.jpg,Result =,Amflor.dat,Time Taken =,38973
+Ampoxin 250.jpg,Result =,Ampoxin 250.dat,Time Taken =,215152
+Ampoxin 500.jpg,Result =,Minoz BPO.dat,Time Taken =,260353
+Ampoxin kid.jpg,Result =,Ampoxin kid.dat,Time Taken =,399883
+Ampoxin.jpg,Result =,Triben Skin cream.dat,Time Taken =,62846
+Anabel  CT.jpg,Result =,anabel ct.dat,Time Taken =,56794
+Anabel.jpg,Result =,Anabel.dat,Time Taken =,68570
+Angispan TR.jpg,Result =,Angispan TR.dat,Time Taken =,55756
+Anovate.jpg,Result =,Duoluton L.dat,Time Taken =,33048
+Antoxid.jpg,Result =,Triben CN.dat,Time Taken =,96084
+Arkamin H.jpg,Result =,Stolin R.dat,Time Taken =,139902
+Aroff SR.jpg,Result =,Minoz BPO.dat,Time Taken =,142203
+Arumin gel.jpg,Result =,Stolin R.dat,Time Taken =,77228
+Astharid Plus.jpg,Result =,Doxolin.dat,Time Taken =,135034
+Astharid T.jpg,Result =,Glycomet gp 1.dat,Time Taken =,133788
+Atocor 40.jpg,Result =,Glycomet gp 1.dat,Time Taken =,146408
+Azulix 1 MF.png,Result =,Doxolin.dat,Time Taken =,184143
+Azulix 1.png,Result =,Azulix 1.dat,Time Taken =,324855
+Azulix 2 MF.png,Result =,Azulix 2 Mf.dat,Time Taken =,241159
+Azulix 2.png,Result =,Azulix 2.dat,Time Taken =,1355472
+Azulix 3 MF.png,Result =,Azulix 3 MF.dat,Time Taken =,241028
+Azulix 4 MF.png,Result =,Azulix 4 MF.dat,Time Taken =,216769
+B Long.png,Result =,Glycomet gp 1.dat,Time Taken =,228051
+Barbitoin.png,Result =,Barbitoin.dat,Time Taken =,271591
+Becozinc H.jpg,Result =,Triben Skin cream.dat,Time Taken =,92106
+BecoZinc.jpg,Result =,Doxolin.dat,Time Taken =,142784
+Benadryl DR.jpg,Result =,Triben Skin cream.dat,Time Taken =,81979
+Beta Nicardia.jpg,Result =,Stolin R.dat,Time Taken =,165834
+Betacard AM.png,Result =,Stolin R.dat,Time Taken =,203783
+Biminox LF.jpg,Result =,biminox lf.dat,Time Taken =,207019
+Brakke.jpg,Result =,Duoluton L.dat,Time Taken =,147441
+Bromex A.jpg,Result =,Luciara cream.dat,Time Taken =,85923
+C Toin 100.jpg,Result =,Glycomet gp 1.dat,Time Taken =,54470
+Capnyl.jpg,Result =,Stolin R.dat,Time Taken =,229573
+carbatol cr 200.png,Result =,Doxolin.dat,Time Taken =,310295
+carbatol cr 400.png,Result =,Stolin R.dat,Time Taken =,233579
+carnisure plus.png,Result =,Minoz BPO.dat,Time Taken =,154537
+Carti Safe D.jpg,Result =,Minoz BPO.dat,Time Taken =,201563
+Cartilite 750.jpg,Result =,Glycomet gp 1.dat,Time Taken =,156264
+change.png,Result =,Change.dat,Time Taken =,240135
+Chymoral AP.png,Result =,Duoluton L.dat,Time Taken =,248908
+Chymoral Forte.png,Result =,Chymoral forte.dat,Time Taken =,202575
+Chymoral plus.png,Result =,Chymoral plus.dat,Time Taken =,211779
+CILACAR 10.jpg,Result =,cilacar 10.dat,Time Taken =,122649
+CILACAR 20.jpg,Result =,Cilacar 20.dat,Time Taken =,167516
+CILACAR 5.jpg,Result =,metrogyl gel.dat,Time Taken =,128701
+CILACAR.jpg,Result =,Crixan gel.dat,Time Taken =,165030
+Citralka.jpg,Result =,Triben Skin cream.dat,Time Taken =,47427
+Clamp 625.jpg,Result =,Duoluton L.dat,Time Taken =,154443
+Clodtel Plus.jpg,Result =,Duoluton L.dat,Time Taken =,273468
+Clotan.png,Result =,Stolin R.dat,Time Taken =,212992
+Colgin.jpg,Result =,Luciara cream.dat,Time Taken =,86403
+Colicure syrup.jpg,Result =,Triben Skin cream.dat,Time Taken =,73160
+Colicure.jpg,Result =,Duoluton L.dat,Time Taken =,196613
+Combimist L (2).jpg,Result =,Luciara cream.dat,Time Taken =,231780
+Combimist l.jpg,Result =,Combimist l.dat,Time Taken =,57852
+Complamina retard 500.jpg,Result =,nise gel.dat,Time Taken =,129291
+Complamina.jpg,Result =,Hyocimax.dat,Time Taken =,99410
+Corbis 5.jpg,Result =,Crixan gel.dat,Time Taken =,251411
+cordarone x.png,Result =,Glycomet gp 1.dat,Time Taken =,177135
+cordarone.png,Result =,Duoluton L.dat,Time Taken =,256171
+Corvadil A.jpg,Result =,Stolin R.dat,Time Taken =,198781
+covance at.jpg,Result =,Carnisure 500.dat,Time Taken =,219086
+Covance D.jpg,Result =,Stolin R.dat,Time Taken =,233571
+Crixan gel.jpg,Result =,Crixan gel.dat,Time Taken =,52558
+Crolim power ointment.jpg,Result =,Stolin R.dat,Time Taken =,70183
+Cyclenorm P.jpg,Result =,Luciara cream.dat,Time Taken =,117487
+deplatt a 150.png,Result =,Deplatt a 150.dat,Time Taken =,286309
+deplatt a 75.png,Result =,Deplatt a 75.dat,Time Taken =,291367
+deplatt cv 20.png,Result =,Deplatt cv 20.dat,Time Taken =,440238
+deplatt.png,Result =,deplatt.dat,Time Taken =,390149
+Deriphyllin M.jpg,Result =,Carnisure 500.dat,Time Taken =,473146
+Deriphyllin OD 300.jpg,Result =,Amflor.dat,Time Taken =,156263
+Deriphyllin OD 450.jpg,Result =,Crixan gel.dat,Time Taken =,208740
+Deriphyllin retard 150.jpg,Result =,Deriphyllin retard 150.dat,Time Taken =,308870
+Derisone l.png,Result =,Derisone l forte.dat,Time Taken =,90008
+Dexorange.jpg,Result =,Glycomet gp 1.dat,Time Taken =,125025
+Diane 35.jpg,Result =,Diane 35.dat,Time Taken =,151617
+Diataal D.jpg,Result =,Doxolin.dat,Time Taken =,266219
+Diataal.jpg,Result =,Hyocimax.dat,Time Taken =,394226
+Diavit plus.jpg,Result =,nise gel.dat,Time Taken =,267841
+dibeta gb.png,Result =,Dibeta Gb.dat,Time Taken =,404404
+diclogesic rr injection.png,Result =,diclogesic rr injection.dat,Time Taken =,389848
+diclogesic sp.png,Result =,Diclogesic sp.dat,Time Taken =,372992
+diclogesic.png,Result =,Carnisure 500.dat,Time Taken =,424605
+DICLORAN A.jpg,Result =,DICLORAN A.dat,Time Taken =,673073
+Diprovate plus.jpg,Result =,Minoz BPO.dat,Time Taken =,70641
+Domstal Baby.jpg,Result =,Triben Skin cream.dat,Time Taken =,86627
+domstal dt.png,Result =,Duoluton L.dat,Time Taken =,346688
+Domstal O.png,Result =,Minoz BPO.dat,Time Taken =,483206
+Domstal RD.png,Result =,Domstal RD.dat,Time Taken =,614734
+Domstal.jpg,Result =,Luciara cream.dat,Time Taken =,110402
+Doxolin.jpg,Result =,Doxolin.dat,Time Taken =,242215
+DOXT SL.jpg,Result =,Minoz BPO.dat,Time Taken =,598811
+Drego D.jpg,Result =,Minoz BPO.dat,Time Taken =,320558
+Droxyl 250 DT.png,Result =,Glycomet gp 1.dat,Time Taken =,199555
+Droxyl 500.png,Result =,Carnisure 500.dat,Time Taken =,470637
+Droxyl Clav 500.png,Result =,Droxyl Clav 500.dat,Time Taken =,481963
+Duoluton L.jpg,Result =,Ranx 500.dat,Time Taken =,62964
+Duotrol.jpg,Result =,Doxolin.dat,Time Taken =,268804
+DutasT.jpg,Result =,Stolin R.dat,Time Taken =,259838
+dycotiam.png,Result =,Dycotiam.dat,Time Taken =,361927
+Dynapres 04.jpg,Result =,KETOROL DT.dat,Time Taken =,199793
+EcoSprin 75.jpg,Result =,Minoz BPO.dat,Time Taken =,274228
+ecosprin AV 150.jpg,Result =,Minoz BPO.dat,Time Taken =,459155
+Ecosprin av 150_20.jpg,Result =,Ecosprin av 150_20.dat,Time Taken =,531320
+Ecosprin gold 20.jpg,Result =,Stolin R.dat,Time Taken =,433123
+Elcure.jpg,Result =,Minoz BPO.dat,Time Taken =,385594
+Emgard 60.jpg,Result =,Stolin R.dat,Time Taken =,233068
+Emsolone 10.jpg,Result =,Doxolin.dat,Time Taken =,223832
+Emsolone 5 DT.jpg,Result =,Stolin R.dat,Time Taken =,183563
+EnaFix.jpg,Result =,enafix.dat,Time Taken =,62184
+Enam 10.jpg,Result =,nise gel.dat,Time Taken =,374354
+Enam 25.jpg,Result =,Crixan gel.dat,Time Taken =,414965
+Erytop.jpg,Result =,Erytop.dat,Time Taken =,65423
+Euspas D.jpg,Result =,Duoluton L.dat,Time Taken =,133688
+Femovan.jpg,Result =,Femovan.dat,Time Taken =,86755
+Finehart.jpg,Result =,Duoluton L.dat,Time Taken =,172328
+Flavospas.png,Result =,Flavospas.dat,Time Taken =,201368
+Folsafe L.jpg,Result =,Minoz BPO.dat,Time Taken =,332390
+Formonide 100.jpg,Result =,Formonide 400 caps.dat,Time Taken =,105248
+Formonide 200.jpg,Result =,Ranx 500.dat,Time Taken =,127258
+Formonide 400.jpg,Result =,Formonide 400.dat,Time Taken =,177972
+Gelusil original.png,Result =,Crixan gel.dat,Time Taken =,189572
+Gentalene.jpg,Result =,Duoluton L.dat,Time Taken =,73346
+Gerbisa tab.jpg,Result =,Gerbisa.dat,Time Taken =,229569
+Gerbisa.jpg,Result =,Minoz BPO.dat,Time Taken =,297292
+GLA 120.jpg,Result =,Pediflor.dat,Time Taken =,284117
+Glide TM.jpg,Result =,Crixan gel.dat,Time Taken =,121843
+Glimet DS.jpg,Result =,Minoz BPO.dat,Time Taken =,202688
+Glimet.jpg,Result =,Duoluton L.dat,Time Taken =,126404
+Glimy 1.jpg,Result =,Duoluton L.dat,Time Taken =,158799
+Glimy M.jpg,Result =,Duoluton L.dat,Time Taken =,237651
+Globac XT.jpg,Result =,Globac XT.dat,Time Taken =,410902
+Globac z.jpg,Result =,Shy XT.dat,Time Taken =,248666
+Glodent.jpg,Result =,Luciara cream.dat,Time Taken =,79198
+Glucomet trio 2_0_0_3.jpg,Result =,Stolin R.dat,Time Taken =,309755
+Glucotrol MF.jpg,Result =,Stolin R.dat,Time Taken =,136404
+Glyciphage 850.jpg,Result =,Duoluton L.dat,Time Taken =,180006
+Glyciphage g1 forte.jpg,Result =,Glycomet gp 1.dat,Time Taken =,259375
+Glyciphage g2 Forte.jpg,Result =,Crixan gel.dat,Time Taken =,322018
+Glyciphage g2.jpg,Result =,Stolin R.dat,Time Taken =,264368
+Glyciphage PG2.jpg,Result =,Glyciphage PG2.dat,Time Taken =,250618
+Glycomet 1 GM.jpg,Result =,Stolin R.dat,Time Taken =,492666
+Glycomet 850 SR.jpg,Result =,Stolin R.dat,Time Taken =,353791
+Glycomet 850.jpg,Result =,Stolin R.dat,Time Taken =,377881
+Glycomet gp 0.5 forte.jpg,Result =,Doxolin.dat,Time Taken =,368664
+Glycomet gp 1.jpg,Result =,Glycomet gp 1.dat,Time Taken =,324057
+Glycomet gp 2.jpg,Result =,Glycomet gp 1.dat,Time Taken =,356001
+Glyp TEN.jpg,Result =,Duoluton L.dat,Time Taken =,138495
+Grilinctus BM syrp.jpg,Result =,Glycomet gp 1.dat,Time Taken =,140507
+Happi D.jpg,Result =,Crixan gel.dat,Time Taken =,441568
+Happi.jpg,Result =,Stolin R.dat,Time Taken =,374618
+Hemogold.jpg,Result =,Doxolin.dat,Time Taken =,178589
+Herfem.jpg,Result =,Glycomet gp 1.dat,Time Taken =,87711
+hqtor.png,Result =,Stolin R.dat,Time Taken =,329304
+Hydroheal 15g.jpg,Result =,Doxolin.dat,Time Taken =,75817
+Hyocimar s CR.jpg,Result =,Luciara cream.dat,Time Taken =,276515
+Hyocimax S.jpg,Result =,Hyocimax S.dat,Time Taken =,323238
+IBUCLIN P.jpg,Result =,IBUCLIN P.dat,Time Taken =,421553
+Izra 20.jpg,Result =,Glycomet gp 1.dat,Time Taken =,288286
+Jaira M.jpg,Result =,Jaira M.dat,Time Taken =,250786
+Jalra 50.jpg,Result =,Duoluton L.dat,Time Taken =,214581
+Juliana.jpg,Result =,Duoluton L.dat,Time Taken =,70325
+Ketorol DT.jpg,Result =,Duoluton L.dat,Time Taken =,114740
+Ketorol.jpg,Result =,Stolin R.dat,Time Taken =,235783
+lamitor dt 25.png,Result =,Duoluton L.dat,Time Taken =,217230
+lamitor dt 50.png,Result =,Crixan gel.dat,Time Taken =,240762
+Le Zyncet.jpg,Result =,Stolin R.dat,Time Taken =,267160
+lefra 10.png,Result =,lefra 10.dat,Time Taken =,393200
+lefra 20.png,Result =,Minoz BPO.dat,Time Taken =,505275
+Leon 500.jpg,Result =,Duoluton L.dat,Time Taken =,184496
+Libitone Forte.jpg,Result =,Glycomet gp 1.dat,Time Taken =,331438
+Lipicard 160.jpg,Result =,Crixan gel.dat,Time Taken =,346711
+Lipicard AV.jpg,Result =,Minoz BPO.dat,Time Taken =,511716
+Lipicard.jpg,Result =,Glycomet gp 1.dat,Time Taken =,326083
+Listerine.jpg,Result =,Glycomet gp 1.dat,Time Taken =,122363
+listril 5.png,Result =,listril 5.dat,Time Taken =,512666
+lopamide.png,Result =,Lopamide.dat,Time Taken =,272554
+Loram 5.jpg,Result =,Loram 5.dat,Time Taken =,293450
+lorvas.png,Result =,lorvas.dat,Time Taken =,274552
+Losar 25.jpg,Result =,Losar 25.dat,Time Taken =,232798
+Losar A.jpg,Result =,Losar A.dat,Time Taken =,255384
+Losar Beta.jpg,Result =,Crixan gel.dat,Time Taken =,301033
+Losar H.jpg,Result =,Doxolin.dat,Time Taken =,251953
+Mashyne 1000.jpg,Result =,Minoz BPO.dat,Time Taken =,429454
+Medler plus.jpg,Result =,Minoz BPO.dat,Time Taken =,128343
+Medler.jpg,Result =,Glycomet gp 1.dat,Time Taken =,104912
+Medomol 300.png,Result =,Medomol 300.dat,Time Taken =,244542
+Medomol 500.png,Result =,Medomol 500.dat,Time Taken =,312162
+Medomol 650.jpg,Result =,Duoluton L.dat,Time Taken =,360041
+Megatrum.jpg,Result =,megatrum.dat,Time Taken =,46275
+Melanocyl ointment.jpg,Result =,Luciara cream.dat,Time Taken =,118243
+Melanocyl sol.jpg,Result =,Luciara cream.dat,Time Taken =,88199
+Melanocyl tab.jpg,Result =,Melanocyl Tab.dat,Time Taken =,133238
+Meprocin syrp.jpg,Result =,Triben Skin cream.dat,Time Taken =,108725
+Meprocin.jpg,Result =,Glycomet gp 1.dat,Time Taken =,299882
+Metocard XL 50.png,Result =,Metocard XL 50.dat,Time Taken =,328921
+Metorgyl gel.jpg,Result =,metrogyl gel.dat,Time Taken =,65453
+MetorGyl P.jpg,Result =,Duoluton L.dat,Time Taken =,60756
+Metrodif MPS tab.jpg,Result =,Glycomet gp 1.dat,Time Taken =,281935
+metsmall 500.jpg,Result =,Duoluton L.dat,Time Taken =,235585
+Metzok 25.jpg,Result =,Duoluton L.dat,Time Taken =,140310
+miliana.jpg,Result =,Duoluton L.dat,Time Taken =,80526
+Minoz bpo.jpg,Result =,Minoz BPO.dat,Time Taken =,78776
+Mintop 10.jpg,Result =,Storvas 10.dat,Time Taken =,91348
+Mobizox.jpg,Result =,Mobizox.dat,Time Taken =,396352
+Modlip 10.png,Result =,Modlip 10.dat,Time Taken =,293106
+Modlip asg 75.png,Result =,Minoz BPO.dat,Time Taken =,425372
+Moisturex soft.jpg,Result =,Moisturex soft.dat,Time Taken =,118601
+Moisturex.jpg,Result =,Glycomet gp 1.dat,Time Taken =,85028
+Mucolite.jpg,Result =,Glycomet gp 1.dat,Time Taken =,223940
+Naturogest 200.jpg,Result =,Stolin R.dat,Time Taken =,455560
+Naturogest 300.jpg,Result =,Naturogest 300.dat,Time Taken =,316651
+Naturogest AQ 25.jpg,Result =,Luciara cream.dat,Time Taken =,66657
+Naturogest SR 200.jpg,Result =,Crixan gel.dat,Time Taken =,303712
+Natvie.jpg,Result =,Minoz BPO.dat,Time Taken =,193264
+Nebicard 25.png,Result =,Nebicard 25.dat,Time Taken =,444327
+Nebicard SM.png,Result =,Duoluton L.dat,Time Taken =,502368
+Neotomic Enema.jpg,Result =,Glycomet gp 1.dat,Time Taken =,103106
+Nervijen 2ml.jpg,Result =,Glycomet gp 1.dat,Time Taken =,82513
+Nervijen D.jpg,Result =,Crixan gel.dat,Time Taken =,265116
+Nervijen P.jpg,Result =,nise gel.dat,Time Taken =,274652
+Nervijen XT.jpg,Result =,Nervijen XT.dat,Time Taken =,231916
+Nervijen.jpg,Result =,Doxolin.dat,Time Taken =,206595
+Nexpro 20.png,Result =,Nexpro 40.dat,Time Taken =,372067
+Nexpro 40.png,Result =,Nexpro 40.dat,Time Taken =,457199
+Nexpro Fast 20.png,Result =,Nexpro Fast 20.dat,Time Taken =,408541
+Nexpro RD 20.png,Result =,Nexpro RD 20.dat,Time Taken =,453875
+Nexpro RD 40.png,Result =,Nexpro RD 40.dat,Time Taken =,522832
+Nicardia CD retard - 30.jpg,Result =,Duoluton L.dat,Time Taken =,269827
+Nicardia retard 10.jpg,Result =,Stolin R.dat,Time Taken =,353848
+Nimodip.jpg,Result =,Duoluton L.dat,Time Taken =,284321
+Nise gel.jpg,Result =,Glycomet gp 1.dat,Time Taken =,92086
+Nise.jpg,Result =,Glycomet gp 1.dat,Time Taken =,201653
+Nor-metrogyl plus.jpg,Result =,Doxolin.dat,Time Taken =,275509
+Odimont LC.png,Result =,Duoluton L.dat,Time Taken =,459551
+OF 200.jpg,Result =,Minoz BPO.dat,Time Taken =,515497
+Ojen 200.jpg,Result =,KETOROL DT.dat,Time Taken =,224132
+Olsar H 20.jpg,Result =,Olsar-H 20.dat,Time Taken =,379514
+Omez 10.jpg,Result =,Minoz BPO.dat,Time Taken =,318861
+Omez 40.jpg,Result =,Carnisure 500.dat,Time Taken =,203672
+Omez caps.jpg,Result =,Glycomet gp 1.dat,Time Taken =,182842
+Omez D.jpg,Result =,Minoz BPO.dat,Time Taken =,477131
+Omez FF 20.jpg,Result =,Stolin R.dat,Time Taken =,114849
+Omez inj.jpg,Result =,Glycomet gp 1.dat,Time Taken =,86110
+Omez.jpg,Result =,OMEZ.dat,Time Taken =,55653
+Omnident.jpg,Result =,Duoluton L.dat,Time Taken =,151320
+One up gold D.png,Result =,One up gold D.dat,Time Taken =,424471
+Orcibest.jpg,Result =,Crixan gel.dat,Time Taken =,179591
+Oxybuta.jpg,Result =,Glycomet gp 1.dat,Time Taken =,305012
+P Cool.jpg,Result =,Glycomet gp 1.dat,Time Taken =,145921
+Pecef 200.jpg,Result =,Minoz BPO.dat,Time Taken =,473092
+Pevesca plus.jpg,Result =,Minoz BPO.dat,Time Taken =,542582
+Pioz MFG 1.jpg,Result =,Duoluton L.dat,Time Taken =,460080
+Powergesic plus gel.jpg,Result =,powergesic plus gel.dat,Time Taken =,61014
+Powergesic.jpg,Result =,Duoluton L.dat,Time Taken =,205696
+Prax 10.png,Result =,Prax 10.dat,Time Taken =,242030
+Pregalin 75.png,Result =,Pregalin 75.dat,Time Taken =,391062
+PregnidoxinNU.jpg,Result =,Glycomet gp 1.dat,Time Taken =,146739
+Prexan.png,Result =,Prexan.dat,Time Taken =,449923
+Progynova 2mg.jpg,Result =,Crixan gel.dat,Time Taken =,272648
+proliser.jpg,Result =,Tazloc trio 40.dat,Time Taken =,112452
+Proluton Depot.jpg,Result =,Proluton depot.dat,Time Taken =,261387
+R bex.jpg,Result =,Glycomet gp 1.dat,Time Taken =,103416
+Rantac 150.jpg,Result =,Crixan gel.dat,Time Taken =,476172
+Rantac 300.jpg,Result =,Minoz BPO.dat,Time Taken =,442672
+Rantac Inject.jpg,Result =,Rantac Inject.dat,Time Taken =,402912
+Ranx 500.jpg,Result =,Duoluton L.dat,Time Taken =,215741
+Reclide 40.jpg,Result =,Reclide 40.dat,Time Taken =,528638
+Reclide.jpg,Result =,volini.dat,Time Taken =,431084
+Reclimet.jpg,Result =,Stolin R.dat,Time Taken =,145026
+Redotil.jpg,Result =,Duoluton L.dat,Time Taken =,107508
+Regulate.jpg,Result =,Duoluton L.dat,Time Taken =,151182
+Relaxyl gel.jpg,Result =,Relaxyl gel.dat,Time Taken =,139648
+Relent.jpg,Result =,Stolin R.dat,Time Taken =,184787
+Resophyl 150.jpg,Result =,Resophyl 150.dat,Time Taken =,168582
+Resophyl Forte.jpg,Result =,Glycomet gp 1.dat,Time Taken =,254381
+RetOZ 60.jpg,Result =,Minoz BPO.dat,Time Taken =,86998
+RoseDay A 10.jpg,Result =,Minoz BPO.dat,Time Taken =,549650
+RoseDay f 10.jpg,Result =,Doxolin.dat,Time Taken =,353099
+Rozat 20.jpg,Result =,Doxolin.dat,Time Taken =,351850
+Rozucor 5.png,Result =,Rozucor 5.dat,Time Taken =,292486
+Rozucor ASP 10.png,Result =,Rozucor ASP 10.dat,Time Taken =,599491
+Servil baby.jpg,Result =,Triben Skin cream.dat,Time Taken =,95171
+Servil.jpg,Result =,Triben Skin cream.dat,Time Taken =,103956
+Sevista.jpg,Result =,Duoluton L.dat,Time Taken =,295940
+Shelcal 250.png,Result =,Glycomet gp 1.dat,Time Taken =,470799
+Shelcal 500.png,Result =,Glycomet gp 1.dat,Time Taken =,344073
+Shelcal HD 12.png,Result =,Glycomet gp 1.dat,Time Taken =,419376
+Shelcal M.png,Result =,Shelcal M.dat,Time Taken =,356172
+Shelcal os.png,Result =,Shelcal os.dat,Time Taken =,359620
+SHY NM.jpg,Result =,Glycomet gp 1.dat,Time Taken =,148629
+Shy OR.jpg,Result =,Doxolin.dat,Time Taken =,95380
+SHY XT.jpg,Result =,Shy XT.dat,Time Taken =,61648
+SHY.jpg,Result =,Luciara cream.dat,Time Taken =,153412
+Siloderm Mixi.jpg,Result =,Triben Skin cream.dat,Time Taken =,85938
+Siloderm.jpg,Result =,Glycomet gp 1.dat,Time Taken =,111078
+Skinlite.jpg,Result =,Triben Skin cream.dat,Time Taken =,127137
+Sporidex 125.jpg,Result =,Minoz BPO.dat,Time Taken =,459133
+Sporidex 500.jpg,Result =,Sporidex 500.dat,Time Taken =,371828
+Sporidex drops.jpg,Result =,Duoluton L.dat,Time Taken =,131711
+Sporidex.jpg,Result =,Duoluton L.dat,Time Taken =,127874
+Stamlo 10.jpg,Result =,Carnisure 500.dat,Time Taken =,657901
+Stamlo 25.jpg,Result =,Minoz BPO.dat,Time Taken =,280910
+Stamlo Beta.jpg,Result =,Stolin R.dat,Time Taken =,242108
+Stamlo T.jpg,Result =,Duoluton L.dat,Time Taken =,332984
+Storvas 10.jpg,Result =,Storvas 10.dat,Time Taken =,304683
+Storvas 20.jpg,Result =,Storvas 20.dat,Time Taken =,255533
+Storvas 40.jpg,Result =,Storvas 40.dat,Time Taken =,413998
+Styptovit E.jpg,Result =,Stolin R.dat,Time Taken =,273752
+Sudex AR.jpg,Result =,Triben Skin cream.dat,Time Taken =,123704
+Sudin cold.jpg,Result =,Carnisure 500.dat,Time Taken =,571943
+Sudin D.jpg,Result =,Glycomet gp 1.dat,Time Taken =,171453
+Sulisert.jpg,Result =,Duoluton L.dat,Time Taken =,253071
+Surfaz SN.jpg,Result =,Luciara cream.dat,Time Taken =,96901
+Surfaz.jpg,Result =,Glycomet gp 1.dat,Time Taken =,122492
+Tabi.jpg,Result =,Glycomet gp 1.dat,Time Taken =,83585
+Tazloc 40.jpg,Result =,Stolin R.dat,Time Taken =,548880
+Tazloc H.jpg,Result =,Carnisure 500.dat,Time Taken =,663855
+Tazloc Trio 80.jpg,Result =,Doxolin.dat,Time Taken =,472261
+Teczine M.jpg,Result =,Teczine M.dat,Time Taken =,703730
+Teczine.jpg,Result =,C toin 100.dat,Time Taken =,263485
+Telday 20.jpg,Result =,Telday 20.dat,Time Taken =,428070
+Telday 40.jpg,Result =,Duoluton L.dat,Time Taken =,476609
+Telday 80 H.jpg,Result =,Telday 80 H.dat,Time Taken =,617921
+Telday AM.jpg,Result =,Telday AM.dat,Time Taken =,597308
+Telday H.jpg,Result =,Prax 10.dat,Time Taken =,682126
+Telsar 20.jpg,Result =,Minoz BPO.dat,Time Taken =,391397
+Telsartan 40.jpg,Result =,MINTOP.dat,Time Taken =,374971
+Telsartan H.jpg,Result =,Duoluton L.dat,Time Taken =,407787
+TG TOR 5.jpg,Result =,Stolin R.dat,Time Taken =,416019
+Tide 10.jpg,Result =,Carnisure 500.dat,Time Taken =,432814
+Tide 20.jpg,Result =,Tide 20.dat,Time Taken =,438839
+Tide 5.jpg,Result =,Carnisure 500.dat,Time Taken =,333783
+Tolol AM 50.jpg,Result =,Tolol AM 50.dat,Time Taken =,412739
+Tolol XR 50.jpg,Result =,Tolol-XR 25.dat,Time Taken =,473700
+Topcef 100 Dt.jpg,Result =,Sporidex.dat,Time Taken =,541666
+Topcef 200.jpg,Result =,Topcef 200.dat,Time Taken =,562781
+Topcef o 200.jpg,Result =,Topcef o 200.dat,Time Taken =,527834
+Topcid 40.jpg,Result =,Crixan gel.dat,Time Taken =,562087
+torkast fx.png,Result =,torkast fx.dat,Time Taken =,564278
+Torleva 500.jpg,Result =,Doxolin.dat,Time Taken =,260882
+Tozaar 50.jpg,Result =,Duoluton L.dat,Time Taken =,371646
+Tozaar H.jpg,Result =,Tozaar H.dat,Time Taken =,472731
+Triben B.jpg,Result =,Triben Skin cream.dat,Time Taken =,136944
+Triben plus.jpg,Result =,Triben Skin cream.dat,Time Taken =,89280
+Triglynase 1.jpg,Result =,Triglynase 1.dat,Time Taken =,593797
+Triglynase 2 Forte.jpg,Result =,Triglynase 2 Forte.dat,Time Taken =,698337
+Triglynase 2.jpg,Result =,Stolin R.dat,Time Taken =,581635
+TripleACal.jpg,Result =,C toin 100.dat,Time Taken =,365590
+Triquilar.jpg,Result =,Triquilar.dat,Time Taken =,52574
+Tuka 05.jpg,Result =,Tuka 05.dat,Time Taken =,495936
+Unistar 75.jpg,Result =,Minoz BPO.dat,Time Taken =,554781
+Valparin 200 syrp.jpg,Result =,Duoluton L.dat,Time Taken =,362946
+Valparin 200.jpg,Result =,Glycomet gp 1.dat,Time Taken =,937388
+Valparin chrono 200.jpg,Result =,Valparin chrono 200.dat,Time Taken =,841696
+Valparin chrono 300.jpg,Result =,Minoz BPO.dat,Time Taken =,565241
+Veloz 20.jpg,Result =,Veloz 20.dat,Time Taken =,731417
+Veloz L.jpg,Result =,Minoz BPO.dat,Time Taken =,671632
+Veloz M.jpg,Result =,Veloz M.dat,Time Taken =,704081
+Vibact DS.jpg,Result =,Stolin R.dat,Time Taken =,752397
+Vibact.jpg,Result =,Crixan gel.dat,Time Taken =,714850
+Vibrania.jpg,Result =,Doxolin.dat,Time Taken =,435344
+Vizlac.jpg,Result =,Sudex-AR.dat,Time Taken =,702149
+Vobose 02.jpg,Result =,Doxolin.dat,Time Taken =,283005
+Vobose m 03.jpg,Result =,Minoz BPO.dat,Time Taken =,440231
+Voglitor MD 03.jpg,Result =,Domstal Dt.dat,Time Taken =,432662
+Voglitor Mf 03.jpg,Result =,Voglitor Mf 03.dat,Time Taken =,327209
+volini.png,Result =,volini.dat,Time Taken =,106796
+Xanilax SR 200.jpg,Result =,Duoluton L.dat,Time Taken =,431762
+Xylomist p.jpg,Result =,Xylomist P.dat,Time Taken =,125175
+Yasmin.jpg,Result =,yasmin.dat,Time Taken =,301848
+Zabesta AM.jpg,Result =,Duoluton L.dat,Time Taken =,529690
+Zaftadol plus.jpg,Result =,Zoftadol plus.dat,Time Taken =,388407
+Zedott.jpg,Result =,Zedott.dat,Time Taken =,342324
+Zosta 10.jpg,Result =,Duoluton L.dat,Time Taken =,383128

@@ -1,0 +1,382 @@
+Acegesic Angle.png,Result =,Acegesic.dat,Time Taken =,103369
+Ahaglow Angle.jpg,Result =,Losar H.dat,Time Taken =,27883
+Alfoo Angle.jpg,Result =,Medomol 300.dat,Time Taken =,39861
+Amflor Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,36196
+Ampoxin 250 Angle.jpg,Result =,Senquel F.dat,Time Taken =,171000
+Ampoxin 500 Angle.jpg,Result =,OF suspension.dat,Time Taken =,257623
+Ampoxin Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,40635
+Ampoxin kid Angle.jpg,Result =,Stolin R.dat,Time Taken =,230263
+Anabel  CT Angle.jpg,Result =,anabel ct.dat,Time Taken =,51772
+Anabel Angle.jpg,Result =,Pediflor.dat,Time Taken =,59648
+Angispan TR Angle.jpg,Result =,Carbatol cr 400.dat,Time Taken =,38476
+Anovate Angle.jpg,Result =,Relaxyl gel.dat,Time Taken =,48101
+Antoxid Angle.jpg,Result =,Shy XT.dat,Time Taken =,58244
+Arkamin H Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,101839
+Aroff SR Angle.jpg,Result =,Pediflor.dat,Time Taken =,126539
+Arumin gel Angle.jpg,Result =,OMEZ.dat,Time Taken =,80421
+Astharid T Angle.jpg,Result =,Pediflor.dat,Time Taken =,98472
+Asthraid Plus Angle.jpg,Result =,Pediflor.dat,Time Taken =,114901
+Atocor 40 Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,82483
+Azulix 1 Angle.png,Result =,OMEZ.dat,Time Taken =,236349
+Azulix 1 MF Angle.png,Result =,Pediflor.dat,Time Taken =,151033
+Azulix 2 Angle.png,Result =,Losar A.dat,Time Taken =,208697
+Azulix 2 MF Angle.png,Result =,Naturgest AQ25.dat,Time Taken =,183000
+Azulix 3 MF Angle.png,Result =,Azulix 3 MF.dat,Time Taken =,196692
+Azulix 4 MF ANgle.png,Result =,Triquilar.dat,Time Taken =,228868
+B Long Angle.png,Result =,OF suspension.dat,Time Taken =,128606
+Barbitoin Angle.png,Result =,OF suspension.dat,Time Taken =,155291
+BecoZinc Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,95726
+Becozinc H Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,67966
+Benadryl Syrp Angle.jpg,Result =,OF suspension.dat,Time Taken =,43179
+Beta -Nicardia Angle.jpg,Result =,Pediflor.dat,Time Taken =,80810
+Betacard AM Angle.png,Result =,Rantac Inject.dat,Time Taken =,137233
+Biminox LF Angle.jpg,Result =,Shy XT.dat,Time Taken =,96955
+Brakke Angle.jpg,Result =,OMEZ.dat,Time Taken =,98869
+Bromex A Angle.jpg,Result =,OMEZ.dat,Time Taken =,52610
+C Toin 100 Angle.jpg,Result =,Doxolin.dat,Time Taken =,39880
+Capnyl Angle.jpg,Result =,OMEZ.dat,Time Taken =,89782
+carbatol cr 200 angle.png,Result =,OF suspension.dat,Time Taken =,160272
+carbatol cr 400 angle.png,Result =,Pediflor.dat,Time Taken =,134364
+carnisure plus angle.png,Result =,Crixan gel.dat,Time Taken =,116387
+Carti safe d Angle.jpg,Result =,Luciara cream.dat,Time Taken =,120168
+Cartilite 750 Angle.jpg,Result =,Pediflor.dat,Time Taken =,77382
+change angle.png,Result =,Pediflor.dat,Time Taken =,127827
+Chymoral AP Angle.png,Result =,Pediflor.dat,Time Taken =,132347
+Chymoral Forte Angle.png,Result =,Naturgest AQ25.dat,Time Taken =,184269
+Chymoral plus Angle.png,Result =,Pediflor.dat,Time Taken =,129404
+cilacar 10 Angle.jpg,Result =,Pediflor.dat,Time Taken =,91809
+Cilacar 20 Angle.jpg,Result =,OMEZ.dat,Time Taken =,100292
+Cilacar 5 Angle.jpg,Result =,Senquel F.dat,Time Taken =,93593
+Cilacar m Angle.jpg,Result =,Senquel F.dat,Time Taken =,113792
+Citralka Angle.jpg,Result =,Stolin R.dat,Time Taken =,46566
+Clamp 625 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,90119
+Clodtel Plus Angle.jpg,Result =,OF suspension.dat,Time Taken =,178557
+Clotan Angle.png,Result =,Luciara cream.dat,Time Taken =,121111
+Colgin Angle.jpg,Result =,OMEZ.dat,Time Taken =,70697
+Colicure Angle.jpg,Result =,Luciara cream.dat,Time Taken =,109387
+Colicure syrup Angle.jpg,Result =,Tazloc trio 40.dat,Time Taken =,54135
+Combimist l Angle.jpg,Result =,Luciara cream.dat,Time Taken =,37765
+Combimist L sachet Angle.jpg,Result =,Deriphyllin.dat,Time Taken =,104649
+Complamina Angle.jpg,Result =,Pediflor.dat,Time Taken =,54610
+Complamina retard 500 Angle.jpg,Result =,Pediflor.dat,Time Taken =,66943
+Corbis 5 Angle.jpg,Result =,OF suspension.dat,Time Taken =,176311
+cordarone angle.png,Result =,metrogyl gel.dat,Time Taken =,178917
+cordarone x angle.png,Result =,Crixan gel.dat,Time Taken =,147834
+Corvadil A Angle.jpg,Result =,Pediflor.dat,Time Taken =,112692
+covance at Angle.jpg,Result =,Shy XT.dat,Time Taken =,137648
+Covance D Angle.jpg,Result =,Pediflor.dat,Time Taken =,98727
+Crolim power ointment Angle.jpg,Result =,biminox lf.dat,Time Taken =,36706
+Cyclenorm P Angle.jpg,Result =,Senquel F.dat,Time Taken =,57645
+deplatt a 150 angle.png,Result =,Senquel F.dat,Time Taken =,102185
+deplatt a 75 angle.png,Result =,Medomol 300.dat,Time Taken =,163859
+DEplatt Angle.png,Result =,OF suspension.dat,Time Taken =,149938
+deplatt cv 20 angle.png,Result =,Naturgest AQ25.dat,Time Taken =,198800
+Deriphyllin M Angle.jpg,Result =,Pediflor.dat,Time Taken =,195351
+Deriphyllin OD 300 Angle.jpg,Result =,Pediflor.dat,Time Taken =,74695
+Deriphyllin OD 450 Angle.jpg,Result =,OF suspension.dat,Time Taken =,92057
+Deriphyllin retard 150 Angle.jpg,Result =,Rantac Inject.dat,Time Taken =,125301
+Derisone l Angle.png,Result =,Pediflor.dat,Time Taken =,60899
+Dexorange caps Angle.jpg,Result =,OMEZ.dat,Time Taken =,46322
+Diane 35 Angle.jpg,Result =,OMEZ.dat,Time Taken =,56551
+Diataal Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,88081
+Diataal D Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,66361
+Diavit plus Angle.jpg,Result =,Rantac Inject.dat,Time Taken =,69319
+dibetic gb angle.png,Result =,OMEZ.dat,Time Taken =,135687
+diclogesic angle.png,Result =,OF suspension.dat,Time Taken =,227646
+diclogesic rr injection angle.png,Result =,Senquel F.dat,Time Taken =,107917
+diclogesic sp angle.png,Result =,Medomol 300.dat,Time Taken =,173104
+Dicloran A Angle.jpg,Result =,Pediflor.dat,Time Taken =,127398
+Diprovate plus Angle.jpg,Result =,OF suspension.dat,Time Taken =,36685
+Domstal Angle.jpg,Result =,Pediflor.dat,Time Taken =,36287
+Domstal Baby Angle.jpg,Result =,Senquel F.dat,Time Taken =,41070
+domstal dt angle.png,Result =,OMEZ.dat,Time Taken =,87788
+Domstal O Angle.png,Result =,nise gel.dat,Time Taken =,181141
+Domstal RD Angle.png,Result =,Senquel F.dat,Time Taken =,161044
+Doxolin Angle.jpg,Result =,Pediflor.dat,Time Taken =,118243
+Doxt sl Angle.jpg,Result =,powergesic plus gel.dat,Time Taken =,140870
+Drego D Angle.jpg,Result =,OMEZ.dat,Time Taken =,111856
+Droxyl 250 DT ANgle.png,Result =,Senquel F.dat,Time Taken =,107139
+Droxyl 500 Angle.png,Result =,Crixan gel.dat,Time Taken =,184409
+droxyl clav 500 Angle.png,Result =,Sporidex.dat,Time Taken =,210457
+Duoluton L Angle.jpg,Result =,Zoftadol plus.dat,Time Taken =,31961
+Duotrol Angle.jpg,Result =,Senquel F.dat,Time Taken =,58372
+Dutas T Angle.jpg,Result =,Losar H.dat,Time Taken =,92106
+dycotiam angle.png,Result =,Pediflor.dat,Time Taken =,102871
+Dynapres 04 Angle.jpg,Result =,Shy XT.dat,Time Taken =,86947
+EcoSprin 75 Angle.jpg,Result =,Pediflor.dat,Time Taken =,111240
+EcoSprin av 150 Angle.jpg,Result =,Sporidex.dat,Time Taken =,223116
+Ecosprin av 150_20 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,212118
+Ecosprin gold 20 Angle.jpg,Result =,Senquel F.dat,Time Taken =,253370
+Elcure Angle.jpg,Result =,Pediflor.dat,Time Taken =,110250
+Emgard 60 Angle.jpg,Result =,Pediflor.dat,Time Taken =,68069
+Emlukast FX Angle.jpg,Result =,nise gel.dat,Time Taken =,158468
+Emsolone 10 DT Angle.jpg,Result =,powergesic plus gel.dat,Time Taken =,128095
+Emsolone 5 DT Angle.jpg,Result =,RETOZ 90.dat,Time Taken =,77082
+Ena Fix Angle.jpg,Result =,Dexorange 200ml.dat,Time Taken =,33773
+Enam 10 Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,108189
+Enam 25 Angle.jpg,Result =,Triquilar.dat,Time Taken =,78776
+Erytop Angle.jpg,Result =,Doxolin.dat,Time Taken =,33188
+Euspas D Angle.jpg,Result =,nise gel.dat,Time Taken =,40920
+Femovan Angle.jpg,Result =,Triben CN.dat,Time Taken =,29858
+Finehart Angle.jpg,Result =,OMEZ.dat,Time Taken =,45615
+Flavospas Angle.png,Result =,Stolin R.dat,Time Taken =,54474
+Folsafe L Angle.jpg,Result =,nise gel.dat,Time Taken =,124786
+Formonide 100 Angle.jpg,Result =,Pediflor.dat,Time Taken =,43463
+Formonide 200 Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,55296
+Formonide 400 Angle.jpg,Result =,Pediflor.dat,Time Taken =,42924
+Gelusil Original Angle.jpg,Result =,Medomol 300.dat,Time Taken =,91738
+Gemvert Angle.jpg,Result =,Pediflor.dat,Time Taken =,54868
+Gentalene Angle.jpg,Result =,Stolin R.dat,Time Taken =,36996
+Gerbisa ANgle.jpg,Result =,OF suspension.dat,Time Taken =,86670
+Gerbisa tab Angle.jpg,Result =,Stolin R.dat,Time Taken =,85315
+Gla 120 Angle.jpg,Result =,Stolin R.dat,Time Taken =,95372
+Glide ANgle.jpg,Result =,Pediflor.dat,Time Taken =,52533
+Glimet Angle.jpg,Result =,Pediflor.dat,Time Taken =,47517
+Glimet DS Angle.jpg,Result =,OF suspension.dat,Time Taken =,70918
+Glimy 1 Angle.jpg,Result =,OMEZ.dat,Time Taken =,66427
+Glimy M Angle.jpg,Result =,Stolin R.dat,Time Taken =,53812
+Globac z Angle.jpg,Result =,Pediflor.dat,Time Taken =,225747
+Glodent Angle.jpg,Result =,Pediflor.dat,Time Taken =,46415
+Glucomet trio 2_0.3 Angle.jpg,Result =,OMEZ.dat,Time Taken =,72523
+Glucotrol MF angle.jpg,Result =,Pediflor.dat,Time Taken =,44389
+Glyciphage 850 Angel.jpg,Result =,Pediflor.dat,Time Taken =,128082
+Glyciphage Angle.jpg,Result =,Pediflor.dat,Time Taken =,87084
+Glyciphage g1 Forte Angle.jpg,Result =,Pediflor.dat,Time Taken =,58658
+Glyciphage g2 angle.jpg,Result =,metrogyl gel.dat,Time Taken =,79179
+Glyciphage G2 Forte Angle.jpg,Result =,Luciara cream.dat,Time Taken =,88890
+Glyciphage pg2 Angle.jpg,Result =,Senquel F.dat,Time Taken =,83269
+Glycomet 1 GM Angle.jpg,Result =,Relaxyl gel.dat,Time Taken =,117901
+Glycomet 850 Angle.jpg,Result =,powergesic plus gel.dat,Time Taken =,107627
+Glycomet 850 SR Angle.jpg,Result =,OMEZ.dat,Time Taken =,91092
+Glycomet gp 0.5 forte Angle.jpg,Result =,OF suspension.dat,Time Taken =,107293
+Glycomet gp 1 Angle.jpg,Result =,Pediflor.dat,Time Taken =,93244
+Glycomet gp 2 Angle.jpg,Result =,Relaxyl gel.dat,Time Taken =,121812
+Glyp TEN Angle.jpg,Result =,Pediflor.dat,Time Taken =,55431
+Grilinctus BM Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,54338
+Happi Angle.jpg,Result =,nise gel.dat,Time Taken =,153833
+Happi D Angle.jpg,Result =,Senquel F.dat,Time Taken =,166327
+Hemogold Angle.jpg,Result =,OMEZ.dat,Time Taken =,47506
+Herfem Angle.jpg,Result =,Doxolin 200.dat,Time Taken =,40703
+hqtor angle.png,Result =,Stolin R.dat,Time Taken =,108331
+Hydroheal am Angle.jpg,Result =,Naturogest 300.dat,Time Taken =,47300
+Hyocimar s CR Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,90069
+Hyocimax S Angle.jpg,Result =,OMEZ.dat,Time Taken =,123801
+Ibuclin P Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,133434
+Izra 20 Angle.jpg,Result =,OMEZ.dat,Time Taken =,154999
+Jalra 50 Angle.jpg,Result =,Senquel F.dat,Time Taken =,73734
+Jalra M 50 Angle.jpg,Result =,Rantac Inject.dat,Time Taken =,85432
+Juliana Angle.jpg,Result =,Losar A.dat,Time Taken =,27602
+Ketorol Angle.jpg,Result =,Medomol 300.dat,Time Taken =,64176
+Ketorol DT angle.jpg,Result =,OF suspension.dat,Time Taken =,60169
+lamitor dt 25 angle.png,Result =,Servil.dat,Time Taken =,121688
+lamitor dt 50 angle.png,Result =,Pediflor.dat,Time Taken =,131362
+Le Zyncet Angle.jpg,Result =,Pediflor.dat,Time Taken =,71804
+lefra 10 angle.png,Result =,OF suspension.dat,Time Taken =,102860
+lefra 20 angle.png,Result =,Stolin R.dat,Time Taken =,173909
+Leon 500 Angle.jpg,Result =,Pediflor.dat,Time Taken =,70728
+Libtone Forte Angle.jpg,Result =,Rantac Inject.dat,Time Taken =,95997
+Lipcard Angle.jpg,Result =,Pediflor.dat,Time Taken =,85876
+Lipicard 160 Angle.jpg,Result =,Covance D.dat,Time Taken =,96216
+Lipicard AV Angle.jpg,Result =,nise gel.dat,Time Taken =,141551
+Listerine Angle.jpg,Result =,Proluton depot.dat,Time Taken =,45828
+listril 5 angle.png,Result =,Medomol 300.dat,Time Taken =,110311
+lopamide angle.png,Result =,Crixan gel.dat,Time Taken =,98248
+Loram 5 Angle.jpg,Result =,Senquel F.dat,Time Taken =,184832
+lorvas angle.png,Result =,OF suspension.dat,Time Taken =,98810
+Losar 25 Angle.jpg,Result =,OMEZ.dat,Time Taken =,97968
+Losar A Angle.jpg,Result =,Pediflor.dat,Time Taken =,93273
+Losar Beta Angle.jpg,Result =,Pediflor.dat,Time Taken =,118334
+Losar H Angle.jpg,Result =,OMEZ.dat,Time Taken =,99957
+Mashyne 1000 Angle.jpg,Result =,Teneza.dat,Time Taken =,127485
+Medle Angle.jpg,Result =,Doxolin.dat,Time Taken =,53501
+Medler plus Angle.jpg,Result =,Stolin R.dat,Time Taken =,38831
+Medomol 300 Angle.png,Result =,Medomol 300.dat,Time Taken =,76724
+Medomol 500 Angle.png,Result =,Senquel F.dat,Time Taken =,101523
+Medomol 650 Angle.jpg,Result =,Pediflor.dat,Time Taken =,79572
+Megatrum Angle.jpg,Result =,Tuka 05.dat,Time Taken =,35483
+Melancoyl Angle.jpg,Result =,Crixan gel.dat,Time Taken =,39456
+Melanocyl oint Angle.jpg,Result =,Luciara cream.dat,Time Taken =,46382
+Melanocyl Tab Angle.jpg,Result =,Triben CN.dat,Time Taken =,59318
+Meprocin Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,57045
+Meprocin syrp Angle.jpg,Result =,Senquel F.dat,Time Taken =,40129
+Metocard XL 50 Angle.png,Result =,Naturgest AQ25.dat,Time Taken =,100568
+Metorgyl Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,39111
+Metrodif MPS Angle.jpg,Result =,Luciara cream.dat,Time Taken =,59538
+metsmall 500 Angle.jpg,Result =,Servil.dat,Time Taken =,85168
+Metzok 25 Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,61853
+miliana Angle.jpg,Result =,OF suspension.dat,Time Taken =,42939
+Minoz bpo Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,38206
+Mintop 10 Angle.jpg,Result =,Carbatol cr 400.dat,Time Taken =,41775
+Mobizox Angle.jpg,Result =,OMEZ.dat,Time Taken =,113975
+Modlip 10 Angle.png,Result =,Pediflor.dat,Time Taken =,82909
+Modlip asg 75 angle.png,Result =,Naturgest AQ25.dat,Time Taken =,170189
+Moisturex Angle.jpg,Result =,Pediflor.dat,Time Taken =,30454
+Moisturex soft Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,40120
+Naturogest 200 ANgle.jpg,Result =,Pediflor.dat,Time Taken =,114127
+Naturogest 300 Angle.jpg,Result =,Pediflor.dat,Time Taken =,100869
+Naturogest AQ 25 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,41536
+Naturogest SR 200 Angle.jpg,Result =,Pediflor.dat,Time Taken =,99951
+Natvie Angle.jpg,Result =,OMEZ.dat,Time Taken =,42620
+Nebicard 25 Angle.png,Result =,OF suspension.dat,Time Taken =,130217
+Nebicard SM Angle.png,Result =,OMEZ.dat,Time Taken =,130213
+Neotomic Enema Angle.jpg,Result =,Luciara cream.dat,Time Taken =,47240
+Nervijen D Angle.jpg,Result =,nise gel.dat,Time Taken =,80567
+Nervijen Inject Angle.jpg,Result =,Dexorange.dat,Time Taken =,43508
+Nervijen P Angle.jpg,Result =,OF suspension.dat,Time Taken =,89514
+Nervijen plus Angle.jpg,Result =,Doxolin.dat,Time Taken =,45294
+Nervijen XT Angle.jpg,Result =,OMEZ.dat,Time Taken =,56471
+Nexpro 40 Angle.png,Result =,OF suspension.dat,Time Taken =,107769
+Nexpro Fast 20 Angle.png,Result =,Glycomet gp 1.dat,Time Taken =,140875
+Nexpro RD 20 Angle.png,Result =,Pediflor.dat,Time Taken =,115456
+Nexpro RD 40 Angle.png,Result =,Crixan gel.dat,Time Taken =,138474
+Nexxpro 20 Angle.png,Result =,Rantac Inject.dat,Time Taken =,133497
+Nicardia CD Retard 30 angle.jpg,Result =,Losar A.dat,Time Taken =,122795
+Nicardia Retard 10 Angle.jpg,Result =,Pediflor.dat,Time Taken =,111171
+Nimodip Angle.jpg,Result =,Luciara cream.dat,Time Taken =,110476
+Nise gel Angle.jpg,Result =,Senquel F.dat,Time Taken =,53790
+nor metrogyl plus Angle.jpg,Result =,Senquel F.dat,Time Taken =,105014
+Odimont LC Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,96221
+Odimont LC Angle.png,Result =,Rantac Inject.dat,Time Taken =,97358
+OF 200 Angle.jpg,Result =,Senquel F.dat,Time Taken =,181299
+Ojen 200 Angle.jpg,Result =,OMEZ.dat,Time Taken =,57884
+Olsar H 20 Angle.jpg,Result =,OF suspension.dat,Time Taken =,128250
+Omez 10 Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,122586
+Omez 40 Angle.jpg,Result =,Doxolin.dat,Time Taken =,46075
+Omez Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,45083
+omez caps Angle.jpg,Result =,OMEZ.dat,Time Taken =,89741
+Omez d Angle.jpg,Result =,nise gel.dat,Time Taken =,112113
+Omez ff 20 Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,51749
+Omez Insta Angle.jpg,Result =,Clodtel plus.dat,Time Taken =,32474
+Omnident Angle.jpg,Result =,Pediflor.dat,Time Taken =,73722
+One up gold D Angle.png,Result =,Naturgest AQ25.dat,Time Taken =,116358
+Orcibest Angle.jpg,Result =,Senquel F.dat,Time Taken =,102321
+Oxybuta Angle.jpg,Result =,Pediflor.dat,Time Taken =,98038
+P Cool Angle.jpg,Result =,Pediflor.dat,Time Taken =,54415
+Pecef 200 Angle.jpg,Result =,Senquel F.dat,Time Taken =,151442
+Pevesca plus Angle.jpg,Result =,powergesic plus gel.dat,Time Taken =,147953
+Pioz MFG 1 Angle.jpg,Result =,Olsar-H 20.dat,Time Taken =,94570
+Powergesic Angle.jpg,Result =,Pediflor.dat,Time Taken =,62167
+Powergesic gel Angle.jpg,Result =,Senquel F.dat,Time Taken =,39410
+Prax 10 Angle.png,Result =,Pediflor.dat,Time Taken =,71169
+Pregalin 75 Angle.png,Result =,Doxolin.dat,Time Taken =,154759
+Pregnedoxin Angle.jpg,Result =,Pediflor.dat,Time Taken =,72717
+Prexan Angle.png,Result =,Rantac Inject.dat,Time Taken =,134388
+Progynova 2mg Angle.jpg,Result =,Pediflor.dat,Time Taken =,103084
+Prolise Angle.jpg,Result =,Teneza.dat,Time Taken =,58087
+Proluton Depot Angle.jpg,Result =,Proluton depot.dat,Time Taken =,113724
+R bex Angle.jpg,Result =,OMEZ.dat,Time Taken =,44004
+Rantac 150 Angle.jpg,Result =,OF suspension.dat,Time Taken =,193652
+Rantac 300 Angle.jpg,Result =,Pediflor.dat,Time Taken =,218167
+Rantac Inject Angle.jpg,Result =,Luciara cream.dat,Time Taken =,103407
+Ranx 500 Angle.jpg,Result =,Stolin R.dat,Time Taken =,75092
+Reclide 40 Angle.jpg,Result =,Pediflor.dat,Time Taken =,146187
+Reclide Angle.jpg,Result =,OMEZ.dat,Time Taken =,161603
+Reclimet Angle.jpg,Result =,Triko 025.dat,Time Taken =,49582
+Redotil Angle.jpg,Result =,Pediflor.dat,Time Taken =,55362
+Regulate Angle.jpg,Result =,Senquel F.dat,Time Taken =,43090
+Relaxyl gel Angle.jpg,Result =,Doxolin.dat,Time Taken =,67859
+Relent Angle.jpg,Result =,Pediflor.dat,Time Taken =,64591
+Resophyl 150 Angle.jpg,Result =,Zoftadol plus.dat,Time Taken =,55642
+Resophyl 150 Tab Angle.jpg,Result =,Brakke.dat,Time Taken =,91958
+Resophyl Forte Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,105141
+Ret oz 60 Angle.jpg,Result =,Pediflor.dat,Time Taken =,68350
+RoseDay A 10 Angle.jpg,Result =,Triquilar.dat,Time Taken =,188814
+RoseDay f 10 Angle.jpg,Result =,Senquel F.dat,Time Taken =,141494
+Rozat 20 Angle.jpg,Result =,Senquel F.dat,Time Taken =,161373
+Rozat F Angle.jpg,Result =,Pediflor.dat,Time Taken =,148362
+Rozucor 5 Angle.png,Result =,OMEZ.dat,Time Taken =,122602
+Rozucor ASP 10 Angle.png,Result =,Stolin R.dat,Time Taken =,280452
+Servil Angle.jpg,Result =,Pediflor.dat,Time Taken =,54515
+Servil baby Angle.jpg,Result =,biminox lf.dat,Time Taken =,44587
+Sevista Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,171731
+Shelcal 250 ANgle.png,Result =,Pediflor.dat,Time Taken =,257908
+Shelcal 500 Angle.png,Result =,OMEZ.dat,Time Taken =,175995
+Shelcal HD 12 Angle.png,Result =,Triquilar.dat,Time Taken =,173939
+Shelcal M Angle.png,Result =,Pediflor.dat,Time Taken =,225548
+Shelcal os Angle.png,Result =,Senquel F.dat,Time Taken =,249586
+SHY Angle.jpg,Result =,Deriphyllin OD 450.dat,Time Taken =,101202
+SHY NM Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,94808
+Shy OR Angle.jpg,Result =,Senquel F.dat,Time Taken =,63832
+SHY XT Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,66466
+Siloderm Angle.jpg,Result =,Pediflor.dat,Time Taken =,81815
+Siloderm Mixi Angle.jpg,Result =,Stolin R.dat,Time Taken =,51011
+SkinLite Cream ANgle.jpg,Result =,metrogyl gel.dat,Time Taken =,83957
+Sporidex 125 Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,378338
+Sporidex 500 Angle.jpg,Result =,OF suspension.dat,Time Taken =,261051
+Sporidex Angle.jpg,Result =,Hyocimax.dat,Time Taken =,84951
+Sporidex drops Angle.jpg,Result =,Hyocimax S.dat,Time Taken =,72399
+Stamio Beta Angle.jpg,Result =,Pediflor.dat,Time Taken =,219699
+Stamla t Angle.jpg,Result =,nise gel.dat,Time Taken =,131552
+Stamlo 10 Angle.jpg,Result =,OMEZ.dat,Time Taken =,261516
+Stamlo 25 Angle.jpg,Result =,Pediflor.dat,Time Taken =,226388
+Stamlo T.jpg,Result =,Naturgest AQ25.dat,Time Taken =,170207
+Storvas 10 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,153357
+Storvas 20 Angle.jpg,Result =,Pediflor.dat,Time Taken =,203634
+Storvas 40 Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,256032
+Styptovit E Angle.jpg,Result =,OMEZ.dat,Time Taken =,179927
+Sudex AR Angle.jpg,Result =,Senquel F.dat,Time Taken =,59616
+Sudin cold Angle.jpg,Result =,Medomol 300.dat,Time Taken =,134683
+Sudin D Angle.jpg,Result =,Carbatol cr 400.dat,Time Taken =,78233
+Sulisert Angle.jpg,Result =,Luciara cream.dat,Time Taken =,166888
+Surfaz Angle.jpg,Result =,Pediflor.dat,Time Taken =,111149
+Surfaz sn ANgle.jpg,Result =,OMEZ.dat,Time Taken =,99299
+Tabi Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,51153
+Tazloc 10 Angle.jpg,Result =,Stolin R.dat,Time Taken =,201033
+Tazloc H Angle.jpg,Result =,Pediflor.dat,Time Taken =,246625
+Tazloc Trio 80 Angle.jpg,Result =,Pediflor.dat,Time Taken =,100883
+Teczine Angle.jpg,Result =,Medomol 300.dat,Time Taken =,114908
+Teczine M Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,250148
+Teldau 20 angle.jpg,Result =,Pediflor.dat,Time Taken =,171272
+Telday 40 Angle.jpg,Result =,OMEZ.dat,Time Taken =,295391
+Telday 80 H Angle.jpg,Result =,Pediflor.dat,Time Taken =,290803
+Telday AM ANgle .jpg,Result =,Triquilar.dat,Time Taken =,212066
+Telday H Angle.jpg,Result =,Crixan gel.dat,Time Taken =,263686
+Telsar 20 Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,335401
+Telsartan 40 Angle.jpg,Result =,OMEZ.dat,Time Taken =,173320
+Telsartan H Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,105141
+TG TOR 5 Angle.jpg,Result =,OF suspension.dat,Time Taken =,188007
+Tide 10 Angle.jpg,Result =,powergesic plus gel.dat,Time Taken =,240067
+Tide 20 Angle.jpg,Result =,Crixan gel.dat,Time Taken =,160809
+Tide 5 Angle.jpg,Result =,OMEZ.dat,Time Taken =,197033
+Tolol AM 50 Angle.jpg,Result =,Pediflor.dat,Time Taken =,200033
+Tolol XR 50 Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,252564
+Topcef 100 Dt Angle.jpg,Result =,Pediflor.dat,Time Taken =,274228
+Topcef 200 Angle.jpg,Result =,Senquel F.dat,Time Taken =,316674
+Topcef o 200 Angle.jpg,Result =,Stolin R.dat,Time Taken =,226553
+Topcid 40 Angle.jpg,Result =,Pediflor.dat,Time Taken =,211855
+torkast fx angle.png,Result =,Triquilar.dat,Time Taken =,389442
+Torleva 500 Angle.jpg,Result =,Pediflor.dat,Time Taken =,148904
+Tozaar 50 Angle.jpg,Result =,OMEZ.dat,Time Taken =,253544
+Tozaar H Angle.jpg,Result =,Pediflor.dat,Time Taken =,247797
+Triben B Angle.jpg,Result =,OMEZ.dat,Time Taken =,66210
+Triben plus Angle.jpg,Result =,Naturgest AQ25.dat,Time Taken =,65574
+Triglynase 1 Angle.jpg,Result =,Medomol 300.dat,Time Taken =,258023
+Triglynase 2 Angle.jpg,Result =,OF suspension.dat,Time Taken =,196391
+Triglynase 2 Forte Angle.jpg,Result =,OMEZ.dat,Time Taken =,195654
+TripleACal Angle.jpg,Result =,Medomol 300.dat,Time Taken =,130742
+Triquilar Angle.jpg,Result =,Triquilar.dat,Time Taken =,46935
+Tuka 05 ANgle.jpg,Result =,Pediflor.dat,Time Taken =,155720
+Unistar 75 Angle.jpg,Result =,Shy XT.dat,Time Taken =,273791
+Valparin 200 Angle.jpg,Result =,Senquel F.dat,Time Taken =,374696
+Valparin 200 syrp Angle.jpg,Result =,Sporidex.dat,Time Taken =,118173
+Valparin chrono 200 Angle.jpg,Result =,metrogyl gel.dat,Time Taken =,414176
+Valparin chrono 300 Angle.jpg,Result =,OMEZ.dat,Time Taken =,300125
+Veloz 20 Angle.jpg,Result =,OF suspension.dat,Time Taken =,261441
+Veloz l Angle.jpg,Result =,Pediflor.dat,Time Taken =,250501
+Veloz M Angle.jpg,Result =,Pediflor.dat,Time Taken =,200711
+Vibact Angle.jpg,Result =,Stolin R.dat,Time Taken =,178322
+Vibact DS Angle.jpg,Result =,OMEZ.dat,Time Taken =,206957
+Vibrania Angle.jpg,Result =,Crixan gel.dat,Time Taken =,150779
+Vizlac Angle.jpg,Result =,OMEZ.dat,Time Taken =,310454
+Vobose 0.2 Angle.jpg,Result =,Medomol 300.dat,Time Taken =,74903
+Vobose m 0.3 Angle.jpg,Result =,OMEZ.dat,Time Taken =,83729
+Voglitor MD 03 Angle.jpg,Result =,Pediflor.dat,Time Taken =,131320
+Voglitor Mf 03 ANgle.jpg,Result =,nise gel.dat,Time Taken =,194879
+volini angle.png,Result =,Senquel F.dat,Time Taken =,48969
+Xanilax SR 200 Angle.jpg,Result =,OMEZ.dat,Time Taken =,118793
+Xylomist p Angle.jpg,Result =,Glycomet gp 1.dat,Time Taken =,66545
+Yasmin Angle.jpg,Result =,yasmin.dat,Time Taken =,94578
+Zabesta AM Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,155235
+Zedott Angle.jpg,Result =,KETOROL DT.dat,Time Taken =,238690
+Zoftadol plus Angle.png,Result =,Naturgest AQ25.dat,Time Taken =,154720
+Zosta 10 Angle.jpg,Result =,Pediflor.dat,Time Taken =,134495

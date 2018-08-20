@@ -1,0 +1,380 @@
+Acegesic.png,Result =,Reclide 40.dat,Time Taken =,669769
+Ahaglow.jpg,Result =,Reclide 40.dat,Time Taken =,386747
+Alfoo.jpg,Result =,Reclide 40.dat,Time Taken =,425113
+Amflor.jpg,Result =,Reclide 40.dat,Time Taken =,318414
+Ampoxin 250.jpg,Result =,Reclide 40.dat,Time Taken =,343271
+Ampoxin 500.jpg,Result =,Reclide 40.dat,Time Taken =,386524
+Ampoxin kid.jpg,Result =,Reclide 40.dat,Time Taken =,455668
+Ampoxin.jpg,Result =,Reclide 40.dat,Time Taken =,355404
+Anabel  CT.jpg,Result =,Reclide 40.dat,Time Taken =,320042
+Anabel.jpg,Result =,Reclide 40.dat,Time Taken =,332614
+Angispan TR.jpg,Result =,Reclide 40.dat,Time Taken =,296302
+Anovate.jpg,Result =,Reclide 40.dat,Time Taken =,288301
+Antoxid.jpg,Result =,Reclide 40.dat,Time Taken =,320070
+Arkamin H.jpg,Result =,Reclide 40.dat,Time Taken =,345047
+Aroff SR.jpg,Result =,Reclide 40.dat,Time Taken =,346515
+Arumin gel.jpg,Result =,Reclide 40.dat,Time Taken =,334852
+Astharid Plus.jpg,Result =,Reclide 40.dat,Time Taken =,369417
+Astharid T.jpg,Result =,Reclide 40.dat,Time Taken =,365884
+Atocor 40.jpg,Result =,Reclide 40.dat,Time Taken =,322784
+Azulix 1 MF.png,Result =,Reclide 40.dat,Time Taken =,488270
+Azulix 1.png,Result =,Reclide 40.dat,Time Taken =,516885
+Azulix 2 MF.png,Result =,Reclide 40.dat,Time Taken =,480134
+Azulix 2.png,Result =,Reclide 40.dat,Time Taken =,9774862
+Azulix 3 MF.png,Result =,Reclide 40.dat,Time Taken =,414480
+Azulix 4 MF.png,Result =,Reclide 40.dat,Time Taken =,490720
+B Long.png,Result =,Reclide 40.dat,Time Taken =,529634
+Barbitoin.png,Result =,Reclide 40.dat,Time Taken =,448680
+Becozinc H.jpg,Result =,Reclide 40.dat,Time Taken =,425958
+BecoZinc.jpg,Result =,Reclide 40.dat,Time Taken =,358252
+Benadryl DR.jpg,Result =,Reclide 40.dat,Time Taken =,356989
+Beta Nicardia.jpg,Result =,Reclide 40.dat,Time Taken =,394201
+Betacard AM.png,Result =,Reclide 40.dat,Time Taken =,486275
+Biminox LF.jpg,Result =,Reclide 40.dat,Time Taken =,418971
+Brakke.jpg,Result =,Reclide 40.dat,Time Taken =,456571
+Bromex A.jpg,Result =,Reclide 40.dat,Time Taken =,477229
+C Toin 100.jpg,Result =,Reclide 40.dat,Time Taken =,412486
+Capnyl.jpg,Result =,Reclide 40.dat,Time Taken =,495199
+carbatol cr 200.png,Result =,Reclide 40.dat,Time Taken =,635064
+carbatol cr 400.png,Result =,Reclide 40.dat,Time Taken =,704478
+carnisure plus.png,Result =,Reclide 40.dat,Time Taken =,767759
+Carti Safe D.jpg,Result =,Reclide 40.dat,Time Taken =,575376
+Cartilite 750.jpg,Result =,Reclide 40.dat,Time Taken =,496862
+change.png,Result =,Reclide 40.dat,Time Taken =,693361
+Chymoral AP.png,Result =,Reclide 40.dat,Time Taken =,829155
+Chymoral Forte.png,Result =,Reclide 40.dat,Time Taken =,820539
+Chymoral plus.png,Result =,Reclide 40.dat,Time Taken =,863892
+CILACAR 10.jpg,Result =,Reclide 40.dat,Time Taken =,555831
+CILACAR 20.jpg,Result =,Reclide 40.dat,Time Taken =,635740
+CILACAR 5.jpg,Result =,Reclide 40.dat,Time Taken =,594625
+CILACAR.jpg,Result =,Reclide 40.dat,Time Taken =,545716
+Citralka.jpg,Result =,Reclide 40.dat,Time Taken =,426125
+Clamp 625.jpg,Result =,Reclide 40.dat,Time Taken =,605727
+Clodtel Plus.jpg,Result =,Reclide 40.dat,Time Taken =,549486
+Clotan.png,Result =,Reclide 40.dat,Time Taken =,675890
+Colgin.jpg,Result =,Reclide 40.dat,Time Taken =,685291
+Colicure syrup.jpg,Result =,Reclide 40.dat,Time Taken =,605815
+Colicure.jpg,Result =,Reclide 40.dat,Time Taken =,545799
+Combimist L (2).jpg,Result =,Reclide 40.dat,Time Taken =,668774
+Combimist l.jpg,Result =,Reclide 40.dat,Time Taken =,530537
+Complamina retard 500.jpg,Result =,Reclide 40.dat,Time Taken =,537478
+Complamina.jpg,Result =,Reclide 40.dat,Time Taken =,418382
+Corbis 5.jpg,Result =,Reclide 40.dat,Time Taken =,531838
+cordarone x.png,Result =,Reclide 40.dat,Time Taken =,712738
+cordarone.png,Result =,Reclide 40.dat,Time Taken =,771864
+Corvadil A.jpg,Result =,Reclide 40.dat,Time Taken =,545337
+covance at.jpg,Result =,Reclide 40.dat,Time Taken =,694622
+Covance D.jpg,Result =,Reclide 40.dat,Time Taken =,515054
+Crixan gel.jpg,Result =,Reclide 40.dat,Time Taken =,451289
+Crolim power ointment.jpg,Result =,Reclide 40.dat,Time Taken =,521201
+Cyclenorm P.jpg,Result =,Reclide 40.dat,Time Taken =,636968
+deplatt a 150.png,Result =,Reclide 40.dat,Time Taken =,685248
+deplatt a 75.png,Result =,Reclide 40.dat,Time Taken =,799971
+deplatt cv 20.png,Result =,Reclide 40.dat,Time Taken =,862805
+deplatt.png,Result =,Reclide 40.dat,Time Taken =,793241
+Deriphyllin M.jpg,Result =,Reclide 40.dat,Time Taken =,671507
+Deriphyllin OD 300.jpg,Result =,Reclide 40.dat,Time Taken =,465575
+Deriphyllin OD 450.jpg,Result =,Reclide 40.dat,Time Taken =,460300
+Deriphyllin retard 150.jpg,Result =,Reclide 40.dat,Time Taken =,540066
+Derisone l.png,Result =,Reclide 40.dat,Time Taken =,722408
+Dexorange.jpg,Result =,Reclide 40.dat,Time Taken =,506192
+Diane 35.jpg,Result =,Reclide 40.dat,Time Taken =,456967
+Diataal D.jpg,Result =,Reclide 40.dat,Time Taken =,595805
+Diataal.jpg,Result =,Reclide 40.dat,Time Taken =,686589
+Diavit plus.jpg,Result =,Reclide 40.dat,Time Taken =,484014
+dibeta gb.png,Result =,Reclide 40.dat,Time Taken =,740841
+diclogesic rr injection.png,Result =,Reclide 40.dat,Time Taken =,856993
+diclogesic sp.png,Result =,Reclide 40.dat,Time Taken =,700074
+diclogesic.png,Result =,Reclide 40.dat,Time Taken =,614458
+DICLORAN A.jpg,Result =,Reclide 40.dat,Time Taken =,724362
+Diprovate plus.jpg,Result =,Reclide 40.dat,Time Taken =,459315
+Domstal Baby.jpg,Result =,Reclide 40.dat,Time Taken =,428454
+domstal dt.png,Result =,Reclide 40.dat,Time Taken =,720873
+Domstal O.png,Result =,Reclide 40.dat,Time Taken =,658503
+Domstal RD.png,Result =,Reclide 40.dat,Time Taken =,775055
+Domstal.jpg,Result =,Reclide 40.dat,Time Taken =,552143
+Doxolin.jpg,Result =,Reclide 40.dat,Time Taken =,564592
+DOXT SL.jpg,Result =,Reclide 40.dat,Time Taken =,640925
+Drego D.jpg,Result =,Reclide 40.dat,Time Taken =,523493
+Droxyl 250 DT.png,Result =,Reclide 40.dat,Time Taken =,634301
+Droxyl 500.png,Result =,Reclide 40.dat,Time Taken =,764183
+Droxyl Clav 500.png,Result =,Reclide 40.dat,Time Taken =,794599
+Duoluton L.jpg,Result =,Reclide 40.dat,Time Taken =,346720
+Duotrol.jpg,Result =,Reclide 40.dat,Time Taken =,460996
+DutasT.jpg,Result =,Reclide 40.dat,Time Taken =,559545
+dycotiam.png,Result =,Reclide 40.dat,Time Taken =,623562
+Dynapres 04.jpg,Result =,Reclide 40.dat,Time Taken =,564583
+EcoSprin 75.jpg,Result =,Reclide 40.dat,Time Taken =,446656
+ecosprin AV 150.jpg,Result =,Reclide 40.dat,Time Taken =,597185
+Ecosprin av 150_20.jpg,Result =,Reclide 40.dat,Time Taken =,739146
+Ecosprin gold 20.jpg,Result =,Reclide 40.dat,Time Taken =,567334
+Elcure.jpg,Result =,Reclide 40.dat,Time Taken =,563096
+Emgard 60.jpg,Result =,Reclide 40.dat,Time Taken =,724632
+Emsolone 10.jpg,Result =,Reclide 40.dat,Time Taken =,751756
+Emsolone 5 DT.jpg,Result =,Reclide 40.dat,Time Taken =,377938
+EnaFix.jpg,Result =,Reclide 40.dat,Time Taken =,354846
+Enam 10.jpg,Result =,Reclide 40.dat,Time Taken =,548567
+Enam 25.jpg,Result =,Reclide 40.dat,Time Taken =,489234
+Erytop.jpg,Result =,Reclide 40.dat,Time Taken =,479390
+Euspas D.jpg,Result =,Reclide 40.dat,Time Taken =,448415
+Femovan.jpg,Result =,Reclide 40.dat,Time Taken =,383256
+Finehart.jpg,Result =,Reclide 40.dat,Time Taken =,437944
+Flavospas.png,Result =,Reclide 40.dat,Time Taken =,644180
+Folsafe L.jpg,Result =,Reclide 40.dat,Time Taken =,625236
+Formonide 100.jpg,Result =,Reclide 40.dat,Time Taken =,499692
+Formonide 200.jpg,Result =,Reclide 40.dat,Time Taken =,543250
+Formonide 400.jpg,Result =,Reclide 40.dat,Time Taken =,531265
+Gelusil original.png,Result =,Reclide 40.dat,Time Taken =,191463
+Gentalene.jpg,Result =,Reclide 40.dat,Time Taken =,367244
+Gerbisa tab.jpg,Result =,Reclide 40.dat,Time Taken =,456663
+Gerbisa.jpg,Result =,Reclide 40.dat,Time Taken =,452894
+GLA 120.jpg,Result =,Reclide 40.dat,Time Taken =,563336
+Glide TM.jpg,Result =,Reclide 40.dat,Time Taken =,424474
+Glimet DS.jpg,Result =,Reclide 40.dat,Time Taken =,527327
+Glimet.jpg,Result =,Reclide 40.dat,Time Taken =,487275
+Glimy 1.jpg,Result =,Reclide 40.dat,Time Taken =,463951
+Glimy M.jpg,Result =,Reclide 40.dat,Time Taken =,459778
+Globac XT.jpg,Result =,Reclide 40.dat,Time Taken =,608887
+Globac z.jpg,Result =,Reclide 40.dat,Time Taken =,483678
+Glodent.jpg,Result =,Reclide 40.dat,Time Taken =,460563
+Glucomet trio 2_0_0_3.jpg,Result =,Reclide 40.dat,Time Taken =,515145
+Glucotrol MF.jpg,Result =,Reclide 40.dat,Time Taken =,436751
+Glyciphage 850.jpg,Result =,Reclide 40.dat,Time Taken =,545118
+Glyciphage g1 forte.jpg,Result =,Reclide 40.dat,Time Taken =,511191
+Glyciphage g2 Forte.jpg,Result =,Reclide 40.dat,Time Taken =,486668
+Glyciphage g2.jpg,Result =,Reclide 40.dat,Time Taken =,447200
+Glyciphage PG2.jpg,Result =,Reclide 40.dat,Time Taken =,597598
+Glycomet 1 GM.jpg,Result =,Reclide 40.dat,Time Taken =,576598
+Glycomet 850 SR.jpg,Result =,Reclide 40.dat,Time Taken =,547277
+Glycomet 850.jpg,Result =,Reclide 40.dat,Time Taken =,514601
+Glycomet gp 0.5 forte.jpg,Result =,Reclide 40.dat,Time Taken =,601103
+Glycomet gp 1.jpg,Result =,Reclide 40.dat,Time Taken =,581207
+Glycomet gp 2.jpg,Result =,Reclide 40.dat,Time Taken =,605226
+Glyp TEN.jpg,Result =,Reclide 40.dat,Time Taken =,441582
+Grilinctus BM syrp.jpg,Result =,Reclide 40.dat,Time Taken =,522220
+Happi D.jpg,Result =,Reclide 40.dat,Time Taken =,492931
+Happi.jpg,Result =,Reclide 40.dat,Time Taken =,504758
+Hemogold.jpg,Result =,Reclide 40.dat,Time Taken =,509363
+Herfem.jpg,Result =,Reclide 40.dat,Time Taken =,535673
+hqtor.png,Result =,Reclide 40.dat,Time Taken =,750716
+Hydroheal 15g.jpg,Result =,Reclide 40.dat,Time Taken =,435126
+Hyocimar s CR.jpg,Result =,Reclide 40.dat,Time Taken =,498185
+Hyocimax S.jpg,Result =,Reclide 40.dat,Time Taken =,495615
+IBUCLIN P.jpg,Result =,Reclide 40.dat,Time Taken =,681998
+Izra 20.jpg,Result =,Reclide 40.dat,Time Taken =,602120
+Jaira M.jpg,Result =,Reclide 40.dat,Time Taken =,497965
+Jalra 50.jpg,Result =,Reclide 40.dat,Time Taken =,502539
+Juliana.jpg,Result =,Reclide 40.dat,Time Taken =,415876
+Ketorol DT.jpg,Result =,Reclide 40.dat,Time Taken =,464933
+Ketorol.jpg,Result =,Reclide 40.dat,Time Taken =,533063
+lamitor dt 25.png,Result =,Reclide 40.dat,Time Taken =,769563
+lamitor dt 50.png,Result =,Reclide 40.dat,Time Taken =,658504
+Le Zyncet.jpg,Result =,Reclide 40.dat,Time Taken =,453337
+lefra 10.png,Result =,Reclide 40.dat,Time Taken =,687929
+lefra 20.png,Result =,Reclide 40.dat,Time Taken =,756341
+Leon 500.jpg,Result =,Reclide 40.dat,Time Taken =,480279
+Libitone Forte.jpg,Result =,Reclide 40.dat,Time Taken =,549568
+Lipicard 160.jpg,Result =,Reclide 40.dat,Time Taken =,724956
+Lipicard AV.jpg,Result =,Reclide 40.dat,Time Taken =,732769
+Lipicard.jpg,Result =,Reclide 40.dat,Time Taken =,586455
+Listerine.jpg,Result =,Reclide 40.dat,Time Taken =,529745
+listril 5.png,Result =,Reclide 40.dat,Time Taken =,765791
+lopamide.png,Result =,Reclide 40.dat,Time Taken =,732634
+Loram 5.jpg,Result =,Reclide 40.dat,Time Taken =,465218
+lorvas.png,Result =,Reclide 40.dat,Time Taken =,692268
+Losar 25.jpg,Result =,Reclide 40.dat,Time Taken =,645453
+Losar A.jpg,Result =,Reclide 40.dat,Time Taken =,565544
+Losar Beta.jpg,Result =,Reclide 40.dat,Time Taken =,609532
+Losar H.jpg,Result =,Reclide 40.dat,Time Taken =,541171
+Mashyne 1000.jpg,Result =,Reclide 40.dat,Time Taken =,645888
+Medler plus.jpg,Result =,Reclide 40.dat,Time Taken =,583248
+Medler.jpg,Result =,Reclide 40.dat,Time Taken =,532749
+Medomol 300.png,Result =,Reclide 40.dat,Time Taken =,811964
+Medomol 500.png,Result =,Reclide 40.dat,Time Taken =,859325
+Medomol 650.jpg,Result =,Reclide 40.dat,Time Taken =,798798
+Megatrum.jpg,Result =,Reclide 40.dat,Time Taken =,417361
+Melanocyl ointment.jpg,Result =,Reclide 40.dat,Time Taken =,538628
+Melanocyl sol.jpg,Result =,Reclide 40.dat,Time Taken =,526170
+Melanocyl tab.jpg,Result =,Reclide 40.dat,Time Taken =,530483
+Meprocin syrp.jpg,Result =,Reclide 40.dat,Time Taken =,475296
+Meprocin.jpg,Result =,Reclide 40.dat,Time Taken =,507366
+Metocard XL 50.png,Result =,Reclide 40.dat,Time Taken =,649734
+Metorgyl gel.jpg,Result =,Reclide 40.dat,Time Taken =,340987
+MetorGyl P.jpg,Result =,Reclide 40.dat,Time Taken =,353896
+Metrodif MPS tab.jpg,Result =,Reclide 40.dat,Time Taken =,579228
+metsmall 500.jpg,Result =,Reclide 40.dat,Time Taken =,516331
+Metzok 25.jpg,Result =,Reclide 40.dat,Time Taken =,434403
+miliana.jpg,Result =,Reclide 40.dat,Time Taken =,451263
+Minoz bpo.jpg,Result =,Reclide 40.dat,Time Taken =,477245
+Mintop 10.jpg,Result =,Reclide 40.dat,Time Taken =,821711
+Mobizox.jpg,Result =,Reclide 40.dat,Time Taken =,573677
+Modlip 10.png,Result =,Reclide 40.dat,Time Taken =,704677
+Modlip asg 75.png,Result =,Reclide 40.dat,Time Taken =,679769
+Moisturex soft.jpg,Result =,Reclide 40.dat,Time Taken =,487838
+Moisturex.jpg,Result =,Reclide 40.dat,Time Taken =,436242
+Mucolite.jpg,Result =,Reclide 40.dat,Time Taken =,509874
+Naturogest 200.jpg,Result =,Reclide 40.dat,Time Taken =,566249
+Naturogest 300.jpg,Result =,Reclide 40.dat,Time Taken =,518478
+Naturogest AQ 25.jpg,Result =,Reclide 40.dat,Time Taken =,391218
+Naturogest SR 200.jpg,Result =,Reclide 40.dat,Time Taken =,565494
+Natvie.jpg,Result =,Reclide 40.dat,Time Taken =,488606
+Nebicard 25.png,Result =,Reclide 40.dat,Time Taken =,766705
+Nebicard SM.png,Result =,Reclide 40.dat,Time Taken =,748055
+Neotomic Enema.jpg,Result =,Reclide 40.dat,Time Taken =,467507
+Nervijen 2ml.jpg,Result =,Reclide 40.dat,Time Taken =,417145
+Nervijen D.jpg,Result =,Reclide 40.dat,Time Taken =,472107
+Nervijen P.jpg,Result =,Reclide 40.dat,Time Taken =,583617
+Nervijen XT.jpg,Result =,Reclide 40.dat,Time Taken =,500612
+Nervijen.jpg,Result =,Reclide 40.dat,Time Taken =,614553
+Nexpro 20.png,Result =,Reclide 40.dat,Time Taken =,737802
+Nexpro 40.png,Result =,Reclide 40.dat,Time Taken =,771334
+Nexpro Fast 20.png,Result =,Reclide 40.dat,Time Taken =,665888
+Nexpro RD 20.png,Result =,Reclide 40.dat,Time Taken =,693874
+Nexpro RD 40.png,Result =,Reclide 40.dat,Time Taken =,816091
+Nicardia CD retard - 30.jpg,Result =,Reclide 40.dat,Time Taken =,575289
+Nicardia retard 10.jpg,Result =,Reclide 40.dat,Time Taken =,702594
+Nimodip.jpg,Result =,Reclide 40.dat,Time Taken =,498949
+Nise gel.jpg,Result =,Reclide 40.dat,Time Taken =,471964
+Nise.jpg,Result =,Reclide 40.dat,Time Taken =,520771
+Nor-metrogyl plus.jpg,Result =,Reclide 40.dat,Time Taken =,644538
+Odimont LC.png,Result =,Reclide 40.dat,Time Taken =,816526
+OF 200.jpg,Result =,Reclide 40.dat,Time Taken =,665267
+Ojen 200.jpg,Result =,Reclide 40.dat,Time Taken =,565295
+Olsar H 20.jpg,Result =,Reclide 40.dat,Time Taken =,619943
+Omez 10.jpg,Result =,Reclide 40.dat,Time Taken =,534236
+Omez 40.jpg,Result =,Reclide 40.dat,Time Taken =,512526
+Omez caps.jpg,Result =,Reclide 40.dat,Time Taken =,548681
+Omez D.jpg,Result =,Reclide 40.dat,Time Taken =,620632
+Omez FF 20.jpg,Result =,Reclide 40.dat,Time Taken =,417302
+Omez inj.jpg,Result =,Reclide 40.dat,Time Taken =,526412
+Omez.jpg,Result =,Reclide 40.dat,Time Taken =,392899
+Omnident.jpg,Result =,Reclide 40.dat,Time Taken =,523676
+One up gold D.png,Result =,Reclide 40.dat,Time Taken =,736900
+Orcibest.jpg,Result =,Reclide 40.dat,Time Taken =,452321
+Oxybuta.jpg,Result =,Reclide 40.dat,Time Taken =,860229
+P Cool.jpg,Result =,Reclide 40.dat,Time Taken =,515136
+Pecef 200.jpg,Result =,Reclide 40.dat,Time Taken =,610490
+Pevesca plus.jpg,Result =,Reclide 40.dat,Time Taken =,738246
+Pioz MFG 1.jpg,Result =,Reclide 40.dat,Time Taken =,712024
+Powergesic plus gel.jpg,Result =,Reclide 40.dat,Time Taken =,446771
+Powergesic.jpg,Result =,Reclide 40.dat,Time Taken =,499875
+Prax 10.png,Result =,Reclide 40.dat,Time Taken =,668638
+Pregalin 75.png,Result =,Reclide 40.dat,Time Taken =,878587
+PregnidoxinNU.jpg,Result =,Reclide 40.dat,Time Taken =,599349
+Prexan.png,Result =,Reclide 40.dat,Time Taken =,698846
+Progynova 2mg.jpg,Result =,Reclide 40.dat,Time Taken =,484799
+proliser.jpg,Result =,Reclide 40.dat,Time Taken =,514839
+Proluton Depot.jpg,Result =,Reclide 40.dat,Time Taken =,533851
+R bex.jpg,Result =,Reclide 40.dat,Time Taken =,495751
+Rantac 150.jpg,Result =,Reclide 40.dat,Time Taken =,748856
+Rantac 300.jpg,Result =,Reclide 40.dat,Time Taken =,702702
+Rantac Inject.jpg,Result =,Reclide 40.dat,Time Taken =,518443
+Ranx 500.jpg,Result =,Reclide 40.dat,Time Taken =,541863
+Reclide 40.jpg,Result =,Reclide 40.dat,Time Taken =,585423
+Reclide.jpg,Result =,Reclide 40.dat,Time Taken =,616089
+Reclimet.jpg,Result =,Reclide 40.dat,Time Taken =,464206
+Redotil.jpg,Result =,Reclide 40.dat,Time Taken =,543478
+Regulate.jpg,Result =,Reclide 40.dat,Time Taken =,453942
+Relaxyl gel.jpg,Result =,Reclide 40.dat,Time Taken =,582556
+Relent.jpg,Result =,Reclide 40.dat,Time Taken =,443276
+Resophyl 150.jpg,Result =,Reclide 40.dat,Time Taken =,513354
+Resophyl Forte.jpg,Result =,Reclide 40.dat,Time Taken =,639033
+RetOZ 60.jpg,Result =,Reclide 40.dat,Time Taken =,437838
+RoseDay A 10.jpg,Result =,Reclide 40.dat,Time Taken =,576856
+RoseDay f 10.jpg,Result =,Reclide 40.dat,Time Taken =,525817
+Rozat 20.jpg,Result =,Reclide 40.dat,Time Taken =,612324
+Rozucor 5.png,Result =,Reclide 40.dat,Time Taken =,669345
+Rozucor ASP 10.png,Result =,Reclide 40.dat,Time Taken =,859176
+Servil baby.jpg,Result =,Reclide 40.dat,Time Taken =,553733
+Servil.jpg,Result =,Reclide 40.dat,Time Taken =,566757
+Sevista.jpg,Result =,Reclide 40.dat,Time Taken =,552045
+Shelcal 250.png,Result =,Reclide 40.dat,Time Taken =,857013
+Shelcal 500.png,Result =,Reclide 40.dat,Time Taken =,868397
+Shelcal HD 12.png,Result =,Reclide 40.dat,Time Taken =,847858
+Shelcal M.png,Result =,Reclide 40.dat,Time Taken =,730938
+Shelcal os.png,Result =,Reclide 40.dat,Time Taken =,572480
+SHY NM.jpg,Result =,Reclide 40.dat,Time Taken =,630639
+Shy OR.jpg,Result =,Reclide 40.dat,Time Taken =,556791
+SHY XT.jpg,Result =,Reclide 40.dat,Time Taken =,454446
+SHY.jpg,Result =,Reclide 40.dat,Time Taken =,611002
+Siloderm Mixi.jpg,Result =,Reclide 40.dat,Time Taken =,467184
+Siloderm.jpg,Result =,Reclide 40.dat,Time Taken =,565611
+Skinlite.jpg,Result =,Reclide 40.dat,Time Taken =,400400
+Sporidex 125.jpg,Result =,Reclide 40.dat,Time Taken =,539007
+Sporidex 500.jpg,Result =,Reclide 40.dat,Time Taken =,617802
+Sporidex drops.jpg,Result =,Reclide 40.dat,Time Taken =,562672
+Sporidex.jpg,Result =,Reclide 40.dat,Time Taken =,582793
+Stamlo 10.jpg,Result =,Reclide 40.dat,Time Taken =,870228
+Stamlo 25.jpg,Result =,Reclide 40.dat,Time Taken =,528283
+Stamlo Beta.jpg,Result =,Reclide 40.dat,Time Taken =,558913
+Stamlo T.jpg,Result =,Reclide 40.dat,Time Taken =,540280
+Storvas 10.jpg,Result =,Reclide 40.dat,Time Taken =,612347
+Storvas 20.jpg,Result =,Reclide 40.dat,Time Taken =,639614
+Storvas 40.jpg,Result =,Reclide 40.dat,Time Taken =,642084
+Styptovit E.jpg,Result =,Reclide 40.dat,Time Taken =,509624
+Sudex AR.jpg,Result =,Reclide 40.dat,Time Taken =,577171
+Sudin cold.jpg,Result =,Reclide 40.dat,Time Taken =,784937
+Sudin D.jpg,Result =,Reclide 40.dat,Time Taken =,700439
+Sulisert.jpg,Result =,Reclide 40.dat,Time Taken =,447648
+Surfaz SN.jpg,Result =,Reclide 40.dat,Time Taken =,368815
+Surfaz.jpg,Result =,Reclide 40.dat,Time Taken =,407728
+Tabi.jpg,Result =,Reclide 40.dat,Time Taken =,355414
+Tazloc 40.jpg,Result =,Reclide 40.dat,Time Taken =,478276
+Tazloc H.jpg,Result =,Reclide 40.dat,Time Taken =,601568
+Tazloc Trio 80.jpg,Result =,Reclide 40.dat,Time Taken =,701732
+Teczine M.jpg,Result =,Reclide 40.dat,Time Taken =,760868
+Teczine.jpg,Result =,Reclide 40.dat,Time Taken =,444367
+Telday 20.jpg,Result =,Reclide 40.dat,Time Taken =,497624
+Telday 40.jpg,Result =,Reclide 40.dat,Time Taken =,468489
+Telday 80 H.jpg,Result =,Reclide 40.dat,Time Taken =,411527
+Telday AM.jpg,Result =,Reclide 40.dat,Time Taken =,497824
+Telday H.jpg,Result =,Reclide 40.dat,Time Taken =,501321
+Telsar 20.jpg,Result =,Reclide 40.dat,Time Taken =,438580
+Telsartan 40.jpg,Result =,Reclide 40.dat,Time Taken =,458147
+Telsartan H.jpg,Result =,Reclide 40.dat,Time Taken =,437774
+TG TOR 5.jpg,Result =,Reclide 40.dat,Time Taken =,478335
+Tide 10.jpg,Result =,Reclide 40.dat,Time Taken =,413796
+Tide 20.jpg,Result =,Reclide 40.dat,Time Taken =,493217
+Tide 5.jpg,Result =,Reclide 40.dat,Time Taken =,414745
+Tolol AM 50.jpg,Result =,Reclide 40.dat,Time Taken =,461143
+Tolol XR 50.jpg,Result =,Reclide 40.dat,Time Taken =,481059
+Topcef 100 Dt.jpg,Result =,Reclide 40.dat,Time Taken =,491865
+Topcef 200.jpg,Result =,Reclide 40.dat,Time Taken =,470008
+Topcef o 200.jpg,Result =,Reclide 40.dat,Time Taken =,442805
+Topcid 40.jpg,Result =,Reclide 40.dat,Time Taken =,429270
+torkast fx.png,Result =,Reclide 40.dat,Time Taken =,581114
+Torleva 500.jpg,Result =,Reclide 40.dat,Time Taken =,466295
+Tozaar 50.jpg,Result =,Reclide 40.dat,Time Taken =,454126
+Tozaar H.jpg,Result =,Reclide 40.dat,Time Taken =,577528
+Triben B.jpg,Result =,Reclide 40.dat,Time Taken =,353601
+Triben plus.jpg,Result =,Reclide 40.dat,Time Taken =,325558
+Triglynase 1.jpg,Result =,Reclide 40.dat,Time Taken =,524391
+Triglynase 2 Forte.jpg,Result =,Reclide 40.dat,Time Taken =,542600
+Triglynase 2.jpg,Result =,Reclide 40.dat,Time Taken =,642885
+TripleACal.jpg,Result =,Reclide 40.dat,Time Taken =,429674
+Triquilar.jpg,Result =,Reclide 40.dat,Time Taken =,313805
+Tuka 05.jpg,Result =,Reclide 40.dat,Time Taken =,401308
+Unistar 75.jpg,Result =,Reclide 40.dat,Time Taken =,426556
+Valparin 200 syrp.jpg,Result =,Reclide 40.dat,Time Taken =,485065
+Valparin 200.jpg,Result =,Reclide 40.dat,Time Taken =,587151
+Valparin chrono 200.jpg,Result =,Reclide 40.dat,Time Taken =,617220
+Valparin chrono 300.jpg,Result =,Reclide 40.dat,Time Taken =,507621
+Veloz 20.jpg,Result =,Reclide 40.dat,Time Taken =,528111
+Veloz L.jpg,Result =,Reclide 40.dat,Time Taken =,472976
+Veloz M.jpg,Result =,Reclide 40.dat,Time Taken =,483435
+Vibact DS.jpg,Result =,Reclide 40.dat,Time Taken =,518994
+Vibact.jpg,Result =,Reclide 40.dat,Time Taken =,561518
+Vibrania.jpg,Result =,Reclide 40.dat,Time Taken =,477472
+Vizlac.jpg,Result =,Reclide 40.dat,Time Taken =,581774
+Vobose 02.jpg,Result =,Reclide 40.dat,Time Taken =,463754
+Vobose m 03.jpg,Result =,Reclide 40.dat,Time Taken =,447595
+Voglitor MD 03.jpg,Result =,Reclide 40.dat,Time Taken =,445930
+Voglitor Mf 03.jpg,Result =,Reclide 40.dat,Time Taken =,470394
+volini.png,Result =,Reclide 40.dat,Time Taken =,595154
+Xanilax SR 200.jpg,Result =,Reclide 40.dat,Time Taken =,492982
+Xylomist p.jpg,Result =,Reclide 40.dat,Time Taken =,355185
+Yasmin.jpg,Result =,Reclide 40.dat,Time Taken =,372877
+Zabesta AM.jpg,Result =,Reclide 40.dat,Time Taken =,410238
+Zaftadol plus.jpg,Result =,Reclide 40.dat,Time Taken =,393116
+Zedott.jpg,Result =,Reclide 40.dat,Time Taken =,411572
+Zosta 10.jpg,Result =,Reclide 40.dat,Time Taken =,394165
